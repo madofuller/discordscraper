@@ -1,0 +1,1131 @@
+========================================================================================================================
+DTAO LEARNING RESOURCE LANDSCAPE - TIMELINE & GAP ANALYSIS
+Bittensor Community Analysis: April 2024 - October 2025
+========================================================================================================================
+
+========================================================================================================================
+TIMELINE OF CONFUSION VS RESOURCES (2024-2025)
+========================================================================================================================
+
+Month        | Confusion | Resources | Requests | Ratio (Confusion/Resources)
+------------------------------------------------------------------------------------------------------------------------
+2024-04      |        32 |        12 |      104 | 2.67
+
+  Key concerns in 2024-04:
+  - [striker8694] Not sure how you can tell how my arguments dont make sense
+  - [striker8694] But if the argument is ‘i believe in free markets where manipulation is fine and dilution happens to every currency’ not sure how any of the arguments made against it can be meaningful
+  - [striker8694] Thats unclear
+  - [striker8694] Not sure how that works in practice if you dont simultaneously add liq when emitting based on pool value
+  - [_jpmf_] not sure where that came from
+
+2024-05      |        14 |        11 |       44 | 1.27
+2024-06      |         9 |         2 |       31 | 4.50
+2024-07      |         5 |        20 |       34 | 0.25
+2024-08      |        41 |        12 |      147 | 3.42
+
+  Key concerns in 2024-08:
+  - [_jpmf_] I'm not sure what it is you're asking. There are currently no subnet tokens, only TAO, so I think what you're asking for is impossible. Unless I'm misunderstanding.
+  - [_jpmf_] you were on the ban list (not sure why or by whom) but I revoked your ban there
+  - [xenox11] is running the current testnet similar to this? I would like to participate not sure of the hardware and other requirements
+  - [wejh] confused slightly here, there will be 7200*7 tao emitted on the testnet?
+  - [jbonilla_taoshiio] Sorry if it has been answered already but can someone please help me understand this sentence
+
+```This is because each Dynamic token has its own emission schedule, with 1 token minted every block into
+
+2024-09      |        34 |        19 |      112 | 1.79
+2024-10      |        24 |        13 |       98 | 1.85
+2025-01      |        72 |        44 |      331 | 1.64
+
+  Key concerns in 2025-01:
+  - [spacetime_tao] oh I'm not sure. I'm only good at thinking about this stuff conceptually 😄 I would ask const or someone else for the specifics. good question though
+  - [ashw_tao] according to https://docs.bittensor.com/dynamic-tao/dtao-guide#emissions and in the image, alpha tokens are sent to your selected validator's hotkey. So I'm not sure how this would work with a tao-evm
+  - [estatecat] > when the amount of tao in the pools is > than this "block difference" number, no tao emissions. and I'm assuming dtao emissions would operate the same. not sure though. that is a good question
+I'm a
+  - [estatecat] Right, but why is it necessary? It seems like its just decreasing incentive for an arbitrary length of time. Is it accomplishing something that I don't understand?
+  - [mcjkula] > I'm a bit confused here. How are miners/validators/owners incentivized if theres no emissions? 
+
+Owners could technically as well help their subnet through external revenue to upkeep and push their 
+
+2025-02      |       154 |        65 |      965 | 2.37
+2025-03      |        57 |        11 |      196 | 5.18
+2025-04      |        22 |        17 |       67 | 1.29
+
+  Key concerns in 2025-04:
+  - [t.slice] I'm wondering what's going to happen to emissions when these new subnets flick "go" with their HUGE prices — 83, 84, 85.
+
+Will their emissions go through the roof, and how quickly? My understanding is
+  - [pigeonsyndrome] ya not sure why tao5 not validating on targon
+
+```
+                                                   Subnet 4: Targon
+                                                   Network: finney
+
+ UID ┃ Stake 
+  - [cryptoking9081] I'm so confused
+  - [jack6752175] Lost the mnemonic phrase, only the document remains
+  - [formalised_tensor] looks dope tryin it out , although , not sure how that tech would work on bittesnor, and this post would probably go down better in general
+
+2025-05      |        33 |         9 |      102 | 3.67
+2025-06      |        17 |         6 |       77 | 2.83
+2025-07      |        33 |        14 |      235 | 2.36
+
+  Key concerns in 2025-07:
+  - [mcjkula] burning miner incentives should also burn the rest of inflation, I don't understand why validation is still worth 100%, when the miner's don't produce anything (there is almost nothing to validate)
+  - [markjeffrey] I think Const doesn't fully appreciate the confusion of an honest new outsider participant trying to boot up a legit subnet and Fred doesn't understand the underlying mechanisms and the 'why' behind c
+  - [froginvestoruk] Can anyone help me understand the how the root sell/buy pressure works when/if sum of subnets drops below 1? There seems to be a lot of myths floating around.
+
+My assumption:
+
+1. If sum of subnets dro
+  - [xam2210] Wow I saw these transactions on subnet 4. 
+Maybe its not a 0.3% fee, because 0.3% of 10 TAO is only 0.003 TAO.
+That wallet (5HNP bot) lost at least 0.015 TAO, even though it attacked a large transacti
+  - [froginvestoruk] The more Iearn the more I get confused 😂 
+
+Can you show me where I can see the alpha entering per day?
+
+2025-08      |        34 |         3 |      118 | 11.33
+2025-09      |         5 |         1 |       27 | 5.00
+2025-10      |         8 |         0 |       37 | N/A
+
+  Key concerns in 2025-10:
+  - [ch3rnobog] I still don't understand the reasoning to go from a burn to a lock to register a subnet. We are going to see some whale games unfold in the coming months since there is no risk to their TAO to registe
+  - [ch3rnobog] When dTAO launched subnet registration was a cost to owners not a lock. Which is why I don't understand why it reverted back to being a lock again.
+  - [simioape] I get why you don't understand this tho
+  - [p383_54249] how is this confusing
+  - [superhappychris] if the problem we're talking about is "Dead subnets that have a non zero price and take up a large portion of dtao emissions because of the fat tail of the price distribution" as const put it, i don't
+
+
+========================================================================================================================
+KEY INSIGHTS FROM TIMELINE
+========================================================================================================================
+
+Early Period Average Confusion (Apr-Jun 2024): 18 messages/month
+Late Period Average Confusion (Aug-Oct 2025): 16 messages/month
+Change: -14.5%
+
+
+========================================================================================================================
+USER PAIN POINTS - DIRECT QUOTES
+========================================================================================================================
+
+1. [2024-04] liquid7_i7j
+   "If unlimited slots means unlimited subnets, as we are supposed to be informed about the activity of each to know if we want to allocate stake to them, it becomes increasingly more difficult with time to decide where to stake. Imagine hundreds of SNs and potential projects. Thats untrackable"
+
+2. [2024-04] consttt
+   "It really comes down the following. 
+1. 50% of the stake weight in a subnet comes from global (i.e. people that are not invested in the ponzi)
+2. This means 50% of the validator consensus comes from from global (i.e. people that are not invested in the ponzi)
+3. This means 1) the owner cannot control which miners get the remaining 50% of inflation.
+4. and 2) atleast 25% (dividends) becomes sell pressure from people not invested in the ponzi. 
+
+In a normal token ponzi the supply is heavily reguat"
+
+3. [2024-04] consttt
+   "You're right. If very few people participate in the process then it makes it more and more difficult for us to avoid 51% attacks."
+
+4. [2024-04] bmmur
+   "any litepaper dtao upcoming update for non developer? very hard to understand honestly"
+
+5. [2024-04] consttt
+   "yes absolutely. These terms are both legally difficult and incorrect. You are performing a 'stake' operation with the added nature of that stake being that it can dynamically represent the originally staked TAO."
+
+6. [2024-04] spacetime_tao
+   "dtao is a great solution. we just need hands-on experience. the bit1 paper is very technical and conceptualizing it is difficult for most people"
+
+7. [2024-05] consttt
+   ">  Re difficulty of average user.
+For most users they can  1) apply a very simple S&P style index strategy across subnets which works because of the price rebalancing. 2) Stay in the root network and simply choose where to unstake from (zero loss). In both cases this is a net positive for Bittensor because we are leaving emission determinations to power users. This is a good thing."
+
+8. [2024-05] samwatanabe.
+   "Isn't it just pools people buy and sell into. Why is this such a difficult thing to implement and it's taking so long. Right now there is very little incentive for subnets to do any substantial work.
+
+Dtao will prompt value and work."
+
+9. [2024-06] ashw_tao
+   "This is not directly related to dao but its a question regarding Child hotkeys. 
+
+Larger valis delegating their stake to multiple keys/valis on a subnet will positively scale the subnet validation process. That being said, I see a chicken-egg problem. Assuming we want proliferation of validators to provide work on specific subnets, they still need to have a certain threshold of TAO to receive responses from miner servers. How do smaller valis come up with this amount? Or how do they earn the sta"
+
+10. [2024-08] kat_defiants
+   "Y'all are CRAZY.  Fun to watch, though, even if almost completely overwhelming. : )"
+
+11. [2024-08] ch3rnobog
+   "I'm having difficult time understanding why the need for dTAO over fixing or changing the way emissions are allocated in the current environment. 
+
+Does a decentralized ai marketplace need defi gamification? 
+
+If subnet owners negatively impact their subnets emissions by taking profits or paying expenses, salaries etc. how are they incentivized to build? 
+
+DTAO is certainly interesting and I see the appeal, but should it replace the current system or should it be its own platform? 
+
+As a subnet "
+
+12. [2024-09] fivebytes
+   "this also means you constantly have to keep tabs on the performance of the subnet(s) you participate in and this can become overwhelming"
+
+13. [2024-09] spacetime_tao
+   "yeah this is a valid concern. if a subnet team just stops posting updates one day, and you're not looking at that subnet & stake regularly, then you might end up getting burned. but I guess it wouldn't be that difficult if there was some kind of tracker or portal that would update you if the tao value becomes lower than your initial amount staked, or increases by x%. something like that"
+
+14. [2024-09] spacetime_tao
+   "no, not exactly cloning the emissions. that would be up to the participants in the test. but SN8 would still be the proprietary trading network, SN9 would still be pretraining, etc.
+
+and I think that at the end, the leaderboard should only be based on the swap value. so anything in the free balance isn't counted. everyone starts on root so this won't be an issue. 
+
+and it's still technically possible to rug by unstaking dtao and staking tao into sn0. but I expect it to be a little bit more diffi"
+
+15. [2024-10] pigeonsyndrome
+   "we also don't want to make this too complicated; it introduces more vulnerability"
+
+16. [2024-10] sol33333
+   "Sorry, you made it too complicated. I still don't understand what you mean. I'm not sure if it's related to my question. I just want to know the issuance model of dtao. Similar to the instructions of tao, one is issued for each block and distributed to the subnet pool according to the weight. This is very simple and easy to understand, isn't it?"
+
+17. [2025-01] spacetime_tao
+   "when dTAO launches, it will launch at a specific block. to keep it simple, I'll just use block 0.
+
+the new tao emissions rule: if the amount of tao staked to subnets (not including root) is less than the number of blocks produced since the launch of dTAO, then tao is emitted from the system. if this tao amount is greater than the block number however, then no tao is emitted.
+
+every day, 7200 blocks are produced. if the first day goes by and there's 5000 tao total in the pools (from a mix of stak"
+
+18. [2025-01] mcjkula
+   "> This has a larger potential return but with the important added risk of losing your entire funds if you're the last one to unstake. Basically this turns staking into a kind of trading. You need to be actively involved or else you might suffer large losses. I find it unethical to call it staking for that reason alone, regardless of what securities commissions would think of this.
+
+I've heard this critique many times, and it was shortly brought up here recently (https://discord.com/channels/7996"
+
+19. [2025-01] .marsdeep
+   "@consτ [τ, τ] , I don't think my suggested change would be difficult to implement. As you say you already do this for root. The only thing is that I think this should happen for subnets too since I it should be possible for a staker to show specific support for a subnet. I cannot do that when I stake to root. I also want to benefit if the subnet I'm staking too is doing better than others. I just think the exchange risk should not be for the staker, it should be for the miners/validators."
+
+20. [2025-01] _big_apple
+   "Is it difficult to explain the logic in one sentence here? 🙉"
+
+21. [2025-01] hamlet.001
+   "Ah I see. Just skimmed over the whitepaper for dTAO. (Side note to authors: the paper is somewhat difficult to understand. It could be helpful to provide more context, clarify key concepts, and write things more formally including precise definitions for variables like \dot{\tau} instead of just "Coinbase injection". Mathematical notation should also be standardized [e.g. P is used for both liquidity pool while \bar{P}i^{price} is 30-day moving average price] and should be defined somewhere rath"
+
+22. [2025-01] ch3rnobog
+   "Definitely agree. It's a huge change for everyone for sure. It would be a difficult pill to swallow for subnet owners when they entered knowing they would get all their locked TAO back then to have to burn 100 TAO to take an existing subnet into a fundamentally new system."
+
+23. [2025-01] nickh663
+   "Keeping the 18% in there makes it a more difficult decision even for low quality teams"
+
+24. [2025-01] crypt0grapher
+   "Thanks for the answer! Yeah, I understand it can feel overwhelming to "confirm" things while rao is in active development, but I would appreciate it if there is a design decision to share here"
+
+25. [2025-01] heyitm3
+   "Can one the easiest for stakers be default and you can "opt out of it" for the other option or too difficult to design?"
+
+26. [2025-01] rhef
+   "Lawyer reconfirms the classification
+
+> Dear Sir,
+> 
+> If the transfers remain in place, in my assessment, we are dealing with a crypto-asset as defined by MiCAR. This is because the token represents digital value, is transferable, and stored electronically, and the subnet owner, despite technical limitations, has a real influence on its operation. Attempting to present it solely as a technical tool seems like an artificial approach that should not affect its regulatory classification.
+> 
+> The "
+
+27. [2025-01] rahulkumaran
+   "What happens to validators on day 1 block 1 after dtao launch? There's not going to be any alpha out (was looking at the migrate_rao.rs file), and there's gonna be at the most 100 alpha in the pool if we go with the initial 100 alpha 100 tao liquidity (lesser if pools are initialized with 1 rao/1 alpha. And let's say the min alpha required to validate on a subnet is 50 or 75 or some of alpha - that might be extremely difficult for validators to acquire (because there'd be a decent slippage in th"
+
+28. [2025-01] rahulkumaran
+   "That was gonna be my next q, if it was gonna be a hyperparam, i.e. something that the sn owner can alter or a chain level thing. Thanks for sharing some info on that.
+
+But assuming it's 1000 ALPHA and not something owners can update, wouldn't it still be difficult for people to acquire that in the beginning considering there'd be many people trying to get into various subnets, which could result in alpha depleting, and therefore slippage hitting hard? What happens if a subnet is unable to get so"
+
+29. [2025-01] tww9
+   "So someone could theoretically (even if it's difficult and unlikely), monopolize a subnet and earn emissions forever?"
+
+30. [2025-01] spacetime_tao
+   "if the subnet wants funding, then they'll want people to buy the token, as that increases the price and emissions. the market is there to determine the price via staking & unstaking operations. and then the system works to stabilize the price, by adjusting the amount of alpha that flows into the pool.
+
+it would be harder to attract funding if every alpha token went straight to the participants. you would have liquidity issues for each subnet pool. also, I think it would be easier for people to s"
+
+
+========================================================================================================================
+VISUAL REQUESTS - WHAT USERS WANT
+========================================================================================================================
+
+1. [2024-04] dea9_
+   "A short video with illustrations would probably be a much clearer way to present this information. Looking forward to the testing."
+
+2. [2024-05] johnvanliere
+   "some info on how to read the chart on `btcli st list ` would also be helpful! i know there are some instructions but it's not quite connecting for me"
+
+3. [2025-01] mcjkula
+   "People who stake to root are getting dividends from all subnets the validator is registered at, as the TAO staked to root is global.
+
+Now subnets only earn dividends in ALPHA, so to get TAO you will need to unstake the amount of ALPHA that is for the root stakers, which will add ALPHA to each subnet's pool and remove TAO, this inbalance will cause the prices to decrease, and it happens constantly.
+
+Over time the sell pressure will wear off, which was shown similarly in the chart shared in the NS"
+
+4. [2025-01] aluminum96
+   "You can fetch the data thru ‘sub.subnet’ and specify the block for which you want the data for. 
+
+This way you can get historical data and visualize however you want."
+
+5. [2025-01] kat_defiants
+   "Okay, I'll have to confirm with him.  it would be better to show these charts with equivalencies in TAO, not USD."
+
+6. [2025-01] davfields
+   "Can you add a TAO in / TAO emissions chart? Price really distorts the overall network impact of the rug pull. Want to see how much TAO was pulled out in aggregate"
+
+7. [2025-02] estatecat
+   "I have some sims set up but will need a bit to get real data. Should have charts on Monday. But if you constantly inject more tao into one pool than another pool, they have a massive advantage and more people want their alpha. Especially if that tao_in value changes incredibly slowly. 
+
+Even without the technicals, why would we prop up subnets when we're trying to transition to a free market?! Let the market play out"
+
+8. [2025-02] nooma42
+   "Is there any simulation code of this diagram? I have a different simulation and would like to know where could be wrong"
+
+9. [2025-02] nickh663
+   "It would be awesome if the front ends could chart sum of alpha prices over time"
+
+10. [2025-02] alexdrocks
+   "OK and why is root allowed to get the easy gains and the workers that believe in their subnet are holding? That's my fundamental question. There's no reasons for root network to print gains for stakers while workers can't sell since they want to protect their chart"
+
+11. [2025-02] superhappychris
+   "do you have a chart comparing price, ema price, and emissions handy? or even better some code to view it over time? would be interested in seeing how they all progress with time"
+
+12. [2025-02] thami1472
+   "a trading view chart would be wonderful"
+
+13. [2025-02] alexdrocks
+   "How can miners effectively MOVE stake while also changing coldkey??
+
+I want to move miner staked alpha to a holding wallet which is more secure without tanking the chart"
+
+14. [2025-02] _wctsq
+   "I think emission control is needed... I would actually state we need some quite advanced tooling (a comment I agree with from @Fish | lium.io is that he needs more granularity and control in ability to distribute emission, something @Arrash [τ, τ] has raised previously and we've looked at it.
+
+Maybe we need to collectively pull a scope document here to help OTF - @Striker has flagged some features (e.g. shift owner/miner %, but broadly I think we also need delay functionality and bounty type fun"
+
+15. [2025-02] mogmachine
+   "I know we love to bash the validators for doing nothing and we still can't forget they (mostly) didn't rise to the challenge of building in the post-finney era ... but when i look at the top valis I see:
+
++ Taostats - Vali emissions at current price doesn't cover cost or running team, it did a few weeks ago. that is a reality, my problem to solve as a business use case, but I hope we can agree that taostats provides some value.
+
++ OTF - Emissions also fund multiple teams and operations ... don't"
+
+16. [2025-03] flaegon
+   "experience was good overall, today wanted to stake to an SN and the SN page was not loading the chart, and wallet connect options. Till now I didn't encouter any issues with loading times and performance."
+
+17. [2025-03] cerealchair
+   "do you think it would make sense to add/visualize this data on a per subnet basis on taostats?"
+
+18. [2025-03] dougsillars
+   "The chart is exactly the same for all SNs - the only difference is the start data of the SN.  
+
+IMO A root/alpha percentage would be a useful value, but the chart isnt so helpful.  WDYT?"
+
+19. [2025-03] cerealchair
+   "ahh sorry i see what you mean. ya the curves/chart would be identical for every subnet, it's just a matter of where they are at on the curves. just having the percentage value on the subnet page would be great!"
+
+20. [2025-03] mcjkula
+   "> IMO A root/alpha percentage would be a useful value, but the chart isnt so helpful.  WDYT?
+
+The chart isn't really that necessary, or necessary enough to add to taostats, I would probably just show the current root proportion the subnet has (as this is the most relevant imo)"
+
+21. [2025-03] putsncalls24
+   "Nobody wants to trade/buy dtao if they see the chart of every subnet token"
+
+22. [2025-04] ag2903uk
+   "Some people feel that the Root decay schedule isn’t quick enough at it’s current pace and are asking for it to be changed to the chart Doug posted above with the drop off at the 90 day mark instead of the sweeping curve chart.
+I guess they feel that making Root less attractive will make people want to jump into Alpha more than the current uptake to date."
+
+23. [2025-06] mamslbb
+   "Yup I agree that the root prop "chart" has not the expected consequences so far, that's a point David (SN33) is pointing out for weeks now. Novelty Search about dTao as a whole has been asked, I would also like this being discussed in a NS and hear OTF and other actors about this."
+
+24. [2025-07] thsmnr_02462
+   "Dear Subnet Owners & Community Sorry for writing this long message but at this point I feel forced to
+ — Miner Emission Burns Are a Slippery Slope 
+
+Let's be real: if burning miner emissions increases your own rewards while filling your liquidity pool with more Tao, what's stopping every owner from doing it?
+
+It's the doping problem in sports — if one person cheats for better results, others feel forced to cheat just to keep up. In Bittensor, if one subnet burns emissions, others will follow, or"
+
+25. [2025-08] spacetime_tao
+   "~~there might need to be some kind of supply threshold to determine when a subnet can be deregistered
+
+right now, the subnet with the lowest price is sn126 tiger beta. registered on 23 jun 2025
+https://taostats.io/subnets/126/chart
+
+total issued: 49.96k alpha
+tao in pool: 12.64 tao
+price: 0.001287 tao per alpha
+
+however, immediately after we have sn71. registered on 03 mar 2025
+https://taostats.io/subnets/71/chart
+
+total issued: 1.84m alpha
+tao in pool: 606.91 tao
+price 0.001506 tao per alpha
+
+m"
+
+26. [2025-08] samsoum4193
+   "My sarcastic answer is if they bought at 0.3 TAO lol.
+
+But really, if a subnet is going to be deregistered, you need to assume the chart looks disgusting and has been down only. Most buyers will already be under water and down 90%"
+
+27. [2025-08] neihtmahp
+   "My take is that:
+
+1) innovation is not on hold currently. There are plenty of slots available to purchase in case teams want to innovate and build. 
+
+2) Look at 90% of the subnet charts - it continuously bleeds with low staking activity . A move (slowly but surely) from root to subnets is required. So root proportion must come down to also naturally push stakers to make that move and reward builders and teams.
+
+3) If we just keep adding new subnets, I understand it just adds to that root auto se"
+
+
+========================================================================================================================
+SIMPLE REQUESTS - WHAT USERS WANT
+========================================================================================================================
+
+1. [2024-04] _jpmf_
+   "which the current relatively simple system has struggled with already."
+
+2. [2024-04] _jpmf_
+   "this is sort of how delegate-staking works, right? holders delegate tokens to validators, who decide which subnet(s) on which to stake them? (Obviously a very simple version compared to what dTAO might require, but the principle is similar, right?)"
+
+3. [2024-04] tww9
+   "While I agree with some aspects of what he's saying, I don't think validators need to give 100% back to delegates to be a good validator. It's an insane amount of work to be a good proper validator and I would rather the validators be paid (take their share) and do a good job.  To do a good job and properly evaluate all the subnets, I don't think anyone would do that for free, that would basically be a full time job. What I think should happen is having more tools and platforms to help validator"
+
+4. [2024-04] consttt
+   "Yes, and we may make it even easier by defaulting this command for people and running it daily. However there are some concerns about timing"
+
+5. [2024-04] tungfa
+   "why i am asking … now around 85% (crazy high) TAO are staking , if we way overcomplicate the staking (using code as i video to stake to certain subnets , keeping an eye on it each day , being able to code …) we will lose a high % or stakers and eventually of holders . so i would keep it as simple as possible for the average holder / staker to make sure they do not get overwhelmed by this (and eventually sell) ✌️"
+
+6. [2024-04] tungfa
+   "whow ok
+now staking is done super simple (no coding needed), tbh i hope it stays “simple” to do these delegations as otherwise, big big problem for most of the community (incl myself)who are no computer experts and have no code ability (as shown in that video)"
+
+7. [2024-04] zanarkand_32747
+   "@tungfa The code is simple enough. "btcli stake weights --netuid 0,1,2,3,4 --weights 0.1, 0.5, 0.1, 0.1, 0.2" --> you just need to have the IDs for all the subnets and set the weights (all adding to 1). I assume we'll get a GUI version, too."
+
+8. [2024-04] zanarkand_32747
+   "I think it'd just be easier to just let people set the weights directly without the need for new tokens. Maybe that's not possible from a technical standpoint."
+
+9. [2024-04] tuta3689
+   "If you're looking for an ELI5, we just published this: https://twitter.com/mentatminds/status/1782403568932102591"
+
+10. [2024-04] shibshib
+   "i think it would make perfect sense to stay away from financial terms like "buy", "sell", "trade", etc. .. replace it with simpler terms like "acquire subtoken", "dispose subtoken", etc. it would go a long way legally speaking to separate dtao from being branded an 'unofficial exchange'."
+
+11. [2024-04] spacetime_tao
+   "there's a litepaper in the works by @Deleted User that should make it easier to understand. but yeah, going over the root network again would be helpful"
+
+12. [2024-04] shibshib
+   "dtao needs to be broken down more simply for users, after the demo on Thursday, we'll work on adding more and more demos to make things simpler"
+
+13. [2024-04] bitvanguard
+   "Can someone walk me through the process of staking 100 % with the root subnet (ELI5)? I stake x amount of TAO. I receive dTAO of all subnets that exist. I have to manually (?) unstake all of them and swap them for TAO to have all in TAO on a regular basis. Is that correct? I think Const mentioned a way of swapping all dTAO tokens for TAO in one go. Not sure though."
+
+14. [2024-05] consttt
+   ">  Re difficulty of average user.
+For most users they can  1) apply a very simple S&P style index strategy across subnets which works because of the price rebalancing. 2) Stay in the root network and simply choose where to unstake from (zero loss). In both cases this is a net positive for Bittensor because we are leaving emission determinations to power users. This is a good thing."
+
+15. [2024-05] pi7979.
+   "I hope there will be good standardized metrics captured across subnets. Based on my experience more information allows for better price efficency. The capital markets greatly benefit from SEC disclosure requirements. Investors have much easier time comparing securities and measuring relative performance. Having more information will hopefully mute the impact of "meme yolo fomo" guys by enabling smart money to be more efficient"
+
+16. [2024-05] adally.
+   "dtao draw a lot of parallels to open gov on polkadot. It allowed token holders to have a bigger say in Treasury spending ( I know emissions aren't a Treasury but both examples gave  holders more  influence over where future coins would go ). 
+
+Ultimately what happened with open gov was that it became easier to grift. People were asking to be paid 1000's of dot tokens for the simplest marketing tasks and bad actors could form pluralities and influence treasury spending.
+
+I think we might see a si"
+
+17. [2024-05] consttt
+   "It is just easier to say alpha-dao than alpha-dtao and it falls in line with our need to decentralize the ownership of the subtokens."
+
+18. [2024-05] _cxmplex
+   "For instance some validators offer bonuses and other perks to their delegators outside of the normal delegation mechanism, but I suppose they do this with their validator reward cut and add it on top of the existing delegation cut.
+
+but here's the issue I see. generally if you're investing in someone, they must be doing some sort of work with that money. They invest it, they use it to grow their company, etc. Lets even say something like ETH staking, you have chain based proof that work is being"
+
+19. [2024-06] spacetime_tao
+   "thought about this some more. I think it's a good way to frame it, but ultimately I don't think changing the terminology is worth the hassle. since the network itself is a marketplace for digital commodities, it's inherently economic. you can buy and sell the commodities (dtao), but it's all denominated in tao
+
+and plus these terms are already used officially 😁  https://bittensor.com/explained
+
+I still like the concept of viewing it as a rating system though, as that's essentially the idea. I th"
+
+20. [2024-06] anon_star
+   "I never said I don't want volatility, I have been in crypto for a long time so I am pretty used to it however the people who I assume we all want to come work and build subnet the "Yann Lecun's" of the world they are not big fans of crypto so I believe the ecosystem should be simple enough for them to come in and start building. They are leaving a job where they just come to work and get paid at the end of the month. But I am very open and interested in seeing what DTAO will bring obviously hope"
+
+21. [2024-06] momos6210
+   "Guys, please help me understand. If I understand correctly, in simple language dTao is intended to achieve the following: 1) rather than subjectively and / or through behind the door agreements with validators, Tao holders can quantitatively assign value to a subnet based on how much interest there is to own the subnet token (similar to share price of a corporation). This would enhance competition between subnets to create true value for the network. It could also encourage trade and efficient m"
+
+22. [2024-06] sand_gods
+   "For me, the subnet owner is the one who holds the most staked TAO in the subnet pool, not the validator to whom the TAO/DTAO is delegated. I believe it should stay this way. A validator should keep their primary role of validating, which is why they are rewarded in the network. Otherwise, we risk falling into the same issues as today where validators are doing work that isn't their job. If there is a voting or delegation system for designating the subnet owner, it should happen separately. No tr"
+
+23. [2024-07] istirred
+   "Using an established SDK is great. Makes it easier to contribute to Bittensor.
+As long as the protocol can sustain the growth and efficiencies that the roadmap requires, it's great."
+
+24. [2024-07] mountain_179
+   "Perhaps it is time for bounty pots now? Both on subnet and main chain level? I know it may not have prevented this hack. But for business development purposes max exploiting bug is NOT in the benefit of the project.
+
+I proposed simple mechanism here:
+
+https://discord.com/channels/799672011265015819/1230665820859007039/1241826792252375061"
+
+25. [2024-07] tuta3689
+   "We published that back in april: https://medium.com/@mentatminds/dynamic-tao-eli5-2d680579bf42"
+
+26. [2024-07] istirred
+   "I haven’t read much about this yet, at least in public forums so I want to hear some of your thoughts on this.
+
+In Bitcoin mining has two variables which define mining reward: hardware and electricity.
+
+In Bittensor there is a significant difference in mining because there are many variables between subnets.
+
+One subnet might have less cost to reward than others, which makes returns uneven across the ecosystem.
+
+Subnets that require a lot of computing, require a ton of initial investment in comp"
+
+27. [2024-08] fancytechnology
+   "Guys maybe we stop spamming the chat so the OTF can have an easier time gathering these addresses 🙂 - the announcement above literally says just to respond with your address"
+
+28. [2024-08] mike_the_miner
+   "lol its a pretty simple proccess"
+
+29. [2024-08] kirkamalandus
+   "Would be a great incentive for SN speculators to try and research the up and coming subnets prelaunch so they can one get in at the best prices in great subnet projects but it will also make it so new subnets are going to have it easier gaining emissions from the jump if they properly market themselves prelaunch as opposed to now."
+
+30. [2024-08] spacetime_tao
+   "hey, can someone help me understand something? 😄 
+
+so on the raonet, I just kept it simple and staked on one subnet. in this case sn8. and I staked to mog's hotkey `5EsapuqqxwuXmy6agMZGXGTy26ATz9d6T7CcYB131xWUny3x` . I am receiving the theta tokens, but I'm also getting tokens from SNs 1, 2, 7, and 9
+
+I did stake on sn0 for a little bit to test it out. but I had removed my stake and converted all dtao -> tao (from all 20 or so SNs). so just a little confused on that"
+
+
+========================================================================================================================
+INTERACTIVE REQUESTS - WHAT USERS WANT
+========================================================================================================================
+
+1. [2024-04] ag2903uk
+   "If on dTAO it wasn’t ’loss of capital’ investment but instead ‘loss of monthly emissions’ from what you have staked. Then the ‘retail investors’ would jump all over dTAO and not just go with the safe ‘root’ option so much. 
+
+ie: if I stake 1000 TAO to dTAO then my possible monthly risk of loss would be approx 13 TAO (or the equivalent value in dTAO) that I have spread over the subnets that I have picked if there were to be a deregistration of a subnet or a negative yield on another.  (figure bas"
+
+2. [2024-08] consttt
+   "@here
+
+In prep for the first incentivized Bittensor-Rao testnet on Thursday (1 week trial game) we need to collect people's ss58 addresses so we can put you into the genesis file and give you an initial 100 Test-TAO.
+
+Please reply to this message with ***JUST*** your ss58_address, like:
+ `5FRo4vab84LM3aiK4DijnVawGDKagLGLzfn95j9tjDaHja8Z`
+A member of the Mods will collect all of these replies and check your role privs validity up until Thursday morning so reply fairly quickly. 
+
+We will only cons"
+
+3. [2024-08] borgg.eth
+   "He is building a tool for miners on mainnet and wants to use it to get top spot on Rao testnet for rewards"
+
+4. [2024-08] spacetime_tao
+   "they may not fully need to understand the fundamental concepts. but if they can use some kind of portal that shows their initial amount staked (e.g. 100 tao), current market value (e.g. 90 tao), and potential value (eg. 140 tao), with good documentation on those terms, then I think most normal users will have a decent understanding of the system and won't get burned. think about the stock market. you don't need to have a degree in finance to buy stocks. but you can take a look at the simple metr"
+
+5. [2024-09] mvds1
+   "All mutations can be explained as modifications to this graph. (Please correct me if I’m wrong!) Red dot is the pool state. I assume all alpha transactions are via the pool. Buy/sell alpha moves the red dot *on* the hyperbola. Price is the slope of the hyperbola at the dot. Minting performs a shift of the dot and *of* the hyperbola; `+1` in the alpha direction and `+e_0` in the Tao direction. The dot and the hyperbola can only shift right-up-ward when minting. The max shift is `(1,1)` if this su"
+
+6. [2024-10] estatecat
+   "I was trying last week. I believe they're not allowing this anymore since Rao testnet is done and they're likely working on changes behind the scenes.
+
+You can run a localnet with documentation here: https://docs.taostats.io/docs/architecture-proposals-dtao but I encountered several issues with it and was not able to do most of what I wanted to test. I think its a waiting game until OTF is happy with their new developments and wants more community input."
+
+7. [2024-10] vaqxai
+   "also need to learn what dtao is and what testnet games are"
+
+8. [2025-01] lcnxyz
+   "i feel like we're going to hear a lot more of these stories, lucky its just on testnet for now. Its clear we need to spread more education on slippage and impermanent loss for the less defi-inclined"
+
+9. [2025-01] mcjkula
+   "For anyone wanting to understand the pools and slippage better, check out the slippage calculator here: https://learnbittensor.org/explore/concept/subnet-pool
+
+Go to the "Understanding Slippage" section"
+
+10. [2025-01] tannerpucix
+   "Is there any doc or post/publication to look ? Cause Im kinda newbie, I have novawallet + stake with taostats on mainnet . Im sure a lot of people wanted to test but are not tech friendly with all this stuff. Or maybe the testnet release is mainly focus for dev ?"
+
+11. [2025-01] mcjkula
+   "Was thinking of it, as I don't want to continue DCA manually on testnet, as I do now 😂"
+
+12. [2025-01] 0xcompadre
+   "if i want to develop a frontend for dtao, how do i go about it? there's no way to get testnet subnet information, is there even an rpc?"
+
+13. [2025-01] andy_bit
+   "So to essentially bootstrap the subnet’s pool , where liquidity starts, I need to get in on testnet."
+
+14. [2025-01] trapz1z_38089
+   "I saw some screens from testnet where subnet token exceeded TAO marketcap, is it actually possible? I mean if someone wants to withdraw it it needs to be swapped back to TAO at that point"
+
+15. [2025-01] spacetime_tao
+   "yeah this is basically what is happening on testnet. if you create a subnet and buy the tokens early, but no one else joins, then root is essentially siphoning away all the tao from your pool. so you are left holding a lot of alpha tokens, but they are worthless in the short-term. you need users to do research and find value in your subnet to buy the token, but slowly over time. 
+
+the root sell pressure will be there either way (alpha divs vs root divs). with root divs, you end up with more acti"
+
+16. [2025-01] fivebytes
+   "Hey MaciejGPT,
+
+You are a dTao expert and a senior developer. You are also an SME on subnet operational support. I need you to ELI5 (Explain like I am 5) the concept of dTao and provide constructive guidance on the following questions:
+1. Although once dTao goes live the "safenet" is to stake it in root subnet, how would one determine which subnets one would stake their TAO in? What are the indicators that the subnet is and will be doing well?
+2. Should you register your own hotkeys on the subne"
+
+17. [2025-01] mcjkula
+   "Try to look at it from a new subnet or testnet subnets perspective, I personally being a testnet subnet would find it unfair that you only have to pay the 100 TAO now, while I need to wait until it will drop to the amount if ever technically"
+
+18. [2025-01] mvds1
+   "What, you really think anyone will be *burning* 2kt after dtao for a subnet? Subnet reg cost will drop to lows we haven't seen in a long time. To keep it at 2kt/subnet you need people willing to burn 2kt *every four days*. A new equilibrium price will form, but it will be at least an order of magnitude lower. Or it will be at the configured minimum, currently 1 tao on testnet (which is running devnet-ready) https://coldint.io/runtime/test/pallets/SubtensorModule/storage/entries/NetworkMinLockCos"
+
+19. [2025-01] estatecat
+   "I've asked a few questions without answers so I'm gonna try one more time. Sorry for spam
+DTao specifies staking to a validator *per subnet*, right? When you buy the token, you choose which validator to stake to.
+
+Is this correct?
+
+If so:
+- Does a Validator set Take per subnet as well? 
+- Is APY defined per subnet or would you still need to choose a validator thats validating all subnets? 
+- Why is this operation not on Testnet?"
+
+20. [2025-01] mcjkula
+   "If anyone wants to try out, on the bottom of the page is a "simulator" for the root proportion: https://learnbittensor.org/explore/concept/root-proportion"
+
+21. [2025-02] p383_54249
+   "everyone can test buying/selling dtao tokens now on testnet with http://testnet.taomarketcap.com/subnets/3 ! reply to this message if you need testnet tokens to test it"
+
+22. [2025-02] dougsillars
+   "41% is split amongst all validators.
+
+validators run infra to test the miners...
+* At block 0 of dTao, all of the miners and validators on mainnet are still the miners and validators on mainnet.
+
+* auto swap is default.  Stakeholders make the change to keep alpha (afaik today... but it is not even in testnet :D)
+
+* Sure - a miner could parent hotkey their stake to an existing validator, or run infra to be a validator.  In general - you need a lot of stake on your hotkey . (today a min of 1k tao "
+
+23. [2025-02] gooddev_56319
+   "Hey guys sorry for the dumb question but I'm new to bittensor and still learning
+I just tried to register myself on one of the subnets on testnet and saw the message of recicling tao
+This new update confuses me even more, I read a bit of this chat but not sure if I understood everything
+So my question will be
+Do miners register by recycling alpha tokens, and how does that affect alpha token price? According to documentation it should but I'm confused a bit, now we use alpha token for registratio"
+
+24. [2025-02] spacetime_tao
+   "it's the testnet version of the taomarketcap portal. you can connect any substrate-based wallet. polkadot js extension, talisman, subwallet (haven't tested, but should be able to), and the official bittensor extension
+
+https://testnet.taomarketcap.com/subnets/281
+feel free to buy some dTAO. if you need some test tao, ask fish"
+
+25. [2025-02] headset2297
+   "When using rao compatible sdk on testnet works and on current mainnet doesn't ... wouldn't it mean that node needs to also adjust to dtao in some way?"
+
+26. [2025-02] ch3rnobog
+   "The Bittenso subnet protocol really needs to have some built in guardrails to ensure subnets meet a minimum quality requirement before someone can register. Real basic things too like, Does it have a github, is the code based on the subnet template or otherwise include all required functions ie. incentive mechanism, proper connection closing, is the subnet currently operating on testnet etc. If there is not a bare minimum set of requirements and its a free for all thats manipulated by the mechan"
+
+27. [2025-03] ch3rnobog
+   "Its a real shame to see "UNKNOWN" subnets with no discord, no code, no product, no testnet, no anything and they are earning more then subnets that have legitimate use cases, solid teams, working products... is this really the way we want it?"
+
+28. [2025-03] ch3rnobog
+   "This is a perfect example of why Bittensor needs some guardrails in place for registering subnets. Currently 6.93% of emissions is being sent to subnets that have done nothing besides register a subnet. No name, no code, no product, no value added to the ecosystem yet 6.93% of daily emissions is being extracted. 
+
+In order to register a subnet a wallet should meet some basic requirements, ie. github repo, functioning testnet, functioning code, a name etc. With the implementation of EVM is it not"
+
+29. [2025-03] spacetime_tao
+   "or maybe some kind of vetting process where a subnet needs to be on testnet first, and demonstrate what their subnet is doing. before being able to register on mainnet. that way you'd have a clear idea if e.g. testnet sn253 becomes mainnet sn80"
+
+30. [2025-03] kdog_36
+   "To me, it's a decentralized layer 1 for AI, with the same tokenomics/economics as Bitcoin. It has a great story and philosophy which is needed. The subnets are building and the network is growing. I think the potential upside is big so it is a good risk/reward play. Has some big backers in Barry Silbert. I enjoy the rewards from staking on Root.
+
+Things I'd like to see improve or perhaps im ignorant too, the community to me doesn't feel as vibrant as other projects, the discord is not so active "
+
+
+========================================================================================================================
+COMPLAINTS ABOUT EXISTING MATERIALS
+========================================================================================================================
+
+
+========================================================================================================================
+ONBOARDING STRUGGLES
+========================================================================================================================
+
+1. [2024-04] consttt
+   "Note, there is a continual steam of new tokens added to the pool, per block, with 7200 per day."
+
+2. [2024-04] body5562
+   "I watched the recording, and I don't understand what all this is being done for, what these new tokens are for, it's just crazy"
+
+3. [2024-04] zanarkand_32747
+   "I still hope a few large US-based TAO holders get together and achieve some sort of compromise with OpenTensor, because I fear adding a new token will have also sort of disastrous consequences. The IRS just doesn't care about anything that's in fiat and will tax you accordingly. It sucks, but it's the world we live in."
+
+4. [2024-04] zanarkand_32747
+   "I think it'd just be easier to just let people set the weights directly without the need for new tokens. Maybe that's not possible from a technical standpoint."
+
+5. [2024-04] zanarkand_32747
+   "Or honestly, I think the validators could weed out bad actors themselves. We know who they are, right? The subnets with zero recent activity on GitHub, the projects that don't make any sense, etc. Create a mechanisms for TAO holders to vote without the need for a new token."
+
+6. [2024-04] zanarkand_32747
+   "You're right. He said the only difference is a couple of lines of code, so that would probably make it a new token. Assuming dTAO is a new token, of course, which it probably is because it uses Uniswap."
+
+7. [2024-04] ag2903uk
+   "I’ll have to listen to the recent video again then. Because that’s not what I heard the first time around. dTAO was for the power user, yes to set their own weights on the subnet. But I thought Const said sTAO was ONLY for the safe option. As they almost considered not having an sTAO but after the concerns of ‘retail’ they have decided to go with sTAO also. That’s what I’ve heard in the past."
+
+8. [2024-04] zanarkand_32747
+   "This is probably controversial and the implementation wouldn't be super straight forward, but a way to avoid the tax implications would be introduce the possibility of negative APY in TAO and even change the code so that a certain amount of TAO would automatically get sent from wallets that staked with scammy/useless subnets. That way you don't need any new tokens."
+
+9. [2024-04] zanarkand_32747
+   "GDT is not an actual token, is it? TAO and each alpha token are separate tokens, but GDT is just an abstraction and not a new token, correct?"
+
+10. [2024-04] spacetime_tao
+   "your root stake is measured in tao. you receive dividends in the form of dtao. gdt is essentially the universal way of looking at the total issuance when factoring in tao + all dtao. since the prices of all dtao converge to 1, 1 gdt ~ 1 tao. yeah like you said, gdt is an abstraction. not a new token.
+
+I think it will be very important for front-ends to convey this to end users so it doesn't get confusing. 
+
+example: 
+1 tao (SN0) ~ 1 gdt
+100 alpha (SN1) ~ 1 gdt
+total balance ~ 2 gdt
+
+something li"
+
+11. [2024-04] zanarkand_32747
+   "@Spaceτime [τ, ∞] Thanks for the clarification. GDT is not a new token, but the alpha tokens for each subnet are? I'm interested in figuring out the mechanism involved in converting my dTAO dividends into TAO."
+
+12. [2024-04] andy_bit
+   "GDT is not a new token, just an abstraction layer
+It prevents stake dilution for root stakers.
+But subnet "power users" can see dilution based on their local stake weights, since new validators can add more dALPHA for example dilliuting current validators stake. 
+
+the stake on the root network is measured in TAO tokens.
+
+as you earn rewards/dividends from validating on subnets, you get paid in that subnet's dynamic token (dTAO, dALPHA, dBETA etc).
+
+GDT is an abstraction that allows measuring you"
+
+13. [2024-06] spacetime_tao
+   "thought about this some more. I think it's a good way to frame it, but ultimately I don't think changing the terminology is worth the hassle. since the network itself is a marketplace for digital commodities, it's inherently economic. you can buy and sell the commodities (dtao), but it's all denominated in tao
+
+and plus these terms are already used officially 😁  https://bittensor.com/explained
+
+I still like the concept of viewing it as a rating system though, as that's essentially the idea. I th"
+
+14. [2024-06] .popmart
+   "but question is if we continue emitting new tokens as rewards, who are the one buying on the other side? Up to now, I still don't see any meaningful form of revenue generation from subnets that's giving value back to bittensor lmao"
+
+15. [2024-06] istirred
+   "Interesting. So a subnet owner could change overtime if a larger wallet stake is added to a subnet? It’s the first time I am reading this part."
+
+16. [2024-07] kat_defiants
+   "If you are brand new to Bittensor, I'd recommend starting out at https://docs.bittensor.com -- there's a lot of good information there on how the Bittensor network is set up to operate, and it's a good foundation for new users. : )"
+
+17. [2024-07] deca_whisker
+   "sorry for spamming - pretty new to tao - just dove into tokenomics and stao, dtao - kinda took me for a spin - stao is validator staking, and would be noice if someone could give me elifi on dtao - also are there any plans for a native liquid staking derivative?"
+
+18. [2024-08] .crypticmax
+   "it is not the first time and i don't know why 🤷‍♂️"
+
+19. [2024-09] creativeessencedc
+   "I'm still new to Bittensor and need more research for better understanding.
+Fortunately, my experience on other substrate-based networks has helped me a lot.
+Nonetheless, with dTAO, I'm wondering what the best practices are for new subnets to get emission?"
+
+20. [2024-09] mvds1
+   "I’m new to crypto so had to read up on uniswap etc but I think that IL has nothing to do with dtao. But that’s still a bit of an unknown in this chat. And that’s just one example."
+
+21. [2024-09] _roudoudou_
+   "Someone knows if it is like the first time : 3 second blocks for 1 tao emission ?"
+
+22. [2024-09] alder1791
+   "My subnet is 13! It would be an honor to have you stake and register. I'm new to the Bittensor world and it has been a blast!"
+
+23. [2024-09] .crypticmax
+   "first time I staked in non registered subnets and it's gone. I could not have endured the second time 😬 thank you @0xUnicorn [ τ, τ ] you save my day 🫡"
+
+24. [2024-09] ivananishchuk
+   "Yeah, like last time (although I think a longer window for that was provided the first time iirc). Well, I liked the game, but my work meeting and health are more important.
+
+If somebody can help me check how well I did this time and if I would've made the leaderboard if I didn't miss this narrow action window - it would be most appreciated (I think my stake was something in thousands of Rao last time I checkt but now no information is available).
+
+Most important thing is my understanding of eff"
+
+25. [2024-10] consttt
+   "Probably for the first time there appears to be pretty strong consensus"
+
+26. [2024-10] ultrashinydc
+   "can we change the appearance color for RAO-badge accounts? this white color makes us look "new to this server" somehow, lol"
+
+27. [2025-01] kerbkrawler
+   "I’m worried about newcomers wanting to speculate on new subnets, potentially not knowing what they are doing let’s be honest that may be a majority of new investors… it could be a huge negative getting rinsed by slippage"
+
+28. [2025-01] guibibeau
+   "Simple scenario: A person new to bittensor likes a subnet and wants to stake to it. They will still need to find a validator hotkey or select one from a list"
+
+29. [2025-01] arrmlet
+   "so mechanism of SN registration will remain the same for first time ?"
+
+30. [2025-01] rhef
+   "@Kat | Biττensor CM・won't DM 1st nowadays tracking discussions on #☯・rao takes a few hours per day. It can be exhausting, yet extremely important for many of us. When it's organized in a single channel, topics get mixed and tracking a particular thread of a discussion becomes very hard. Can we improve on it a little bit using the discord forum thing that discussions will break off into, or a section of rao channels like #rao-source-of-initial-liquidity, #rao-initial-slippage, #rao-vs-MICAR, #rao"
+
+
+========================================================================================================================
+VALIDATOR NEEDS
+========================================================================================================================
+
+1. [2024-04] tww9
+   "That was what I was thinking. Validators become essentially fund managers where they would (or should) do their due diligence for where to be holding subnet tokens. Average TAO holders would need to decide which Validators will make the best decisions and earn the highest rewards for them. I would imagine the validator APY's would have a much larger spread than they do right now. This will then lead to validators copying the most successful ones and a few validators essentially control even more"
+
+2. [2024-04] tww9
+   "While I agree with some aspects of what he's saying, I don't think validators need to give 100% back to delegates to be a good validator. It's an insane amount of work to be a good proper validator and I would rather the validators be paid (take their share) and do a good job.  To do a good job and properly evaluate all the subnets, I don't think anyone would do that for free, that would basically be a full time job. What I think should happen is having more tools and platforms to help validator"
+
+3. [2024-04] tww9
+   "Setting up the validator and forgetting about it and collecting your emissions isn't hard, but keeping up with what subnets are actually building and how they're running definitely is. Things are always changing and it's hard enough to even have a decent understanding of every subnet as a static snapshot. 
+
+So bringing it back the dynamic Tao, I think validators will be more important than ever to do proper due diligence out grow their teams to help support those efforts. Average Tao holders wil"
+
+4. [2024-04] Deleted User
+   "That‘s the point yeah, but you also can stake on the root network with validators so you dont NEED to stake with the dTAO option"
+
+5. [2024-04] zanarkand_32747
+   "Or honestly, I think the validators could weed out bad actors themselves. We know who they are, right? The subnets with zero recent activity on GitHub, the projects that don't make any sense, etc. Create a mechanisms for TAO holders to vote without the need for a new token."
+
+6. [2024-04] ag2903uk
+   "I think Const needs to do another call in a week or two and go into details on the sTAO and dTAO side of things from a ‘retail persons’ perspective. On the call he talks about this via the validators and subnet owner perspective and to do a Q&A so we can fire these questions at him."
+
+7. [2024-04] consttt
+   "It really comes down the following. 
+1. 50% of the stake weight in a subnet comes from global (i.e. people that are not invested in the ponzi)
+2. This means 50% of the validator consensus comes from from global (i.e. people that are not invested in the ponzi)
+3. This means 1) the owner cannot control which miners get the remaining 50% of inflation.
+4. and 2) atleast 25% (dividends) becomes sell pressure from people not invested in the ponzi. 
+
+In a normal token ponzi the supply is heavily reguat"
+
+8. [2024-04] davfields
+   "ok. so owners need to be validators now to participate in emissions on an ongoing basis?"
+
+9. [2024-04] _cazure_
+   "- When discussing the modulation of stake weights, it's noted that adjustments can influence subnet ownership. Could you elaborate on the safeguards in place to prevent rapid or destabilizing shifts in control?
+- The ability for validators to adjust their fees in support of certain SNs is intriguing. How do these economic incentives align with the overall financial health of the network?
+- The integration of slipperage mechanisms could potentialy introduce volatility. What strategies are being c"
+
+10. [2024-04] consttt
+   "> When discussing the modulation of stake weights, it's noted that adjustments can influence subnet ownership. Could you elaborate on the safeguards in place to prevent rapid or destabilizing shifts in control?
+
+Ownership is measured by being the wallet with the largest Subtoken balance on one key. Which gives that key the ability to set hyperparameters. 
+We will implement this as a moving average over various days to ensure that things do not change rapidly. 
+
+> The ability for validators to ad"
+
+11. [2024-04] kirkamalandus
+   "if we need to be in and out of these internal pools (tao->dtao and vice versa) will it possible to delegate key permissions specifically for delegating to subnets? If so can those key permissions go to validators? or will the "baseline" APY% discussed in previous spaces all just go through delegating to root and all delegators will have to individually work on this themselves to obtain higher yields."
+
+12. [2024-04] tonyche08
+   "Hi! Guys, I am trying to understand Dtao better. Currently I choose one of the validators and stake my Tao and get free Tao. There is no need to evaluate subnet at all. With this new DTao system, we need to evaluate each subnet and decide which one to stake? so we can not stake to the validators anymore? if the subnet does well, the staking reward will be high. if not, your tao could be gone... Is my understanding correct?"
+
+13. [2024-04] tuta3689
+   "Hey @Tony 
+With dTAO, you now have the **choice** between 
+- **staking with the root network** (like you are doing currently, just stake your TAO to a validator and they will be stakes on all subnets)
+OR
+- **staking on specific subnets**. In that case you would need to evaluate the "quality" or "potential" of the subnet to gauge on which ones to stake or not. In that case you could earn more TAO, or lose some, but you TAO wouldn't be gone. 
+
+A likely scenario is that a large majority will keep s"
+
+14. [2024-04] unstablediffusion
+   "I understand that "current staking model" becomes "root network staking", and that I can then choose to convert some of my normal TAO into Alpha or other dTAO tokens.
+
+When staking on root network, I still choose which validator I want to select, and can select multiple validators, correct?
+When staking a subnet token, I also choose which validator I want to select, and can select multiple validators per subnet token, correct?
+
+At present, a validator's "current staking model" yield is dependent"
+
+15. [2024-04] consttt
+   "> Does each validator need to have a certain amount of each dTAO token (alpha, beta, etc) in order to run their validator on each of those subnets or is just having enough normal tao delegated to their validator on the root network sufficient enough for them to validate on any existing/new subnet?
+Validators with a large amount of global stake weight also keep their slots on subnet's, but about half of them will be from local weight."
+
+16. [2024-04] unstablediffusion
+   "Much appreciated! That helps clarify things a lot. Onto the next batch of questions, if I may 😃 
+
+I recall you saying that `set_delegate_take` would be implemented as part of dTAO.
+
+1. Will `set_delegate_take` only be for dTAO "subnet" validators/validating or "root network" validators/validating as well?
+
+2. Is there a plan for preventing validator weight copying, or preventing them from causing a "*race to zero*" by operating with an otherwise-unsustainable delegate_take (eg: 1%) and causing n"
+
+17. [2024-05] tww9
+   "If subnet owners are needing to market their subnet tokens and finding ways to incentivize people to hold or buy their token (potentially through profit sharing), would this basically force every subnet owner into a position to be "marketing unregistered securities"?
+
+Also, if miners and validators dump the dtao they earn from a subnet, this will naturally drain the liquidity pool created from the locked tao that turned into dtao that was put up by the subnet owners. So subnet owners are at very"
+
+18. [2024-05] mike_the_miner
+   "validators need tao to get more bandwidth of the network. if majority is in root how is that root network tao delegated to the validators?"
+
+19. [2024-05] tww9
+   "That could potentially help, but what about subnets that are useless and don't actually add any value to Bittensor, have a long time horizon and a large community behind them? We have already seen some garbage subnets try to do this in the current setup, but with subnets getting de-regged and needing emissions from validators, they were gone pretty fast. What would be a way of getting rid of them with dtao?"
+
+20. [2024-05] sand_gods
+   "I have some questions about the staking and delegation/validation mechanism with DTAO. When we stake in the root network, we delegate to a validator who also stakes on the root network, then we receive our dividends equally from all DTAOs of all subnets. Are the DTAOs we receive emitted inside the pool or outside the subnet pool? (This depends on the current DTAO price, right?) Will these DTAOs be automatically delegated to a validator of each subnet, or do we need to do it ourselves to get emis"
+
+21. [2024-05] sand_gods
+   "Secondly, the 18% that the subnet owner receives will no longer be applicable. The subnet owner will benefit from the returns generated by their DTAOs. So, does the subnet owner need to delegate these DTAOs to a validator who validates on their subnet, or is that not necessary?"
+
+22. [2024-05] mountain_179
+   "For the sake of my own knowledge, would it be possible for some of you to provide me with arguments why my proposal of an addition of a "mining ratio" per subnet and set by each subnet would not be a good idea to be implemented before and after DTAO? 
+
+What do i mean with mining ratio? 
+- I assume that not all subnets that receive allocations by validators require mining yet OR don't need significant funds for it (due to whatever reason e.g. lack of competition, mining gaming etc.).
+- I assume t"
+
+23. [2024-06] alexdrocks
+   "Just like Bitcoin bro. It had less intrinsinc value than TAO and people obtained it. TAO is work in progress. You can't ask to get all those triple A business revenues instantly. The blockchain itself has bugs and needs fixes first. And good products build around that. It won't be overnight. But the point is, issuing dtao might reduce the interest in mining or validating à lot hence less progress for the global Bittensor network. You gotta incentivize people in a valuable way (tao) if you want f"
+
+24. [2024-06] momos6210
+   "Guys, please help me understand. If I understand correctly, in simple language dTao is intended to achieve the following: 1) rather than subjectively and / or through behind the door agreements with validators, Tao holders can quantitatively assign value to a subnet based on how much interest there is to own the subnet token (similar to share price of a corporation). This would enhance competition between subnets to create true value for the network. It could also encourage trade and efficient m"
+
+25. [2024-06] sand_gods
+   "To register a subnet, we will no longer need to lock TAO. We will just need to buy the subnet by being the largest staker in that subnet. This means that we will have a lot of stake in the subnet from the start.
+Validators will have an opportunity cost to stake in a subnet, and there will be more and more subnets. The amounts of TAO staked will not be the same as today; it will require going all-in to take control of a subnet.
+These all-ins will cause a significant increase in the value of Dynam"
+
+26. [2024-06] ashw_tao
+   "This is not directly related to dao but its a question regarding Child hotkeys. 
+
+Larger valis delegating their stake to multiple keys/valis on a subnet will positively scale the subnet validation process. That being said, I see a chicken-egg problem. Assuming we want proliferation of validators to provide work on specific subnets, they still need to have a certain threshold of TAO to receive responses from miner servers. How do smaller valis come up with this amount? Or how do they earn the sta"
+
+27. [2024-06] lcnxyz
+   "To add to this, iirc validators need around 20k tao for miners to accept their requests (in most subnets). Does that mean child hotkeys will need the 20k delegated to them from the parent validator? How does that then affect the operations of the parent validator on other subnets given that stake plays a part in how much a vali can earn.
+
+How many child hotkeys can a validator have per subnet? Will it become like miners where validators can spin up multiple child validators on a subnet and earn "
+
+28. [2024-06] lcnxyz
+   "Right so a validator needs to delegate atleast 20k tao to the child hotkey for it to validate properly on all subnets"
+
+29. [2024-07] tuta3689
+   "Because for the token to actually be delegated, it needs to be "used" for validating operations. This is why the "delegation" word is used: you delegate your "voting power" to a validator, but you, the tao holder, will choose the subnet and the validator"
+
+30. [2024-08] jbonilla_taoshiio
+   "Sorry if it has been answered already but can someone please help me understand this sentence
+
+```This is because each Dynamic token has its own emission schedule, with 1 token minted every block into its pool, and 1 token simultaneously created and distributed to the miners and validators within the subnet.
+```
+https://medium.com/@unconst/bit001-dynamic-tao-8ddc7a26dd62
+
+Each block exactly 2 subnet tokens are generated? What fraction goes to validators/miners? Thanks!"
+
+
+========================================================================================================================
+HOLDER NEEDS
+========================================================================================================================
+
+1. [2024-04] _jpmf_
+   "right--my concern is that the growing complexity will alienate passive network participants, because I believe the vast majority of network participants *want* to be passive. (I do not know how valid this concern is--time will tell, and I'm still wrapping my head around things, things are still in ideation stages, etc.)"
+
+2. [2024-04] knighthawk2049
+   "Probably we will need pre-packaged index funds for subnets, similar to Fidelity, etc. for the holders who don’t have the time or expertise to choose individual subnets"
+
+3. [2024-04] tww9
+   "That was what I was thinking. Validators become essentially fund managers where they would (or should) do their due diligence for where to be holding subnet tokens. Average TAO holders would need to decide which Validators will make the best decisions and earn the highest rewards for them. I would imagine the validator APY's would have a much larger spread than they do right now. This will then lead to validators copying the most successful ones and a few validators essentially control even more"
+
+4. [2024-04] tww9
+   "Setting up the validator and forgetting about it and collecting your emissions isn't hard, but keeping up with what subnets are actually building and how they're running definitely is. Things are always changing and it's hard enough to even have a decent understanding of every subnet as a static snapshot. 
+
+So bringing it back the dynamic Tao, I think validators will be more important than ever to do proper due diligence out grow their teams to help support those efforts. Average Tao holders wil"
+
+5. [2024-04] stormking0
+   "1. With SNs is there is a lot of development that is occurring that is not visible, or easy for a non tech person to understand. Will SNs need to have PR teams now or will APY be the driver?
+2. Jacob/you keeps using 1000 SNs. Truly investigating & understanding this many SNs, enough to "fund" them, would become a full time job. Tao holders are being asked to be VCs in a way... Because of this, I can see the folks with the time & Tao wealth having a distinct advantage. Also, the majority of Tao h"
+
+6. [2024-04] zanarkand_32747
+   "Or honestly, I think the validators could weed out bad actors themselves. We know who they are, right? The subnets with zero recent activity on GitHub, the projects that don't make any sense, etc. Create a mechanisms for TAO holders to vote without the need for a new token."
+
+7. [2024-04] spacetime_tao
+   "sTAO is an alternative to dTAO. stakers set the weights without the need to convert TAO -> dTAO. but there are pros and cons with each one. I'd have to watch the call again but maybe const can explain his point of view when he's back"
+
+8. [2024-04] ag2903uk
+   "I think Const needs to do another call in a week or two and go into details on the sTAO and dTAO side of things from a ‘retail persons’ perspective. On the call he talks about this via the validators and subnet owner perspective and to do a Q&A so we can fire these questions at him."
+
+9. [2024-04] davfields
+   "would this calculation be effected if a very large percentage of participants are just stakers to the root network. Let's say 90% just stake pasively to the root. Would you then only need 5.01% of the actively staked or still 50.1% of total stake for cabal attack?"
+
+10. [2024-04] striker8694
+   "Also confused how this gets rid of all the political nonsense, if anything you put quite some power into root + on top of it create a massive pvp arena at the expense of the regular holder as they will give weight to dtao thus have more dilution"
+
+11. [2024-04] ag2903uk
+   "If on dTAO it wasn’t ’loss of capital’ investment but instead ‘loss of monthly emissions’ from what you have staked. Then the ‘retail investors’ would jump all over dTAO and not just go with the safe ‘root’ option so much. 
+
+ie: if I stake 1000 TAO to dTAO then my possible monthly risk of loss would be approx 13 TAO (or the equivalent value in dTAO) that I have spread over the subnets that I have picked if there were to be a deregistration of a subnet or a negative yield on another.  (figure bas"
+
+12. [2024-04] p383_54249
+   "Just like hedge funds or retail traders oversee thousands of stocks, but that doesn’t mean they need to know the ins and outs of all of them. They just need to know about a couple, whether to buy or sell them"
+
+13. [2024-05] rhef
+   "ok the idea I have is to not make a big jump from the current system to DTAO, because that would damage the community - subnets such as sn7 and sn9 are valuable, but don't have business models which would make validators want to go and buy a ton of tokens of the subnet to get the right to use its resources - therefore we should recognize that there are subnets that are going to be monetized (and they should go to dtao realm) but there are also subnets which won't - and these should stay in the c"
+
+14. [2024-05] rhef
+   "oh I have an even better one. Let the tao holders decide when they want to unstake tao from old subnets and move it to dtao subnets. If the market will be efficient (and we can make it happen) then it will trurly reflect the value of the dtao subnets. Eventually people will realize dtao just gives higher APY due to validators offering negative staking fees (because they make money on selling their share of resources provided by the dtao subnet and it's worth more than the rewards provided by the"
+
+15. [2024-05] adally.
+   "dtao draw a lot of parallels to open gov on polkadot. It allowed token holders to have a bigger say in Treasury spending ( I know emissions aren't a Treasury but both examples gave  holders more  influence over where future coins would go ). 
+
+Ultimately what happened with open gov was that it became easier to grift. People were asking to be paid 1000's of dot tokens for the simplest marketing tasks and bad actors could form pluralities and influence treasury spending.
+
+I think we might see a si"
+
+16. [2024-05] davfields
+   "Subnets in dTAO would be controlled by the person, entity with the most stake (i.e. skin in the game) like the best technology companies at all stages are. In fact, there can be a hostile takeover if someone values the subnet more than the largest holder does. The free market is deciding price (i.e. value of subnet), not operations, which is how it should be. 
+What counter proposal would you suggest that decentralizes TAO since I think we all agree that it needs to continue to progressively dece"
+
+17. [2024-06] ag2903uk
+   "‘or have everyone play by the same rules with dTAO’
+
+Not everyone wants to ‘gamble on a subnet’ with their TAO and face capital loss under dTAO. If someone wants to risk their TAO for more gains that’s ok as that was their decision. 
+
+But some holders want to be part of the TAO ecosystem but don’t want the risk of capital loss so it’s fair for them to be able to choose sTAO and the safe option on root if that has a lower percentage reward return and this percentage number is known by all and if "
+
+18. [2024-06] momos6210
+   "Guys, please help me understand. If I understand correctly, in simple language dTao is intended to achieve the following: 1) rather than subjectively and / or through behind the door agreements with validators, Tao holders can quantitatively assign value to a subnet based on how much interest there is to own the subnet token (similar to share price of a corporation). This would enhance competition between subnets to create true value for the network. It could also encourage trade and efficient m"
+
+19. [2024-06] sand_gods
+   "By the way, it might be a bit premature to talk about this, but is there a way in DTAO to be the largest staker of a subnet without assuming the role? Some large holders might not want to be actively involved. Maybe there could be a vote within the subnet, weighted by their stake, to define the key responsible for the subnet's evolution."
+
+20. [2024-06] lcnxyz
+   "The new owner would need to run the subnet better than the old owner or subnet token holders will dump them and new owners will be at a loss"
+
+21. [2024-06] sand_gods
+   "To register a subnet, we will no longer need to lock TAO. We will just need to buy the subnet by being the largest staker in that subnet. This means that we will have a lot of stake in the subnet from the start.
+Validators will have an opportunity cost to stake in a subnet, and there will be more and more subnets. The amounts of TAO staked will not be the same as today; it will require going all-in to take control of a subnet.
+These all-ins will cause a significant increase in the value of Dynam"
+
+22. [2024-06] ashw_tao
+   "Yep, saying goes it’s around 20k , an arbitrary setting by miners. 
+
+Essentially child hotkeys in my mind is the delegation of the validation work within a subnet. Similar to how nominators/TAO holders who don’t want to do the work will delegate to validators for the APY. 
+
+In regards to how many child hotkeys per parent Vali, I think the answer on Bittensor is as many as is required to decentralise and scale the validation process. 
+
+Anyone please correct me if I have incorrect understanding"
+
+23. [2024-07] darkobro1
+   "Currently the "PoW" we currently have does not directly affect the actual chain as you mentioned. Furthermore, decentralisation of intelligence is also achieved because we can add an additional layer of security against malicious validators that can control most of the TAO supply. OTF is one of the largest holders of TAO for example and they can just delegate on their validator for greater influence, this is off set by Yuma Consesus but we can add an extra layer of protection through PoW on the "
+
+24. [2024-07] tuta3689
+   "Because for the token to actually be delegated, it needs to be "used" for validating operations. This is why the "delegation" word is used: you delegate your "voting power" to a validator, but you, the tao holder, will choose the subnet and the validator"
+
+25. [2024-07] tuta3689
+   "I think we should look at Bittensor and the subnets ecosystem from one level *above* bitcoin mining (with bitcoin mining being equivalent to a specific subnet mining)
+
+So I see subnet mining reward mechanisms diversity as a good thing!
+
+Today, most miners seem to try to compete on multiple subnets, but they might (should?) start specializing more as competition increases. 
+
+About the emissions, I agree that current emissions don’t reflect this difference in mining complexity at all. 
+
+As I see i"
+
+26. [2024-08] kat_defiants
+   "Gang Signs holders -- if you want to participate, please make sure you submit your address no later than: Thursday, August 22, 2024 11:00 AM"
+
+27. [2024-08] kat_defiants
+   "I don't have anything to do with the assignment of the Gang Signs role; it's Const's initiative.  You'd need to reach out to Const about it.  However, the testing and feedback will, from what I understand, all be happening in this channel, so everyone (not just Gang Sign holders) will be able to follow along.  Please feel free to jump into the call today to get more information on how this particular playtest is going to work. : )"
+
+28. [2024-08] ron141592
+   "🙌  Hey gangs! How's your trading going?
+
+Join us in **Subnet 30** by staking!
+
+**Why stake us**:
+I'm excited to announce that we are developing a new product designed to help miners customize and upgrade their mining mechanisms across all subnets!
+Each user will need to pay for access to individual subnets.
+I offer you guys a great opportunity to get free access to our product.
+
+- The top staker will get free access to **3** subnets in our product.
+- The second top staker will get get free acces"
+
+29. [2024-08] tww9
+   "I see there being a few groups.
+1. A large group that will continue to be confused and stake to root and try to ignore dtao.
+2. A medium group that gets smaller over time of people that try to play the dtao game but lose large amounts of their bags over time.
+3. A very small group that are the same as group 2 in terms of knowledge that do well in dtao and continue to play the game on a gamblers high every time they ride the wave on a subnet that goes up.
+4. A very small group of less than 50 peo"
+
+30. [2024-08] mvds1
+   "So now I find myself considering what group I want to be in - both from a holder and SN owner perspective. Group 4 seems to be the only group that doesn’t lose, in the end. The distribution curve as posted seems to confirm this: a few people outsmart the rest, by an insane margin. Should we divert our energy from working on decentralized AI to becoming blockchain HF trading experts? Would surely be fun, not the reason we joined bittensor in the first place, but fun nonetheless."
+
+
+========================================================================================================================
+GAP ANALYSIS: WHAT EXISTS VS WHAT'S NEEDED
+========================================================================================================================
+
+SUMMARY OF FINDINGS:
+------------------------------------------------------------------------------------------------------------------------
+
+WHAT EXISTS:
+• 234 video/demo references (but accessibility and clarity issues)
+• 678 documentation mentions (but complaints about complexity)
+• 549 tool/simulator mentions (but mostly requests, not actual tools)
+
+WHAT'S DESPERATELY NEEDED:
+• Simple, visual explanations (259 requests for visual aids)
+• Interactive calculators/simulators (369 calculator requests)
+• Step-by-step guides (244 requests)
+• Non-technical explanations for TAO holders
+• Better onboarding for newcomers
+
+CONFUSION PATTERNS:
+• Staking mechanisms: 4,668 instances
+• Emissions/rewards: 3,972 instances
+• Alpha tokens: 3,599 instances
+• Slippage/liquidity: 2,026 instances
+• Tax implications: 757 instances
+
+
+========================================================================================================================
+RECOMMENDATIONS FOR BITTENSOR.AI LEARNING HUB
+========================================================================================================================
+
+1. INTERACTIVE TOOLS
+------------------------------------------------------------------------------------------------------------------------
+   • dTAO staking calculator with visual slippage simulation
+   • Subnet comparison tool with APY projections
+   • Alpha token mechanics simulator
+   • Tax implications calculator for different scenarios
+   • Live testnet environment for risk-free experimentation
+
+2. VISUAL LEARNING MATERIALS
+------------------------------------------------------------------------------------------------------------------------
+   • Animated explainer videos (5-10 min) for each core concept
+   • Infographics showing dTAO flow and token mechanics
+   • Diagram library (staking process, emissions, alpha calculation)
+   • Visual decision trees for stakers/validators
+   • Before/after comparisons of old vs new system
+
+3. STEP-BY-STEP GUIDES
+------------------------------------------------------------------------------------------------------------------------
+   • Complete beginner's guide to dTAO (non-technical)
+   • Validator setup walkthrough with screenshots
+   • How to choose subnets (criteria, evaluation framework)
+   • Staking guide with risk assessment
+   • Tax reporting guide with examples
+
+4. PERSONA-SPECIFIC CONTENT
+------------------------------------------------------------------------------------------------------------------------
+   • TAO Holder's Guide (passive staking, minimal complexity)
+   • Validator's Advanced Guide (technical deep-dive)
+   • Developer's Integration Guide (API, CLI commands)
+   • Newcomer's Quick Start (30-minute onboarding)
+
+5. CONTENT FORMAT PREFERENCES
+------------------------------------------------------------------------------------------------------------------------
+   • Short video tutorials (< 10 min)
+   • Written guides with visuals (not walls of text)
+   • Interactive demos over theoretical explanations
+   • Real examples over abstract concepts
+   • Mobile-friendly, accessible formats
+
+6. MAINTENANCE & UPDATES
+------------------------------------------------------------------------------------------------------------------------
+   • Version control for documentation (clearly mark updates)
+   • Changelog for dTAO features
+   • Regular refreshes of examples with current data
+   • Community FAQ updated weekly
+   • Warning banners for outdated content

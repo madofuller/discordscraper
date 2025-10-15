@@ -1,0 +1,16 @@
+# For Discord Bot (discord_scraper_bot.py)
+discord.py>=2.3.2
+
+# For Automation Script (discord_exporter_automation.py)
+schedule>=1.2.0
+
+# For API Server (api_server.py)
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# Optional: For uploading to website
+requests>=2.31.0
+
+# Database
+sqlite3  # Built-in with Python

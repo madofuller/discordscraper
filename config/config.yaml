@@ -1,0 +1,35 @@
+discord:
+  bot_token: ${DISCORD_BOT_TOKEN}
+  server_id: ${DISCORD_SERVER_ID}
+  
+  # Bot intents (required for discord.py)
+  intents:
+    guilds: true
+    messages: true
+    message_content: true
+    members: false
+
+database:
+  host: ${DB_HOST}
+  port: ${DB_PORT}
+  database: ${DB_NAME}
+  user: ${DB_USER}
+  password: ${DB_PASSWORD}
+  
+  # Connection pool settings
+  pool_size: 5
+  max_overflow: 10
+  pool_timeout: 30
+
+discord_chat_exporter:
+  path: ${DCE_PATH}
+  token: ${DCE_TOKEN}
+  output_dir: ./exports
+  format: json  # json, csv, html, or plaintext
+  partition_limit: 1000  # Messages per file
+
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: ./logs/discord_scraper.log
+

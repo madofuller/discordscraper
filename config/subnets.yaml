@@ -1,0 +1,862 @@
+# Auto-generated subnet configuration
+# Generated from Discord server channels
+
+subnets:
+- name: "_\u30FBinactive\u30FB90"
+  channel_id: '1361438967198908577'
+  description: "_\u30FBinactive\u30FB90 channel"
+- name: evm-bittensor
+  channel_id: '1296572984965726218'
+  description: evm-bittensor channel
+- name: "history\u30FBdaasi\u30FBex-32"
+  channel_id: '1208060734567751741'
+  description: "history\u30FBdaasi\u30FBex-32 channel"
+- name: opentensor-alerts
+  channel_id: '1197231584139554826'
+  description: opentensor-alerts channel
+- name: "t\u30FBacoreai\u30FB405"
+  channel_id: '1404870903808000163'
+  description: "t\u30FBacoreai\u30FB405 channel"
+- name: "t\u30FBagents4all\u30FB334"
+  channel_id: '1357461048583655605'
+  description: "t\u30FBagents4all\u30FB334 channel"
+- name: "t\u30FBalchemy\u30FBex25"
+  channel_id: '1178397855053000845'
+  description: "t\u30FBalchemy\u30FBex25 channel"
+- name: "t\u30FBapollo-zk\u30FBex115"
+  channel_id: '1222672871092912262'
+  description: "t\u30FBapollo-zk\u30FBex115 channel"
+- name: "t\u30FBastrobio\u30FBex4"
+  channel_id: '1249845979780223117'
+  description: "t\u30FBastrobio\u30FBex4 channel"
+- name: "t\u30FBaudio\u30FBex31"
+  channel_id: '1166816341697761300'
+  description: "t\u30FBaudio\u30FBex31 channel"
+- name: "t\u30FBautomata\u30FBxx"
+  channel_id: '1206988055119134740'
+  description: "t\u30FBautomata\u30FBxx channel"
+- name: "t\u30FBau\u03C4oma\u03C4a\u30FBex233"
+  channel_id: '1301269318213828699'
+  description: "t\u30FBau\u03C4oma\u03C4a\u30FBex233 channel"
+- name: "t\u30FBbitaudit\u30FBex74"
+  channel_id: '1209137911044505611'
+  description: "t\u30FBbitaudit\u30FBex74 channel"
+- name: "t\u30FBbittex\u30FBex144"
+  channel_id: '1259889297750753330'
+  description: "t\u30FBbittex\u30FBex144 channel"
+- name: "t\u30FBbrainlock\u30FBex246"
+  channel_id: '1323347823382761634'
+  description: "t\u30FBbrainlock\u30FBex246 channel"
+- name: "t\u30FBd3\u30FBex18"
+  channel_id: '1161764869280903240'
+  description: "t\u30FBd3\u30FBex18 channel"
+- name: "t\u30FBdaasi\u30FBex77"
+  channel_id: '1225075098998804541'
+  description: "t\u30FBdaasi\u30FBex77 channel"
+- name: "t\u30FBfines\u03C4-da\u03C4a\u30FBex250"
+  channel_id: '1329146184438255636'
+  description: "t\u30FBfines\u03C4-da\u03C4a\u30FBex250 channel"
+- name: "t\u30FBflavia\u30FBex58"
+  channel_id: '1173712344409460766'
+  description: "t\u30FBflavia\u30FBex58 channel"
+- name: "t\u30FBgenki-dama\u30FBex213"
+  channel_id: '1285612267701932125'
+  description: "t\u30FBgenki-dama\u30FBex213 channel"
+- name: "t\u30FBhealthcare\u30FBex53"
+  channel_id: '1179798609273815111'
+  description: "t\u30FBhealthcare\u30FBex53 channel"
+- name: "t\u30FBhealthi\u30FBex133"
+  channel_id: '1235677956081193122'
+  description: "t\u30FBhealthi\u30FBex133 channel"
+- name: "t\u30FBidp\u30FBex192"
+  channel_id: '1263858989800886302'
+  description: "t\u30FBidp\u30FBex192 channel"
+- name: "t\u30FBinsights\u30FB146"
+  channel_id: '1166816300962693170'
+  description: "t\u30FBinsights\u30FB146 channel"
+- name: "t\u30FBllm-defend\u30FBex38"
+  channel_id: '1182422353360195695'
+  description: "t\u30FBllm-defend\u30FBex38 channel"
+- name: "t\u30FBluminar\u30FB414"
+  channel_id: '1409555541910355998'
+  description: "t\u30FBluminar\u30FB414 channel"
+- name: "t\u30FBmaximizeai\u30FBex367"
+  channel_id: '1377358580046368988'
+  description: "t\u30FBmaximizeai\u30FBex367 channel"
+- name: "t\u30FBoracle\u30FBex272"
+  channel_id: '1211711222421000273'
+  description: "t\u30FBoracle\u30FBex272 channel"
+- name: "t\u30FBpalaidn\u30FBex203"
+  channel_id: '1270733850443513927'
+  description: "t\u30FBpalaidn\u30FBex203 channel"
+- name: "t\u30FBrekimart\u30FB370"
+  channel_id: '1379112961917849682'
+  description: "t\u30FBrekimart\u30FB370 channel"
+- name: "t\u30FBrender\u30FBex175"
+  channel_id: '1250917363029639230'
+  description: "t\u30FBrender\u30FBex175 channel"
+- name: "t\u30FBrynoai\u30FBex224"
+  channel_id: '1298754082936193046'
+  description: "t\u30FBrynoai\u30FBex224 channel"
+- name: "t\u30FBstorage\u30FBex12"
+  channel_id: '1162154665971028048'
+  description: "t\u30FBstorage\u30FBex12 channel"
+- name: "t\u30FBsylliba\u30FBex197"
+  channel_id: '1161764868265869314'
+  description: "t\u30FBsylliba\u30FBex197 channel"
+- name: "t\u30FBsylliba\u30FBsuperfluous-channel"
+  channel_id: '1266784878003753107'
+  description: "t\u30FBsylliba\u30FBsuperfluous-channel channel"
+- name: "t\u30FBtaogod\u30FB244-dup"
+  channel_id: '1306346115020357775'
+  description: "t\u30FBtaogod\u30FB244-dup channel"
+- name: "t\u30FBtaomap\u30FBex32"
+  channel_id: '1163969538191269918'
+  description: "t\u30FBtaomap\u30FBex32 channel"
+- name: "t\u30FBtransverse\u30FBex140"
+  channel_id: '1234548085238272122'
+  description: "t\u30FBtransverse\u30FBex140 channel"
+- name: "t\u30FBtune\u30FBex177"
+  channel_id: '1250922806871593102'
+  description: "t\u30FBtune\u30FBex177 channel"
+- name: "t\u30FBvoiceguard\u30FB253"
+  channel_id: '1161765231953989712'
+  description: "t\u30FBvoiceguard\u30FB253 channel"
+- name: "t\u30FBwoofai\u30FBex248"
+  channel_id: '1311112481187430450'
+  description: "t\u30FBwoofai\u30FBex248 channel"
+- name: "t\u30FBzktensor\u30FBex39"
+  channel_id: '1176585029367906314'
+  description: "t\u30FBzktensor\u30FBex39 channel"
+- name: "\xB5\u30FBhorde\u30FB12"
+  channel_id: '1201941624243109888'
+  description: "\xB5\u30FBhorde\u30FB12 channel"
+- name: "\u03B2\u30FBomron\u30FB2"
+  channel_id: '1220504695404236800'
+  description: "\u03B2\u30FBomron\u30FB2 channel"
+- name: "\u03B3\u30FB\u03C4emplar\u30FB3"
+  channel_id: '1222226314824777853'
+  description: "\u03B3\u30FB\u03C4emplar\u30FB3 channel"
+- name: "\u03B5\u30FBhone\u30FB5"
+  channel_id: '1368959417936252998'
+  description: "\u03B5\u30FBhone\u30FB5 channel"
+- name: "\u03B5\u30FBkai\u03C4o\u30FBex5"
+  channel_id: '1214225551364202496'
+  description: "\u03B5\u30FBkai\u03C4o\u30FBex5 channel"
+- name: "\u03B6\u30FBinfini\u03C4e\u30FB6"
+  channel_id: '1209554949449457705'
+  description: "\u03B6\u30FBinfini\u03C4e\u30FB6 channel"
+- name: "\u03B6\u30FBnous\u30FBex6"
+  channel_id: '1200530530416988353'
+  description: "\u03B6\u30FBnous\u30FBex6 channel"
+- name: "\u03B7\u30FBsubvor\u03C4ex\u30FB7"
+  channel_id: '1215311984799653918'
+  description: "\u03B7\u30FBsubvor\u03C4ex\u30FB7 channel"
+- name: "\u03B8\u30FBp\u03C4n\u30FB8"
+  channel_id: '1162384774170677318'
+  description: "\u03B8\u30FBp\u03C4n\u30FB8 channel"
+- name: "\u03B9\u30FBio\u03C4a\u30FB9"
+  channel_id: '1162768567821930597'
+  description: "\u03B9\u30FBio\u03C4a\u30FB9 channel"
+- name: "\u03BA\u30FBswap\u30FB10"
+  channel_id: '1217952256306057298'
+  description: "\u03BA\u30FBswap\u30FB10 channel"
+- name: "\u03BB\u30FBdippy\u30FB11"
+  channel_id: '1232378968187867147'
+  description: "\u03BB\u30FBdippy\u30FB11 channel"
+- name: "\u03BD\u30FBda\u03C4averse\u30FB13"
+  channel_id: '1185617142914236518'
+  description: "\u03BD\u30FBda\u03C4averse\u30FB13 channel"
+- name: "\u03BE\u30FBvector-store\u30FBex14"
+  channel_id: '1310625466411122789'
+  description: "\u03BE\u30FBvector-store\u30FBex14 channel"
+- name: "\u03BE\u30FB\u03C4aohash\u30FB14"
+  channel_id: '1364251338707570698'
+  description: "\u03BE\u30FB\u03C4aohash\u30FB14 channel"
+- name: "\u03BF\u30FBbitquant\u30FB15"
+  channel_id: '1366877131132375170'
+  description: "\u03BF\u30FBbitquant\u30FB15 channel"
+- name: "\u03BF\u30FBdeval\u30FBex15"
+  channel_id: '1272557411948957697'
+  description: "\u03BF\u30FBdeval\u30FBex15 channel"
+- name: "\u03C0\u30FBbi\u03C4ads\u30FBex16"
+  channel_id: '1189234502669697064'
+  description: "\u03C0\u30FBbi\u03C4ads\u30FBex16 channel"
+- name: "\u03C0\u30FBbi\u03C4koop\u30FB16"
+  channel_id: '1407020346208682175'
+  description: "\u03C0\u30FBbi\u03C4koop\u30FB16 channel"
+- name: "\u03C0\u30FBhashtensor\u30FBex16"
+  channel_id: '1383917779442466987'
+  description: "\u03C0\u30FBhashtensor\u30FBex16 channel"
+- name: "\u03C1\u30FB404\u2014gen\u30FB17"
+  channel_id: '1179081290289528864'
+  description: "\u03C1\u30FB404\u2014gen\u30FB17 channel"
+- name: "\u03C1\u30FBpixel\u30FBex17"
+  channel_id: '1230628020214173831'
+  description: "\u03C1\u30FBpixel\u30FBex17 channel"
+- name: "\u03C3\u30FBcortex\u30FBex18"
+  channel_id: '1172669887697653881'
+  description: "\u03C3\u30FBcortex\u30FBex18 channel"
+- name: "\u03C3\u30FBzeus\u30FB18"
+  channel_id: '1335971614516576296'
+  description: "\u03C3\u30FBzeus\u30FB18 channel"
+- name: "\u03C4\u30FBinference\u30FBex19"
+  channel_id: '1186691482749505627'
+  description: "\u03C4\u30FBinference\u30FBex19 channel"
+- name: "\u03C4\u30FBpending\u30FB19"
+  channel_id: '1414687189752746167'
+  description: "\u03C4\u30FBpending\u30FB19 channel"
+- name: "\u03C5\u30FBbi\u03C4agen\u03C4\u30FBex20"
+  channel_id: '1194736998250975332'
+  description: "\u03C5\u30FBbi\u03C4agen\u03C4\u30FBex20 channel"
+- name: "\u03C5\u30FBboun\u03C4y-hun\u03C4er\u30FB20"
+  channel_id: '1416079117614448841'
+  description: "\u03C5\u30FBboun\u03C4y-hun\u03C4er\u30FB20 channel"
+- name: "\u03C5\u30FBoracle\u30FBex20"
+  channel_id: '1175085112703078400'
+  description: "\u03C5\u30FBoracle\u30FBex20 channel"
+- name: "\u03C6\u30FBany-any\u30FB21"
+  channel_id: '1240801129177157692'
+  description: "\u03C6\u30FBany-any\u30FB21 channel"
+- name: "\u03C6\u30FBfiletao\u30FBex21"
+  channel_id: '1182096085636878406'
+  description: "\u03C6\u30FBfiletao\u30FBex21 channel"
+- name: "\u03C7\u30FBdesearch\u30FB22"
+  channel_id: '1189589759065067580'
+  description: "\u03C7\u30FBdesearch\u30FB22 channel"
+- name: "\u03C8\u30FBnuance\u30FB23"
+  channel_id: '1191833510021955695'
+  description: "\u03C8\u30FBnuance\u30FB23 channel"
+- name: "\u03C9\u30FBomega\u30FB24"
+  channel_id: '1214246819886931988'
+  description: "\u03C9\u30FBomega\u30FB24 channel"
+- name: "\u044A\u30FB\u03C4aolend\u30FB116"
+  channel_id: '1379496997752410172'
+  description: "\u044A\u30FB\u03C4aolend\u30FB116 channel"
+- name: "\u044B\u30FBcheckerchain\u30FB87"
+  channel_id: '1347299108238397572'
+  description: "\u044B\u30FBcheckerchain\u30FB87 channel"
+- name: "\u0450\u30FBrich-kids\u30FB110"
+  channel_id: '1374390003865747546'
+  description: "\u0450\u30FBrich-kids\u30FB110 channel"
+- name: "\u0451\u30FBoneoneone\u30FB111"
+  channel_id: '1375215258678857728'
+  description: "\u0451\u30FBoneoneone\u30FB111 channel"
+- name: "\u0452\u30FBunclaimed\u30FB112"
+  channel_id: '1376603375113863178'
+  description: "\u0452\u30FBunclaimed\u30FB112 channel"
+- name: "\u0453\u30FB\u03C4aonado\u30FB113"
+  channel_id: '1363882173991747584'
+  description: "\u0453\u30FB\u03C4aonado\u30FB113 channel"
+- name: "\u0454\u30FBlevel-114\u30FB114"
+  channel_id: '1418239987291525291'
+  description: "\u0454\u30FBlevel-114\u30FB114 channel"
+- name: "\u0454\u30FB\u0454clipse\u30FBex114"
+  channel_id: '1378058251836588154'
+  description: "\u0454\u30FB\u0454clipse\u30FBex114 channel"
+- name: "\u0455\u30FBsoulx\u30FBex115"
+  channel_id: '1379143301478744064'
+  description: "\u0455\u30FBsoulx\u30FBex115 channel"
+- name: "\u0455\u30FBunclaimed\u30FB115"
+  channel_id: '1425981426662248509'
+  description: "\u0455\u30FBunclaimed\u30FB115 channel"
+- name: "\u055E\u30FBtaoillium\u30FB109"
+  channel_id: '1374389869148770425'
+  description: "\u055E\u30FBtaoillium\u30FB109 channel"
+- name: "\u0561\u30FBhappyai\u30FB103"
+  channel_id: '1370083644818849955'
+  description: "\u0561\u30FBhappyai\u30FB103 channel"
+- name: "\u0562\u30FBunclaimed\u30FB104"
+  channel_id: '1370430761408139404'
+  description: "\u0562\u30FBunclaimed\u30FB104 channel"
+- name: "\u0563\u30FBsoundsright\u30FB105"
+  channel_id: '1329824417253167226'
+  description: "\u0563\u30FBsoundsright\u30FB105 channel"
+- name: "\u0564\u30FBvoidai\u30FB106"
+  channel_id: '1371902705605546075'
+  description: "\u0564\u30FBvoidai\u30FB106 channel"
+- name: "\u0565\u30FBtigeralpha\u30FB107"
+  channel_id: '1372284562276745338'
+  description: "\u0565\u30FBtigeralpha\u30FB107 channel"
+- name: "\u0566\u30FBinternet\u30FB108"
+  channel_id: '1374389639225409598'
+  description: "\u0566\u30FBinternet\u30FB108 channel"
+- name: "\u05D0\u30FBa2a\u30FBex25"
+  channel_id: '1234896994674278491'
+  description: "\u05D0\u30FBa2a\u30FBex25 channel"
+- name: "\u05D0\u30FBmainframe\u30FB25"
+  channel_id: '1234881153832321024'
+  description: "\u05D0\u30FBmainframe\u30FB25 channel"
+- name: "\u05D1\u30FBkinitro\u30FB26"
+  channel_id: '1321148494253264998'
+  description: "\u05D1\u30FBkinitro\u30FB26 channel"
+- name: "\u05D2\u30FBneural-internet\u30FB27"
+  channel_id: '1174835090539433994'
+  description: "\u05D2\u30FBneural-internet\u30FB27 channel"
+- name: "\u05D3\u30FBfish\u30FB28"
+  channel_id: '1343950080465698836'
+  description: "\u05D3\u30FBfish\u30FB28 channel"
+- name: "\u05D4\u30FBai-assess\u30FB29"
+  channel_id: '1263866060780605501'
+  description: "\u05D4\u30FBai-assess\u30FB29 channel"
+- name: "\u05D4\u30FBfractal\u30FBex29"
+  channel_id: '1207399745031770152'
+  description: "\u05D4\u30FBfractal\u30FBex29 channel"
+- name: "\u05D5\u30FBbe\u03C4\u30FB30"
+  channel_id: '1255568373056671804'
+  description: "\u05D5\u30FBbe\u03C4\u30FB30 channel"
+- name: "\u05D5\u30FBlovelace\u30FBex32"
+  channel_id: '1177423327241977916'
+  description: "\u05D5\u30FBlovelace\u30FBex32 channel"
+- name: "\u05D5\u30FBwombo\u30FBex30"
+  channel_id: '1211034110722842674'
+  description: "\u05D5\u30FBwombo\u30FBex30 channel"
+- name: "\u05D6\u30FBcandles\u30FB31"
+  channel_id: '1361421560988041267'
+  description: "\u05D6\u30FBcandles\u30FB31 channel"
+- name: "\u05D6\u30FBnaschain\u30FBex31"
+  channel_id: '1222990781577433232'
+  description: "\u05D6\u30FBnaschain\u30FBex31 channel"
+- name: "\u05D6\u30FBzayin\u30FBex31"
+  channel_id: '1224393489945722954'
+  description: "\u05D6\u30FBzayin\u30FBex31 channel"
+- name: "\u05D7\u30FBi\u03C4sai\u30FB32"
+  channel_id: '1215319932062011464'
+  description: "\u05D7\u30FBi\u03C4sai\u30FB32 channel"
+- name: "\u05D8\u30FBready\u30FB33"
+  channel_id: '1233428828479819876'
+  description: "\u05D8\u30FBready\u30FB33 channel"
+- name: "\u05D8\u30FBroleplay\u30FBex32"
+  channel_id: '1181330964606099576'
+  description: "\u05D8\u30FBroleplay\u30FBex32 channel"
+- name: "\u05D9\u30FBmind\u30FB34"
+  channel_id: '1247680967225905273'
+  description: "\u05D9\u30FBmind\u30FB34 channel"
+- name: "\u05DA\u30FBcar\u03C4ha\u30FB35"
+  channel_id: '1415790978077556906'
+  description: "\u05DA\u30FBcar\u03C4ha\u30FB35 channel"
+- name: "\u05DA\u30FBlogic\u30FBex35"
+  channel_id: '1204855126045753434'
+  description: "\u05DA\u30FBlogic\u30FBex35 channel"
+- name: "\u05DB\u30FBau\u03C4oppia\u30FB36"
+  channel_id: '1339356060787408996'
+  description: "\u05DB\u30FBau\u03C4oppia\u30FB36 channel"
+- name: "\u05DB\u30FBhip\u30FBex36"
+  channel_id: '1230499299197194260'
+  description: "\u05DB\u30FBhip\u30FBex36 channel"
+- name: "\u05DC\u30FBaurelius\u30FB37"
+  channel_id: '1420486463841374261'
+  description: "\u05DC\u30FBaurelius\u30FB37 channel"
+- name: "\u05DC\u30FBhal\u03C4ing\u30FBex37"
+  channel_id: '1253448873305964626'
+  description: "\u05DC\u30FBhal\u03C4ing\u30FBex37 channel"
+- name: "\u05DD\u30FBds\u03C4rb\u03C4d\u30FB38"
+  channel_id: '1281623984286334987'
+  description: "\u05DD\u30FBds\u03C4rb\u03C4d\u30FB38 channel"
+- name: "\u05DE\u30FBbasilica\u30FB39"
+  channel_id: '1387865673690251445'
+  description: "\u05DE\u30FBbasilica\u30FB39 channel"
+- name: "\u05DE\u30FBedge\u30FBex39"
+  channel_id: '1241046233800507482'
+  description: "\u05DE\u30FBedge\u30FBex39 channel"
+- name: "\u05DF\u30FBchunk\u30FBex40"
+  channel_id: '1245768323036217408'
+  description: "\u05DF\u30FBchunk\u30FBex40 channel"
+- name: "\u05DF\u30FBunclaimed\u30FB40"
+  channel_id: '1371491429775446147'
+  description: "\u05DF\u30FBunclaimed\u30FB40 channel"
+- name: "\u05E0\u30FBspor\u03C4s\u03C4ensor\u30FB41"
+  channel_id: '1263142301786574889'
+  description: "\u05E0\u30FBspor\u03C4s\u03C4ensor\u30FB41 channel"
+- name: "\u05E1\u30FBgopher\u30FB42"
+  channel_id: '1275149537547391058'
+  description: "\u05E1\u30FBgopher\u30FB42 channel"
+- name: "\u05E2\u30FBgraphi\u03C4e\u30FB43"
+  channel_id: '1263507367405031434'
+  description: "\u05E2\u30FBgraphi\u03C4e\u30FB43 channel"
+- name: "\u05E3\u30FBscore\u30FB44"
+  channel_id: '1271486854830755981'
+  description: "\u05E3\u30FBscore\u30FB44 channel"
+- name: "\u05E4\u30FBswe-rizzo\u30FB45"
+  channel_id: '1267511824601976935'
+  description: "\u05E4\u30FBswe-rizzo\u30FB45 channel"
+- name: "\u05E5\u30FBneural\u30FBex46"
+  channel_id: '1273657158982172742'
+  description: "\u05E5\u30FBneural\u30FBex46 channel"
+- name: "\u05E5\u30FBresi\u30FB46"
+  channel_id: '1397618038894759956'
+  description: "\u05E5\u30FBresi\u30FB46 channel"
+- name: "\u05E6\u30FBcondense\u30FBex47"
+  channel_id: '1305525944123134024'
+  description: "\u05E6\u30FBcondense\u30FBex47 channel"
+- name: "\u05E6\u30FBeclilpse-vortex\u30FBex47"
+  channel_id: '1295404451074674739'
+  description: "\u05E6\u30FBeclilpse-vortex\u30FBex47 channel"
+- name: "\u05E6\u30FBreboo\u03C4\u30FB47"
+  channel_id: '1370452296940650656'
+  description: "\u05E6\u30FBreboo\u03C4\u30FB47 channel"
+- name: "\u05E7\u30FBnex\u03C4place\u30FBex48"
+  channel_id: '1286726353881796670'
+  description: "\u05E7\u30FBnex\u03C4place\u30FBex48 channel"
+- name: "\u05E7\u30FBquantum-c\u30FB48"
+  channel_id: '1407438037956427960'
+  description: "\u05E7\u30FBquantum-c\u30FB48 channel"
+- name: "\u05E8\u30FBautoml\u30FBex49"
+  channel_id: '1174839377659183174'
+  description: "\u05E8\u30FBautoml\u30FBex49 channel"
+- name: "\u05E8\u30FBpolaris\u30FB49"
+  channel_id: '1353838885523820564'
+  description: "\u05E8\u30FBpolaris\u30FB49 channel"
+- name: "\u05E9\u30FBsynth-network\u30FB50"
+  channel_id: '1311109830282313781'
+  description: "\u05E9\u30FBsynth-network\u30FB50 channel"
+- name: "\u0627\u0644\u0639\u0631\u0628\u064A\u0647\u30FBinternal"
+  channel_id: '1111409492618383531'
+  description: "\u0627\u0644\u0639\u0631\u0628\u064A\u0647\u30FBinternal channel"
+- name: "\u0627\u30FBdojo\u30FB52"
+  channel_id: '1213131262483628102'
+  description: "\u0627\u30FBdojo\u30FB52 channel"
+- name: "\u0628\u30FBfrontier\u30FB53"
+  channel_id: '1302975822554202142'
+  description: "\u0628\u30FBfrontier\u30FB53 channel"
+- name: "\u062A\u30FBmiid\u30FB54"
+  channel_id: '1351934165964296232'
+  description: "\u062A\u30FBmiid\u30FB54 channel"
+- name: "\u062A\u30FBunclaimed\u30FB54"
+  channel_id: '1371841935689388126'
+  description: "\u062A\u30FBunclaimed\u30FB54 channel"
+- name: "\u062A\u30FBweb-genie\u30FBex54"
+  channel_id: '1316415472563916841'
+  description: "\u062A\u30FBweb-genie\u30FBex54 channel"
+- name: "\u062B\u30FBprecog\u30FB55"
+  channel_id: '1320766712508977192'
+  description: "\u062B\u30FBprecog\u30FB55 channel"
+- name: "\u062C\u30FBgradients\u30FB56"
+  channel_id: '1311360495428702240'
+  description: "\u062C\u30FBgradients\u30FB56 channel"
+- name: "\u062D\u30FBgaia\u30FB57"
+  channel_id: '1310698546852528180'
+  description: "\u062D\u30FBgaia\u30FB57 channel"
+- name: "\u062E\u30FBdippy-speech\u30FB58"
+  channel_id: '1304499133675081761'
+  description: "\u062E\u30FBdippy-speech\u30FB58 channel"
+- name: "\u062F\u30FBagent-arena\u30FBex59"
+  channel_id: '1310617172132888639'
+  description: "\u062F\u30FBagent-arena\u30FBex59 channel"
+- name: "\u062F\u30FBbabelbi\u03C4\u30FB59"
+  channel_id: '1407849009976053832'
+  description: "\u062F\u30FBbabelbi\u03C4\u30FB59 channel"
+- name: "\u0630\u30FBbitsec\u30FB60"
+  channel_id: '1300553352274382848'
+  description: "\u0630\u30FBbitsec\u30FB60 channel"
+- name: "\u0631\u30FBred-team\u30FB61"
+  channel_id: '1319313447435108413'
+  description: "\u0631\u30FBred-team\u30FB61 channel"
+- name: "\u0633\u30FBa\u03C4x\u30FBex63"
+  channel_id: '1349115333570723978'
+  description: "\u0633\u30FBa\u03C4x\u30FBex63 channel"
+- name: "\u0633\u30FBlean-in\u30FBex63"
+  channel_id: '1321572334578171914'
+  description: "\u0633\u30FBlean-in\u30FBex63 channel"
+- name: "\u0633\u30FBquantum-i\u30FB63"
+  channel_id: '1387107117697073302'
+  description: "\u0633\u30FBquantum-i\u30FB63 channel"
+- name: "\u0634\u30FBchutes\u30FB64"
+  channel_id: '1320739778534047785'
+  description: "\u0634\u30FBchutes\u30FB64 channel"
+- name: "\u0635\u30FB\u03C4pn\u30FB65"
+  channel_id: '1342275465267642408'
+  description: "\u0635\u30FB\u03C4pn\u30FB65 channel"
+- name: "\u0636\u30FBfake-news\u30FBex66"
+  channel_id: '1334536801922060360'
+  description: "\u0636\u30FBfake-news\u30FBex66 channel"
+- name: "\u0636\u30FBinactive\u30FB66"
+  channel_id: '1392960766990221312'
+  description: "\u0636\u30FBinactive\u30FB66 channel"
+- name: "\u0637\u30FB\u03C4enex\u30FB67"
+  channel_id: '1412074718877581495'
+  description: "\u0637\u30FB\u03C4enex\u30FB67 channel"
+- name: "\u0637\u30FB\u03C4enex\u30FB67archived"
+  channel_id: '1349116951959441450'
+  description: "\u0637\u30FB\u03C4enex\u30FB67archived channel"
+- name: "\u0638\u30FBnova\u30FB68"
+  channel_id: '1345470582161936405'
+  description: "\u0638\u30FBnova\u30FB68 channel"
+- name: "\u0639\u30FBunclaimed\u30FB69"
+  channel_id: '1349118519198875778'
+  description: "\u0639\u30FBunclaimed\u30FB69 channel"
+- name: "\u063A\u30FBvericore\u30FB70"
+  channel_id: '1349119225868058644'
+  description: "\u063A\u30FBvericore\u30FB70 channel"
+- name: "\u0641\u30FBleadpoe\u03C4\u30FB71"
+  channel_id: '1349121405903573114'
+  description: "\u0641\u30FBleadpoe\u03C4\u30FB71 channel"
+- name: "\u0642\u30FBs\u03C4ree\u03C4vision\u30FB72"
+  channel_id: '1349122541754515538'
+  description: "\u0642\u30FBs\u03C4ree\u03C4vision\u30FB72 channel"
+- name: "\u0643\u30FBkaf\u30FBex73"
+  channel_id: '1349123085877379112'
+  description: "\u0643\u30FBkaf\u30FBex73 channel"
+- name: "\u0643\u30FBme\u03C4ahash\u30FB73"
+  channel_id: '1351969903132938302'
+  description: "\u0643\u30FBme\u03C4ahash\u30FB73 channel"
+- name: "\u0644\u30FBridges\u30FB62"
+  channel_id: '1320812830735339580'
+  description: "\u0644\u30FBridges\u30FB62 channel"
+- name: "\u0644\u30FBunclaimed\u30FB74"
+  channel_id: '1349123574820245534'
+  description: "\u0644\u30FBunclaimed\u30FB74 channel"
+- name: "\u0645\u30FBhippius\u30FB75"
+  channel_id: '1349124437752152075'
+  description: "\u0645\u30FBhippius\u30FB75 channel"
+- name: "\u0646\u30FBsafe-scan\u30FB76"
+  channel_id: '1264939518641963070'
+  description: "\u0646\u30FBsafe-scan\u30FB76 channel"
+- name: "\u0647\u30FBliquidity\u30FB77"
+  channel_id: '1351180132295118848'
+  description: "\u0647\u30FBliquidity\u30FB77 channel"
+- name: "\u0648\u30FBunclaimed\u30FB78"
+  channel_id: '1351180661918142474'
+  description: "\u0648\u30FBunclaimed\u30FB78 channel"
+- name: "\u0649\u30FBai-fac\u03C4ory\u30FB80"
+  channel_id: '1353733529774723073'
+  description: "\u0649\u30FBai-fac\u03C4ory\u30FB80 channel"
+- name: "\u064A\u30FB\u03C4aos\u30FB79"
+  channel_id: '1353733356470276096'
+  description: "\u064A\u30FB\u03C4aos\u30FB79 channel"
+- name: "\u0DB1\u30FBbyteleap\u30FB128"
+  channel_id: '1387438124132733110'
+  description: "\u0DB1\u30FBbyteleap\u30FB128 channel"
+- name: "\u10D0\u30FBflamewire\u30FB97"
+  channel_id: '1366426210275692544'
+  description: "\u10D0\u30FBflamewire\u30FB97 channel"
+- name: "\u10D1\u30FBunclaimed\u30FB98"
+  channel_id: '1366426973781364816'
+  description: "\u10D1\u30FBunclaimed\u30FB98 channel"
+- name: "\u10D2\u30FBneza\u30FB99"
+  channel_id: '1366845111945658409'
+  description: "\u10D2\u30FBneza\u30FB99 channel"
+- name: "\u10D3\u30FBsign\u03B1l\u30FB100"
+  channel_id: '1366897804068393000'
+  description: "\u10D3\u30FBsign\u03B1l\u30FB100 channel"
+- name: "\u10D4\u30FBunclaimed\u30FB101"
+  channel_id: '1368946065738436749'
+  description: "\u10D4\u30FBunclaimed\u30FB101 channel"
+- name: "\u10D5\u30FBbe\u03C4\u03C4er\u03C4herapy\u30FB102"
+  channel_id: '1375534889486778409'
+  description: "\u10D5\u30FBbe\u03C4\u03C4er\u03C4herapy\u30FB102 channel"
+- name: "\u10D5\u30FBsimeoape\u30FB102"
+  channel_id: '1368946186345512980'
+  description: "\u10D5\u30FBsimeoape\u30FB102 channel"
+- name: "\u1681\u30FB\u03C4ensorprox\u30FB91"
+  channel_id: '1361439346154016900'
+  description: "\u1681\u30FB\u03C4ensorprox\u30FB91 channel"
+- name: "\u1682\u30FBpi\u30FB92"
+  channel_id: '1361761424153645217'
+  description: "\u1682\u30FBpi\u30FB92 channel"
+- name: "\u1683\u30FBbi\u03C4cas\u03C4\u30FB93"
+  channel_id: '1362489640841380045'
+  description: "\u1683\u30FBbi\u03C4cas\u03C4\u30FB93 channel"
+- name: "\u1684\u30FBeas\u03C4world\u30FB94"
+  channel_id: '1343988268630409226'
+  description: "\u1684\u30FBeas\u03C4world\u30FB94 channel"
+- name: "\u1685\u30FBactual\u30FB95"
+  channel_id: '1364253568961609859'
+  description: "\u1685\u30FBactual\u30FB95 channel"
+- name: "\u169B\u30FBflock-off\u30FB96"
+  channel_id: '1364655778149171250'
+  description: "\u169B\u30FBflock-off\u30FB96 channel"
+- name: "\u16A0\u30FBgrail\u30FB81"
+  channel_id: '1354089114189955102'
+  description: "\u16A0\u30FBgrail\u30FB81 channel"
+- name: "\u16A2\u30FBunclaimed\u30FB82"
+  channel_id: '1354838433142542407'
+  description: "\u16A2\u30FBunclaimed\u30FB82 channel"
+- name: "\u16A6\u30FBcliqueai\u30FB83"
+  channel_id: '1355560253076410428'
+  description: "\u16A6\u30FBcliqueai\u30FB83 channel"
+- name: "\u16A6\u30FBholding-subnet\u30FBex84"
+  channel_id: '1356254998874554589'
+  description: "\u16A6\u30FBholding-subnet\u30FBex84 channel"
+  tags:
+  - subnet
+- name: "\u16A8\u30FBchipforge\u30FB84"
+  channel_id: '1408463235082092564'
+  description: "\u16A8\u30FBchipforge\u30FB84 channel"
+- name: "\u16A8\u30FBdocs-insight\u30FBex84"
+  channel_id: '1300456223371427912'
+  description: "\u16A8\u30FBdocs-insight\u30FBex84 channel"
+- name: "\u16B1\u30FBvidaio\u30FB85"
+  channel_id: '1342559689690583202'
+  description: "\u16B1\u30FBvidaio\u30FB85 channel"
+- name: "\u16B3\u30FBmiao\u30FB86"
+  channel_id: '1358810927943782673'
+  description: "\u16B3\u30FBmiao\u30FB86 channel"
+- name: "\u16C9\u30FBinves\u03C4ing\u30FB88"
+  channel_id: '1358854051634221328'
+  description: "\u16C9\u30FBinves\u03C4ing\u30FB88 channel"
+- name: "\u16D2\u30FBinfini\u03C4ehash\u30FB89"
+  channel_id: '1359592408119120033'
+  description: "\u16D2\u30FBinfini\u03C4ehash\u30FB89 channel"
+- name: "\u2206\u30FB\u03C4argon\u30FB4"
+  channel_id: '1161765008347254915'
+  description: "\u2206\u30FB\u03C4argon\u30FB4 channel"
+- name: "\u2611\u30FBsubnet-role-assign"
+  channel_id: '1179129432410173541'
+  description: "\u2611\u30FBsubnet-role-assign channel"
+  tags:
+  - subnet
+- name: "\u262F\u30FBrao"
+  channel_id: '1230665820859007039'
+  description: "\u262F\u30FBrao channel"
+- name: "\u26A1\xB7synapse\xB7\U0001F4AC"
+  channel_id: '1235235339501830145'
+  description: "\u26A1\xB7synapse\xB7\U0001F4AC channel"
+- name: "\u26CF\u30FBcommunity-pool\u30FBex13"
+  channel_id: '1166513818957008936'
+  description: "\u26CF\u30FBcommunity-pool\u30FBex13 channel"
+- name: "\u26CF\u30FBmining"
+  channel_id: '801875196801450045'
+  description: "\u26CF\u30FBmining channel"
+- name: "\u2705\u2502verify-staging"
+  channel_id: '1116140644851789975'
+  description: "\u2705\u2502verify-staging channel"
+- name: "\u2705\u30FBverify"
+  channel_id: '1116140945725980743'
+  description: "\u2705\u30FBverify channel"
+- name: "\u2753\u30FBfaq"
+  channel_id: '1215386737661055056'
+  description: "\u2753\u30FBfaq channel"
+- name: "\u2C44\u30FBlium-io\u30FB51"
+  channel_id: '1291754566957928469'
+  description: "\u2C44\u30FBlium-io\u30FB51 channel"
+- name: "\u2C81\u30FBbrainplay\u30FB117"
+  channel_id: '1380199829669416970'
+  description: "\u2C81\u30FBbrainplay\u30FB117 channel"
+- name: "\u2C81\u30FBunclaimed\u30FB118"
+  channel_id: '1381659575522033724'
+  description: "\u2C81\u30FBunclaimed\u30FB118 channel"
+- name: "\u2C83\u30FBaffine\u30FB120"
+  channel_id: '1381987595881414656'
+  description: "\u2C83\u30FBaffine\u30FB120 channel"
+- name: "\u2C83\u30FBunclaimed\u30FB119"
+  channel_id: '1381660350818029578'
+  description: "\u2C83\u30FBunclaimed\u30FB119 channel"
+- name: "\u2C85\u30FBbitrecs\u30FB122"
+  channel_id: '1375509743753236722'
+  description: "\u2C85\u30FBbitrecs\u30FB122 channel"
+- name: "\u2C85\u30FBsundae-bar\u30FB121"
+  channel_id: '1382818027241738352'
+  description: "\u2C85\u30FBsundae-bar\u30FB121 channel"
+- name: "\U00011000\u30FBmantis\u30FB123"
+  channel_id: '1384252267770806293'
+  description: "\U00011000\u30FBmantis\u30FB123 channel"
+- name: "\U00011001\u30FBswarm\u30FB124"
+  channel_id: '1385341501130801172'
+  description: "\U00011001\u30FBswarm\u30FB124 channel"
+- name: "\U00011002\u30FBflyspeck\u30FB125"
+  channel_id: '1386721054906646549'
+  description: "\U00011002\u30FBflyspeck\u30FB125 channel"
+- name: "\U00011003\u30FBunclaimed\u30FB126"
+  channel_id: '1386721120652361800'
+  description: "\U00011003\u30FBunclaimed\u30FB126 channel"
+- name: "\U00011005\u30FBunclaimed\u30FB127"
+  channel_id: '1387151679266230323'
+  description: "\U00011005\u30FBunclaimed\u30FB127 channel"
+- name: "\U0001D6FC\u30FBapex\u30FB1"
+  channel_id: '1161764867166961704'
+  description: "\U0001D6FC\u30FBapex\u30FB1 channel"
+- name: "\U0001D6FE\u30FBhotkey\u30FBex3"
+  channel_id: '1219320605107556362'
+  description: "\U0001D6FE\u30FBhotkey\u30FBex3 channel"
+- name: "\U0001D700\u30FBimage-generation\u30FBex-5"
+  channel_id: '1161765035488579635'
+  description: "\U0001D700\u30FBimage-generation\u30FBex-5 channel"
+- name: "\U0001F1E8\U0001F1F3\u30FB\u4E2D\u6587"
+  channel_id: '1017833753021788251'
+  description: "\U0001F1E8\U0001F1F3\u30FB\u4E2D\u6587 channel"
+- name: "\U0001F1E8\U0001F1F3\u4E2D\u6587\u30FBinternal"
+  channel_id: '1111409967057076256'
+  description: "\U0001F1E8\U0001F1F3\u4E2D\u6587\u30FBinternal channel"
+- name: "\U0001F1E9\U0001F1EAgerman\u30FBinternal"
+  channel_id: '1111409773418655904'
+  description: "\U0001F1E9\U0001F1EAgerman\u30FBinternal channel"
+- name: "\U0001F1E9\U0001F1EA\u30FBgerman"
+  channel_id: '1017563265997484152'
+  description: "\U0001F1E9\U0001F1EA\u30FBgerman channel"
+- name: "\U0001F1EA\U0001F1F8espa\xF1ol\u30FBinternal"
+  channel_id: '1111410391080239155'
+  description: "\U0001F1EA\U0001F1F8espa\xF1ol\u30FBinternal channel"
+- name: "\U0001F1EA\U0001F1F8\u30FBespa\xF1ol"
+  channel_id: '1018582448503791616'
+  description: "\U0001F1EA\U0001F1F8\u30FBespa\xF1ol channel"
+- name: "\U0001F1EB\U0001F1F7french\u30FBinternal"
+  channel_id: '1111378288468828160'
+  description: "\U0001F1EB\U0001F1F7french\u30FBinternal channel"
+- name: "\U0001F1EB\U0001F1F7\u30FBfrench"
+  channel_id: '1017563184732839977'
+  description: "\U0001F1EB\U0001F1F7\u30FBfrench channel"
+- name: "\U0001F1EE\U0001F1F7\u0641\u0627\u0631\u0633\u0649\u30FBinternal"
+  channel_id: '1111410154253074524'
+  description: "\U0001F1EE\U0001F1F7\u0641\u0627\u0631\u0633\u0649\u30FBinternal channel"
+- name: "\U0001F1EE\U0001F1F7\u30FB\u0641\u0627\u0631\u0633\u0649"
+  channel_id: '1017834432205430834'
+  description: "\U0001F1EE\U0001F1F7\u30FB\u0641\u0627\u0631\u0633\u0649 channel"
+- name: "\U0001F1EF\U0001F1F4\u30FB\u0627\u0644\u0639\u0631\u0628\u064A\u0647"
+  channel_id: '1017563106387427389'
+  description: "\U0001F1EF\U0001F1F4\u30FB\u0627\u0644\u0639\u0631\u0628\u064A\u0647\
+    \ channel"
+- name: "\U0001F1EF\U0001F1F5\u30FB\u65E5\u672C\u8A9E"
+  channel_id: '1068390202864828497'
+  description: "\U0001F1EF\U0001F1F5\u30FB\u65E5\u672C\u8A9E channel"
+- name: "\U0001F1EF\U0001F1F5\u65E5\u672C\u8A9E\u30FBinternal"
+  channel_id: '1111411115746922496'
+  description: "\U0001F1EF\U0001F1F5\u65E5\u672C\u8A9E\u30FBinternal channel"
+- name: "\U0001F1F0\U0001F1F7\u30FB\uD55C\uAD6D\uC5B4"
+  channel_id: '1039294713368412252'
+  description: "\U0001F1F0\U0001F1F7\u30FB\uD55C\uAD6D\uC5B4 channel"
+- name: "\U0001F1F0\U0001F1F7\uD55C\uAD6D\uC5B4\u30FBinternal"
+  channel_id: '1111410544839229490'
+  description: "\U0001F1F0\U0001F1F7\uD55C\uAD6D\uC5B4\u30FBinternal channel"
+- name: "\U0001F1F3\U0001F1F1nederlands\u30FBinternal"
+  channel_id: '1111411581499232306'
+  description: "\U0001F1F3\U0001F1F1nederlands\u30FBinternal channel"
+- name: "\U0001F1F3\U0001F1F1\u30FBnederlands"
+  channel_id: '1079487960921161859'
+  description: "\U0001F1F3\U0001F1F1\u30FBnederlands channel"
+- name: "\U0001F1F5\U0001F1F1polish\u30FBinternal"
+  channel_id: '1111385718158270505'
+  description: "\U0001F1F5\U0001F1F1polish\u30FBinternal channel"
+- name: "\U0001F1F5\U0001F1F1\u30FBpolish"
+  channel_id: '1017563158665236581'
+  description: "\U0001F1F5\U0001F1F1\u30FBpolish channel"
+- name: "\U0001F1F7\U0001F1F4rom\xE2n\u0103\u30FBinternal"
+  channel_id: '1111410770606047232'
+  description: "\U0001F1F7\U0001F1F4rom\xE2n\u0103\u30FBinternal channel"
+- name: "\U0001F1F7\U0001F1F4\u30FBrom\xE2n\u0103"
+  channel_id: '1044741844174639264'
+  description: "\U0001F1F7\U0001F1F4\u30FBrom\xE2n\u0103 channel"
+- name: "\U0001F1F8\U0001F1EAsvenska\u30FBinternal"
+  channel_id: '1111411652542333018'
+  description: "\U0001F1F8\U0001F1EAsvenska\u30FBinternal channel"
+- name: "\U0001F1F8\U0001F1EA\u30FBsvenska"
+  channel_id: '1082717556789481603'
+  description: "\U0001F1F8\U0001F1EA\u30FBsvenska channel"
+- name: "\U0001F1F8\U0001F1EEslovenian\u30FBinternal"
+  channel_id: '1212088340937969664'
+  description: "\U0001F1F8\U0001F1EEslovenian\u30FBinternal channel"
+- name: "\U0001F1F8\U0001F1EE\u30FBslovenian"
+  channel_id: '1212088295115325450'
+  description: "\U0001F1F8\U0001F1EE\u30FBslovenian channel"
+- name: "\U0001F1F9\U0001F1F7turkish\u30FBinternal"
+  channel_id: '1111410991436156928'
+  description: "\U0001F1F9\U0001F1F7turkish\u30FBinternal channel"
+- name: "\U0001F1F9\U0001F1F7\u30FBturkish"
+  channel_id: '1058066944168841236'
+  description: "\U0001F1F9\U0001F1F7\u30FBturkish channel"
+- name: "\U0001F3B5\u30FBtunes"
+  channel_id: '1107361159134330901'
+  description: "\U0001F3B5\u30FBtunes channel"
+- name: "\U0001F3DB\u30FBroot\u30FB0"
+  channel_id: '1161764746819805215'
+  description: "\U0001F3DB\u30FBroot\u30FB0 channel"
+- name: "\U0001F426\u30FBtwitter"
+  channel_id: '1055560605626544218'
+  description: "\U0001F426\u30FBtwitter channel"
+- name: "\U0001F44B\u30FBintroductions"
+  channel_id: '935889733337362482'
+  description: "\U0001F44B\u30FBintroductions channel"
+- name: "\U0001F451\u30FBowners"
+  channel_id: '1194085035389747280'
+  description: "\U0001F451\u30FBowners channel"
+- name: "\U0001F4A3\xB7nucleus\xB7\U0001F4AC"
+  channel_id: '1176889736636407808'
+  description: "\U0001F4A3\xB7nucleus\xB7\U0001F4AC channel"
+- name: "\U0001F4AD\u30FBgeneral"
+  channel_id: '799672011814862902'
+  description: "\U0001F4AD\u30FBgeneral channel"
+  tags:
+  - general
+- name: "\U0001F4C4\u30FBresources"
+  channel_id: '1055545363832000543'
+  description: "\U0001F4C4\u30FBresources channel"
+- name: "\U0001F4CC\u30FBrules"
+  channel_id: '830068283314929684'
+  description: "\U0001F4CC\u30FBrules channel"
+- name: "\U0001F4D6\xB7gyrus\xB7\U0001F4AC"
+  channel_id: '1176889641547333683'
+  description: "\U0001F4D6\xB7gyrus\xB7\U0001F4AC channel"
+- name: "\U0001F4DC\u30FBreleases"
+  channel_id: '1359587876563718144'
+  description: "\U0001F4DC\u30FBreleases channel"
+- name: "\U0001F4E3\xB7opentensor"
+  channel_id: '1193944943308316752'
+  description: "\U0001F4E3\xB7opentensor channel"
+- name: "\U0001F4E3\u30FBannouncements"
+  channel_id: '830075335084474390'
+  description: "\U0001F4E3\u30FBannouncements channel"
+  tags:
+  - announcements
+- name: "\U0001F4E6\u2502verification-logs"
+  channel_id: '1171535129018126417'
+  description: "\U0001F4E6\u2502verification-logs channel"
+- name: "\U0001F511\u30FBsubnet-updates"
+  channel_id: '1214915877854519338'
+  description: "\U0001F511\u30FBsubnet-updates channel"
+  tags:
+  - subnet
+- name: "\U0001F528\u30FBban-log"
+  channel_id: '1211828666741563513'
+  description: "\U0001F528\u30FBban-log channel"
+- name: "\U0001F682\xB7medulla\xB7\U0001F4AC"
+  channel_id: '1201966883625238598'
+  description: "\U0001F682\xB7medulla\xB7\U0001F4AC channel"
+- name: "\U0001F6A7\u30FBregistration"
+  channel_id: '1055559544773816320'
+  description: "\U0001F6A7\u30FBregistration channel"
+- name: "\U0001F6E0\u30FBaction-log"
+  channel_id: '1129568884840734891'
+  description: "\U0001F6E0\u30FBaction-log channel"
+- name: "\U0001F6E0\u30FBautomod-log"
+  channel_id: '1213178598291279892'
+  description: "\U0001F6E0\u30FBautomod-log channel"
+- name: "\U0001F6E0\u30FBdiscord-alerts"
+  channel_id: '830074366955880479'
+  description: "\U0001F6E0\u30FBdiscord-alerts channel"
+- name: "\U0001F6E0\u30FBdyno-link-log"
+  channel_id: '1336756625809342636'
+  description: "\U0001F6E0\u30FBdyno-link-log channel"
+- name: "\U0001F6E0\u30FBinvite-log"
+  channel_id: '1367990099601526814'
+  description: "\U0001F6E0\u30FBinvite-log channel"
+- name: "\U0001F6E0\u30FBmee6-log"
+  channel_id: '1402116209402712285'
+  description: "\U0001F6E0\u30FBmee6-log channel"
+- name: "\U0001F6E0\u30FBmod-alert"
+  channel_id: '1384956145956945920'
+  description: "\U0001F6E0\u30FBmod-alert channel"
+- name: "\U0001F6E0\u30FBmod-announcement"
+  channel_id: '1385029279783452855'
+  description: "\U0001F6E0\u30FBmod-announcement channel"
+  tags:
+  - announcements
+- name: "\U0001F6E0\u30FBmoderators"
+  channel_id: '917906456261578792'
+  description: "\U0001F6E0\u30FBmoderators channel"
+- name: "\U0001F6E0\u30FBnickname-log"
+  channel_id: '1421224224680316958'
+  description: "\U0001F6E0\u30FBnickname-log channel"
+- name: "\U0001F918\xB7general\xB7\U0001F4AC"
+  channel_id: '1176889798313660476'
+  description: "\U0001F918\xB7general\xB7\U0001F4AC channel"
+  tags:
+  - general
+- name: "\U0001F91D\u30FBjob-board"
+  channel_id: '1220763263982375063'
+  description: "\U0001F91D\u30FBjob-board channel"
+- name: "\U0001F9E0\xB7cerebrum\xB7\U0001F4AC"
+  channel_id: '1192888943616733204'
+  description: "\U0001F9E0\xB7cerebrum\xB7\U0001F4AC channel"
+- name: "\U0001FA93\xB7cortex\xB7\U0001F4AC"
+  channel_id: '1176889593136693339'
+  description: "\U0001FA93\xB7cortex\xB7\U0001F4AC channel"
