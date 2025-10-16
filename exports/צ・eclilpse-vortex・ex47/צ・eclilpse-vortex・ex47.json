@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1295404451074674739",
+    "type": "GuildTextChat",
+    "categoryId": "1295435545832325140",
+    "category": "The Archives - Mainnet",
+    "name": "צ・eclilpse-vortex・ex47",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-01-20T10:00:12.364-06:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T02:21:38.342151-05:00",
+  "messages": [],
+  "messageCount": 0
+}

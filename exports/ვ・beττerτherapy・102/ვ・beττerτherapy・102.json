@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1375534889486778409",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "ვ・beττerτherapy・102",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T12:45:39.764-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T06:02:55.6970415-05:00",
+  "messages": [],
+  "messageCount": 0
+}

@@ -1,0 +1,916 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1347299108238397572",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ы・checkerchain・87",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-10-14T19:20:18.6649124-05:00",
+  "messages": [
+    {
+      "id": "1427110242654752808",
+      "type": "Default",
+      "timestamp": "2025-10-12T20:46:36.275-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just dmed. @Merkle | SN87 | CheckerChain",
+      "author": {
+        "id": "1273724526190006467",
+        "name": "patrick_jose0",
+        "discriminator": "0000",
+        "nickname": "Patrick",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1286726433699532800",
+            "name": "nextplace・48",
+            "color": "#11806A",
+            "position": 92
+          },
+          {
+            "id": "1311109873672392785",
+            "name": "synth-network・50",
+            "color": "#11806A",
+            "position": 89
+          },
+          {
+            "id": "1302975971804184626",
+            "name": "efficient-frontier・53",
+            "color": "#11806A",
+            "position": 86
+          },
+          {
+            "id": "1351934817838567485",
+            "name": "miid・54",
+            "color": "#11806A",
+            "position": 85
+          },
+          {
+            "id": "1311360549568909332",
+            "name": "gradients・56",
+            "color": "#11806A",
+            "position": 83
+          },
+          {
+            "id": "1310698595850129459",
+            "name": "gaia・57",
+            "color": "#11806A",
+            "position": 82
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1300553409597931663",
+            "name": "bitsec・60",
+            "color": "#11806A",
+            "position": 79
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1342275581236088872",
+            "name": "tpn・65",
+            "color": "#11806A",
+            "position": 74
+          },
+          {
+            "id": "1346133673451327542",
+            "name": "nova・68",
+            "color": "#11806A",
+            "position": 71
+          },
+          {
+            "id": "1349759960719953950",
+            "name": "vericore・70",
+            "color": "#11806A",
+            "position": 70
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1362451357122166905",
+            "name": "tensorprox・91",
+            "color": "#11806A",
+            "position": 53
+          },
+          {
+            "id": "1361761950110978251",
+            "name": "pi・92",
+            "color": "#11806A",
+            "position": 52
+          },
+          {
+            "id": "1362489668712530212",
+            "name": "bitcast・93",
+            "color": "#11806A",
+            "position": 51
+          },
+          {
+            "id": "1343987982834864178",
+            "name": "eastworld・94",
+            "color": "#11806A",
+            "position": 50
+          },
+          {
+            "id": "1364655541577584802",
+            "name": "flock-off・96",
+            "color": "#11806A",
+            "position": 48
+          },
+          {
+            "id": "1366426237563830314",
+            "name": "flamewire・97",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1381667117815824434",
+            "name": "neza・99",
+            "color": "#11806A",
+            "position": 45
+          },
+          {
+            "id": "1370084092527513672",
+            "name": "happyai・103",
+            "color": "#11806A",
+            "position": 42
+          },
+          {
+            "id": "1329824446223220867",
+            "name": "soundsright・105",
+            "color": "#11806A",
+            "position": 41
+          },
+          {
+            "id": "1379149191548502150",
+            "name": "tigeralpha・107",
+            "color": "#11806A",
+            "position": 39
+          },
+          {
+            "id": "1382378455152332944",
+            "name": "oneoneone・111",
+            "color": "#11806A",
+            "position": 35
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1386718522453004358",
+            "name": "swarm・124",
+            "color": "#11806A",
+            "position": 25
+          },
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1273724526190006467/df57b97e28fad281ad251fa4b4f728e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "984097025035472957",
+          "name": "merkle_checkerchain",
+          "discriminator": "0000",
+          "nickname": "Merkle | SN87 | CheckerChain",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1347298350092783656",
+              "name": "checkerchain・87",
+              "color": "#11806A",
+              "position": 58
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/984097025035472957/26fb555a82b649d4469c7ad067af17e5.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427126928778723380",
+      "type": "Reply",
+      "timestamp": "2025-10-12T21:52:54.557-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "got it.",
+      "author": {
+        "id": "984097025035472957",
+        "name": "merkle_checkerchain",
+        "discriminator": "0000",
+        "nickname": "Merkle | SN87 | CheckerChain",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/984097025035472957/26fb555a82b649d4469c7ad067af17e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1273724526190006467",
+          "name": "patrick_jose0",
+          "discriminator": "0000",
+          "nickname": "Patrick",
+          "color": "#FFFFFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1295847093847720027",
+              "name": "rao",
+              "color": "#FFFFFF",
+              "position": 148
+            },
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1201942886669889566",
+              "name": "horde・12",
+              "color": "#11806A",
+              "position": 126
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1271487069079863367",
+              "name": "score・44",
+              "color": "#11806A",
+              "position": 96
+            },
+            {
+              "id": "1267512274667700296",
+              "name": "swe-rizzo・45",
+              "color": "#11806A",
+              "position": 95
+            },
+            {
+              "id": "1286726433699532800",
+              "name": "nextplace・48",
+              "color": "#11806A",
+              "position": 92
+            },
+            {
+              "id": "1311109873672392785",
+              "name": "synth-network・50",
+              "color": "#11806A",
+              "position": 89
+            },
+            {
+              "id": "1302975971804184626",
+              "name": "efficient-frontier・53",
+              "color": "#11806A",
+              "position": 86
+            },
+            {
+              "id": "1351934817838567485",
+              "name": "miid・54",
+              "color": "#11806A",
+              "position": 85
+            },
+            {
+              "id": "1311360549568909332",
+              "name": "gradients・56",
+              "color": "#11806A",
+              "position": 83
+            },
+            {
+              "id": "1310698595850129459",
+              "name": "gaia・57",
+              "color": "#11806A",
+              "position": 82
+            },
+            {
+              "id": "1304499734827892816",
+              "name": "dippy-speech・58",
+              "color": "#11806A",
+              "position": 81
+            },
+            {
+              "id": "1300553409597931663",
+              "name": "bitsec・60",
+              "color": "#11806A",
+              "position": 79
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1320814657765900322",
+              "name": "ridges・62",
+              "color": "#11806A",
+              "position": 77
+            },
+            {
+              "id": "1342275581236088872",
+              "name": "tpn・65",
+              "color": "#11806A",
+              "position": 74
+            },
+            {
+              "id": "1346133673451327542",
+              "name": "nova・68",
+              "color": "#11806A",
+              "position": 71
+            },
+            {
+              "id": "1349759960719953950",
+              "name": "vericore・70",
+              "color": "#11806A",
+              "position": 70
+            },
+            {
+              "id": "1349127990910386238",
+              "name": "streetvision・72",
+              "color": "#11806A",
+              "position": 68
+            },
+            {
+              "id": "1347298350092783656",
+              "name": "checkerchain・87",
+              "color": "#11806A",
+              "position": 58
+            },
+            {
+              "id": "1358857675181658263",
+              "name": "investing・88",
+              "color": "#11806A",
+              "position": 56
+            },
+            {
+              "id": "1379868219757695077",
+              "name": "infinitehash・89",
+              "color": "#11806A",
+              "position": 55
+            },
+            {
+              "id": "1362451357122166905",
+              "name": "tensorprox・91",
+              "color": "#11806A",
+              "position": 53
+            },
+            {
+              "id": "1361761950110978251",
+              "name": "pi・92",
+              "color": "#11806A",
+              "position": 52
+            },
+            {
+              "id": "1362489668712530212",
+              "name": "bitcast・93",
+              "color": "#11806A",
+              "position": 51
+            },
+            {
+              "id": "1343987982834864178",
+              "name": "eastworld・94",
+              "color": "#11806A",
+              "position": 50
+            },
+            {
+              "id": "1364655541577584802",
+              "name": "flock-off・96",
+              "color": "#11806A",
+              "position": 48
+            },
+            {
+              "id": "1366426237563830314",
+              "name": "flamewire・97",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1381667117815824434",
+              "name": "neza・99",
+              "color": "#11806A",
+              "position": 45
+            },
+            {
+              "id": "1370084092527513672",
+              "name": "happyai・103",
+              "color": "#11806A",
+              "position": 42
+            },
+            {
+              "id": "1329824446223220867",
+              "name": "soundsright・105",
+              "color": "#11806A",
+              "position": 41
+            },
+            {
+              "id": "1379149191548502150",
+              "name": "tigeralpha・107",
+              "color": "#11806A",
+              "position": 39
+            },
+            {
+              "id": "1382378455152332944",
+              "name": "oneoneone・111",
+              "color": "#11806A",
+              "position": 35
+            },
+            {
+              "id": "1383926660897833061",
+              "name": "sundae-bar・121",
+              "color": "#11806A",
+              "position": 28
+            },
+            {
+              "id": "1386718522453004358",
+              "name": "swarm・124",
+              "color": "#11806A",
+              "position": 25
+            },
+            {
+              "id": "1404959073283346552",
+              "name": "subnet-claiminfo",
+              "color": "#11806A",
+              "position": 5
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1273724526190006467/df57b97e28fad281ad251fa4b4f728e9.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427110242654752808",
+        "channelId": "1347299108238397572",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427486284439621673",
+      "type": "Default",
+      "timestamp": "2025-10-13T21:40:51.623-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Merkle | SN87 | CheckerChaincheck dm，pls",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "984097025035472957",
+          "name": "merkle_checkerchain",
+          "discriminator": "0000",
+          "nickname": "Merkle | SN87 | CheckerChain",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1347298350092783656",
+              "name": "checkerchain・87",
+              "color": "#11806A",
+              "position": 58
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/984097025035472957/26fb555a82b649d4469c7ad067af17e5.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427514719560007743",
+      "type": "Reply",
+      "timestamp": "2025-10-13T23:33:51.084-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "done.",
+      "author": {
+        "id": "984097025035472957",
+        "name": "merkle_checkerchain",
+        "discriminator": "0000",
+        "nickname": "Merkle | SN87 | CheckerChain",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/984097025035472957/26fb555a82b649d4469c7ad067af17e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "468135178410131488",
+          "name": "loewe1631",
+          "discriminator": "0000",
+          "nickname": "loewe1631",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427486284439621673",
+        "channelId": "1347299108238397572",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427649387328442388",
+      "type": "Default",
+      "timestamp": "2025-10-14T08:28:58.382-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Excited to hear about the next updates \uD83D\uDC4D\uD83C\uDFFC",
+      "author": {
+        "id": "1252372431012888646",
+        "name": "chipsss00_41075",
+        "discriminator": "0000",
+        "nickname": "chipsss00_41075",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4D",
+          "code": "thumbsup",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83C\uDFFC",
+          "code": "\uD83C\uDFFC",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3fc.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 5
+}

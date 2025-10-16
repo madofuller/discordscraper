@@ -1,0 +1,111 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1349118519198875778",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ع・unclaimed・69",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T12:17:08.788-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T04:33:38.5687798-05:00",
+  "messages": [
+    {
+      "id": "1428055205634773012",
+      "type": "Default",
+      "timestamp": "2025-10-15T11:21:33.006-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m banned from this chat,",
+      "author": {
+        "id": "904759677227761745",
+        "name": "elonmusk966",
+        "discriminator": "0000",
+        "nickname": "elonmusk966",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428055214770098358",
+      "type": "Default",
+      "timestamp": "2025-10-15T11:21:35.184-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?",
+      "author": {
+        "id": "904759677227761745",
+        "name": "elonmusk966",
+        "discriminator": "0000",
+        "nickname": "elonmusk966",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

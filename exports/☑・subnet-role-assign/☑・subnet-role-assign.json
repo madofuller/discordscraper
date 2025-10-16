@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1179129432410173541",
+    "type": "GuildTextChat",
+    "categoryId": "1161764488186441768",
+    "category": "[・Subnets・]",
+    "name": "☑・subnet-role-assign",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-08-19T09:26:31.697-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T07:09:57.4125363-05:00",
+  "messages": [],
+  "messageCount": 0
+}

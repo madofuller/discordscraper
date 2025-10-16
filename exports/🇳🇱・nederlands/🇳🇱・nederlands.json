@@ -1,0 +1,446 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1079487960921161859",
+    "type": "GuildTextChat",
+    "categoryId": "1017563036241891368",
+    "category": "[・International・]",
+    "name": "\uD83C\uDDF3\uD83C\uDDF1・nederlands",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-09-28T16:52:29.281-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T09:32:40.8758221-05:00",
+  "messages": [
+    {
+      "id": "1428307926036250696",
+      "type": "Default",
+      "timestamp": "2025-10-16T04:05:46.245-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Iemand hier de me kan helpen om men miner correct op te zetten? hij draait nu maar krijg geen rewards",
+      "author": {
+        "id": "1067431234306850846",
+        "name": "dougynator",
+        "discriminator": "0000",
+        "nickname": "Dougynator",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1067431234306850846/ed7525c767a4df6dd7ab29495d54b07e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349528830120030",
+      "type": "Reply",
+      "timestamp": "2025-10-16T06:51:05.124-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi there!  First things first: DO NOT respond to any DMs or Friend Requests (FR) that anyone sends you.  We DO NOT reach out to people via DM, even as a \"reply\" or to \"follow up\", don't send people FRs, and don't assign people to \"support\" to do this.  Anyone DMing or calling you right now is a scammer, even if they look like me, another mod, admin, Opentensor Foundation team member, etc (they are imposters).  And if anyone invites you to DM them for \"a guide\" or \"resources\" because they \"can't post links\", it's a scam.  Lastly, do not click on links to \"support servers\" to \"open/raise a ticket\" -- **this is also a scam**",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1067431234306850846",
+          "name": "dougynator",
+          "discriminator": "0000",
+          "nickname": "Dougynator",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1067431234306850846/ed7525c767a4df6dd7ab29495d54b07e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428307926036250696",
+        "channelId": "1079487960921161859",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349535389745172",
+      "type": "Default",
+      "timestamp": "2025-10-16T06:51:06.688-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hoi! Allereerst: reageer NIET op DM's of vriendschapsverzoeken (FR) die iemand u stuurt. We bereiken GEEN mensen via DM, zelfs niet als een \"antwoord\" of \"opvolging\", sturen mensen geen FR's en wijzen geen mensen toe om dit te \"ondersteunen\". Iedereen die je nu een DM stuurt of belt, is een oplichter, zelfs als ze op mij lijken, een andere mod, beheerder, teamlid van de Opentensor Foundation, enz. (Het zijn bedriegers). En als iemand je uitnodigt om hem een ​​DM te sturen voor \"een gids\" of \"bronnen\" omdat hij \"geen links kan plaatsen\", is dat oplichterij. Tenslotte: klik niet op links naar 'ondersteuningsservers' om 'een ticket te openen/op te halen' -- **dit is ook oplichting**",
+      "author": {
+        "id": "1237146344825684141",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237146344825684141/23612279e6c9aae82eb81264be1d9d88.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349636589912134",
+      "type": "Default",
+      "timestamp": "2025-10-16T06:51:30.816-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since there is no one way to mine in the Bittensor network (every subnet is different), you're going to have to ask for help in the subnet channel whose mining code you are using.",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349644219482174",
+      "type": "Default",
+      "timestamp": "2025-10-16T06:51:32.635-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Omdat er niet één manier is om te minen in het Bittensor-netwerk (elk subnet is anders), zul je om hulp moeten vragen in het subnetkanaal waarvan je de mining-code gebruikt.",
+      "author": {
+        "id": "1237146344825684141",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237146344825684141/23612279e6c9aae82eb81264be1d9d88.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349812482244689",
+      "type": "Reply",
+      "timestamp": "2025-10-16T06:52:12.752-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Again, please watch out for people sending you direct messages or friend requests claiming to be \"support\" of any kind (watch out for imposters as well).  These will always be scams.",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1067431234306850846",
+          "name": "dougynator",
+          "discriminator": "0000",
+          "nickname": "Dougynator",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1067431234306850846/ed7525c767a4df6dd7ab29495d54b07e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428307926036250696",
+        "channelId": "1079487960921161859",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349819579011153",
+      "type": "Default",
+      "timestamp": "2025-10-16T06:52:14.444-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nogmaals, pas op voor mensen die u directe berichten of vriendschapsverzoeken sturen en beweren dat ze \"steun\" van welke aard dan ook zijn (pas ook op voor bedriegers). Dit zullen altijd oplichtingspraktijken zijn.",
+      "author": {
+        "id": "1237146344825684141",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237146344825684141/23612279e6c9aae82eb81264be1d9d88.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349905436672113",
+      "type": "Reply",
+      "timestamp": "2025-10-16T06:52:34.914-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the note! I'm now chatting with someone in my subnet channel",
+      "author": {
+        "id": "1067431234306850846",
+        "name": "dougynator",
+        "discriminator": "0000",
+        "nickname": "Dougynator",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1067431234306850846/ed7525c767a4df6dd7ab29495d54b07e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1083021414136827905",
+              "name": "kat_defiants",
+              "discriminator": "0000",
+              "nickname": "Kat | Biττensor CM・won't DM 1st",
+              "color": "#F05D14",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1083021414136827905",
+          "name": "kat_defiants",
+          "discriminator": "0000",
+          "nickname": "Kat | Biττensor CM・won't DM 1st",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107320868746567740",
+              "name": "Supermod",
+              "color": null,
+              "position": 159
+            },
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428349528830120030",
+        "channelId": "1079487960921161859",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428349910654255185",
+      "type": "Default",
+      "timestamp": "2025-10-16T06:52:36.158-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bedankt voor de opmerking! Ik ben nu aan het chatten met iemand in mijn subnetkanaal",
+      "author": {
+        "id": "1237146344825684141",
+        "name": "Dougynator",
+        "discriminator": "0000",
+        "nickname": "Dougynator",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237146344825684141/fc1b000766a392cbe861c15c897330d9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 9
+}

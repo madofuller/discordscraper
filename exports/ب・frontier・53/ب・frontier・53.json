@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1302975822554202142",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ب・frontier・53",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T15:04:20.56-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T02:53:19.7382913-05:00",
+  "messages": [],
+  "messageCount": 0
+}

@@ -1,0 +1,164 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1425981426662248509",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "ѕ・unclaimed・115",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T18:58:12.523-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T22:20:38.7812744-05:00",
+  "messages": [
+    {
+      "id": "1428038759009615963",
+      "type": "Reply",
+      "timestamp": "2025-10-15T10:16:11.825-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please read the message you've replied to.  Everything we know about this subnet is in the pinned posts.  If whatever you're asking about is not in the pinned posts, then we aren't going to know.",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "955650455902490634",
+          "name": "t.aka_0",
+          "discriminator": "0000",
+          "nickname": "t.aka",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1384566209739231252",
+              "name": "mantis・123",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/955650455902490634/9cd121fcfe5eb3631aba5a03f2df4f39.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427807739672920175",
+        "channelId": "1425981426662248509",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428195520177901608",
+      "type": "Default",
+      "timestamp": "2025-10-15T20:39:06.6-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "100% burning?",
+      "author": {
+        "id": "1081018150792998994",
+        "name": "luna993",
+        "discriminator": "0000",
+        "nickname": "luna",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

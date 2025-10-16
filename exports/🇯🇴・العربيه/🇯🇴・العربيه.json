@@ -1,0 +1,80 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1017563106387427389",
+    "type": "GuildTextChat",
+    "categoryId": "1017563036241891368",
+    "category": "[・International・]",
+    "name": "\uD83C\uDDEF\uD83C\uDDF4・العربيه",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-07-10T22:52:45.036-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T09:31:58.5473108-05:00",
+  "messages": [
+    {
+      "id": "1428091024634282107",
+      "type": "Default",
+      "timestamp": "2025-10-15T13:43:52.921-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Helloooo",
+      "author": {
+        "id": "1418043966531571885",
+        "name": "dr.wallstreet_",
+        "discriminator": "0000",
+        "nickname": "Dr. Wallstreet",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418043966531571885/6c5996770c985bcd6e5b68131ff2ba04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428091028627390504",
+      "type": "Default",
+      "timestamp": "2025-10-15T13:43:53.873-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hellooo",
+      "author": {
+        "id": "1237082715484979361",
+        "name": "Dr. Wallstreet",
+        "discriminator": "0000",
+        "nickname": "Dr. Wallstreet",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237082715484979361/d0a4da525aea2f09eebc93a52b94d475.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

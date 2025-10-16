@@ -1,0 +1,194 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1240801129177157692",
+    "type": "GuildTextChat",
+    "categoryId": "1161764488186441768",
+    "category": "[・Subnets・]",
+    "name": "φ・any-any・21",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-10-14T18:35:22.4232696-05:00",
+  "messages": [
+    {
+      "id": "1427683325249720413",
+      "type": "Reply",
+      "timestamp": "2025-10-14T10:43:49.813-05:00",
+      "timestampEdited": "2025-10-14T10:54:32.467-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also note that most of the repos are >18gb in size, there is a cap of 18gb on the validator end ?\nAll above > 0.97 scoring models are 18.9GB hf models which is illegal",
+      "author": {
+        "id": "699754575238004827",
+        "name": "manojbh",
+        "discriminator": "0000",
+        "nickname": "mjb09 (τ)",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "532842603654283275",
+          "name": "siddhuji",
+          "discriminator": "0000",
+          "nickname": "Siddhant | SN (21, 24) | Ω Labs",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/532842603654283275/bf433f955287705fae00481e59134dd8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427281621605945475",
+        "channelId": "1240801129177157692",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427738942182129715",
+      "type": "Default",
+      "timestamp": "2025-10-14T14:24:49.923-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://model_leaderboard.omegatron.ai/\ndashboard is down",
+      "author": {
+        "id": "699754575238004827",
+        "name": "manojbh",
+        "discriminator": "0000",
+        "nickname": "mjb09 (τ)",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

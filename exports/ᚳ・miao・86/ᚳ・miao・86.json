@@ -1,0 +1,4882 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1358810927943782673",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ᚳ・miao・86",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T11:22:20.635-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T06:28:42.390848-05:00",
+  "messages": [
+    {
+      "id": "1427946093953683476",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:07:58.754-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Alpha Arena",
+      "author": {
+        "id": "820955740876439553",
+        "name": "princeharry.tao",
+        "discriminator": "0000",
+        "nickname": "Harry (\uD835\uDF0F,\uD835\uDF0F)",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820955740876439553/31caaf7ffc34ee5293a06b26120fdf7b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428014119063261195",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:38:17.204-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40",
+      "author": {
+        "id": "914052066895339540",
+        "name": "bpxx23",
+        "discriminator": "0000",
+        "nickname": "Mint Cat",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914052066895339540/2021ed78b7cd3f30ec7535b3d778256f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC40",
+          "code": "eyes",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428014183798018168",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:38:32.638-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cold key swap just happened after MIAO sold all their alpha tokens",
+      "author": {
+        "id": "691970852589142016",
+        "name": "tseu_tseu_tao",
+        "discriminator": "0000",
+        "nickname": "Tseu Tseu - τao",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691970852589142016/ee98ee2b78a40636d49409b5e883cbc9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "927763300710776902",
+              "name": "alexdrocks",
+              "discriminator": "0000",
+              "nickname": "alex-drocks",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+            },
+            {
+              "id": "1162648476669182052",
+              "name": "cliisearly",
+              "discriminator": "0000",
+              "nickname": "CLIisEarly",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428014870594326528",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:41:16.383-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE80",
+      "author": {
+        "id": "1406686686917820436",
+        "name": "nieyouyu.",
+        "discriminator": "0000",
+        "nickname": "klmka",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1406686686917820436/7af30ba37dd02118a8f55f188144ec65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE80",
+          "code": "rocket",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428014956187615393",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:41:36.79-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's just turning its left hand to its right",
+      "author": {
+        "id": "824189777631903785",
+        "name": "yiceboluo",
+        "discriminator": "0000",
+        "nickname": "Gggg",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/824189777631903785/00e60dc784b1e4b5f953f92b835e7225.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691970852589142016",
+          "name": "tseu_tseu_tao",
+          "discriminator": "0000",
+          "nickname": "Tseu Tseu - τao",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/691970852589142016/ee98ee2b78a40636d49409b5e883cbc9.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428014183798018168",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428014986281877535",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:41:43.965-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "internal swap",
+      "author": {
+        "id": "1425889317917818982",
+        "name": "wheee0435",
+        "discriminator": "0000",
+        "nickname": "Wheee",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "927763300710776902",
+              "name": "alexdrocks",
+              "discriminator": "0000",
+              "nickname": "alex-drocks",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428015182462058678",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:42:30.738-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don't be fooled",
+      "author": {
+        "id": "824189777631903785",
+        "name": "yiceboluo",
+        "discriminator": "0000",
+        "nickname": "Gggg",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/824189777631903785/00e60dc784b1e4b5f953f92b835e7225.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428015596481675407",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:44:09.448-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Subnet-Owner SN86 dm me pls \uD83D\uDE42",
+      "author": {
+        "id": "836362081422540864",
+        "name": "kakashitao",
+        "discriminator": "0000",
+        "nickname": "Kakashi",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836362081422540864/943279c0416006496b605fc2293041d6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "914052066895339540",
+              "name": "bpxx23",
+              "discriminator": "0000",
+              "nickname": "Mint Cat",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/914052066895339540/2021ed78b7cd3f30ec7535b3d778256f.png?size=512"
+            },
+            {
+              "id": "927763300710776902",
+              "name": "alexdrocks",
+              "discriminator": "0000",
+              "nickname": "alex-drocks",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE42",
+          "code": "slight_smile",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f642.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428016555769200721",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:47:58.16-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he won't do it",
+      "author": {
+        "id": "1425889317917818982",
+        "name": "wheee0435",
+        "discriminator": "0000",
+        "nickname": "Wheee",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "836362081422540864",
+          "name": "kakashitao",
+          "discriminator": "0000",
+          "nickname": "Kakashi",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1358857675181658263",
+              "name": "investing・88",
+              "color": "#11806A",
+              "position": 56
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/836362081422540864/943279c0416006496b605fc2293041d6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428015596481675407",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428017581738164284",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:52:02.77-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's interesting",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691970852589142016",
+          "name": "tseu_tseu_tao",
+          "discriminator": "0000",
+          "nickname": "Tseu Tseu - τao",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/691970852589142016/ee98ee2b78a40636d49409b5e883cbc9.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428014183798018168",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428017685425557525",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:52:27.491-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if they wanted to fake it would be after the sale",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018360792387708",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:55:08.511-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do you know it's internal or not?",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1425889317917818982",
+          "name": "wheee0435",
+          "discriminator": "0000",
+          "nickname": "Wheee",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1428014986281877535",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018452580401165",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:55:30.395-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they don't. They sold alpha and than swapped so likely a new team",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018533500981289",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:55:49.688-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Alpha Arena",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018568787656787",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:55:58.101-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am doubtful about that because it's the same github link (according to taostats name history)",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1162648476669182052",
+          "name": "cliisearly",
+          "discriminator": "0000",
+          "nickname": "CLIisEarly",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428018452580401165",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018584264769759",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:56:01.791-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Description: The Alpha Arena is a decentralized intelligence subnet on Bittensor dedicated to financial AI strategy discovery. It coordinates sensing, strategy, and execution models to compete for optimal alpha ge...",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018595119501353",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:56:04.379-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just changed nanme",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018679475339354",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:56:24.491-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just guess, im not sure exactly",
+      "author": {
+        "id": "1425889317917818982",
+        "name": "wheee0435",
+        "discriminator": "0000",
+        "nickname": "Wheee",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "927763300710776902",
+          "name": "alexdrocks",
+          "discriminator": "0000",
+          "nickname": "alex-drocks",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1209556251697094666",
+              "name": "infinite・6",
+              "color": "#11806A",
+              "position": 132
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1201942886669889566",
+              "name": "horde・12",
+              "color": "#11806A",
+              "position": 126
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1191868747456204801",
+              "name": "nuance・23",
+              "color": "#11806A",
+              "position": 115
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1263963839477583884",
+              "name": "ai-assess・29",
+              "color": "#11806A",
+              "position": 110
+            },
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1361421652122145010",
+              "name": "candles・31",
+              "color": "#11806A",
+              "position": 108
+            },
+            {
+              "id": "1215319657830031380",
+              "name": "itsai・32",
+              "color": "#11806A",
+              "position": 107
+            },
+            {
+              "id": "1237015679023059017",
+              "name": "ready・33",
+              "color": "#11806A",
+              "position": 106
+            },
+            {
+              "id": "1339356430905376808",
+              "name": "autoppia ・36",
+              "color": "#11806A",
+              "position": 103
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1275149773942292514",
+              "name": "gopher・42",
+              "color": "#11806A",
+              "position": 98
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1271487069079863367",
+              "name": "score・44",
+              "color": "#11806A",
+              "position": 96
+            },
+            {
+              "id": "1272921528572448818",
+              "name": "dojo・52",
+              "color": "#11806A",
+              "position": 87
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1362440868035821851",
+              "name": "metahash・73",
+              "color": "#11806A",
+              "position": 67
+            },
+            {
+              "id": "1264940164074045520",
+              "name": "safe-scan・76",
+              "color": "#11806A",
+              "position": 66
+            },
+            {
+              "id": "1379868219757695077",
+              "name": "infinitehash・89",
+              "color": "#11806A",
+              "position": 55
+            },
+            {
+              "id": "1179152801474039848",
+              "name": "insights・t146",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1179152731554984029",
+              "name": "voiceguard・t253",
+              "color": "#11806A",
+              "position": 21
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428018360792387708",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018741882523648",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:56:39.37-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://taostats.io/subnets/86/chart they just changed name",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018793065611344",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:56:51.573-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Alpha Arena is a decentralized intelligence subnet on Bittensor dedicated to financial AI strategy discovery. It coordinates sensing, strategy, and execution models to compete for optimal alpha generation—creating an autonomous network of collective intelligence.",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428018878633480224",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:57:11.974-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, what I meant is if it's not the same team, they forgot to change the github link which still points to a repository owned by miaoai",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1162648476669182052",
+          "name": "cliisearly",
+          "discriminator": "0000",
+          "nickname": "CLIisEarly",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428018741882523648",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428019017070678139",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:57:44.98-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they just changed name and swapped key. Likely rest of the info coming in",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC46\uD83C\uDFFB",
+            "code": "point_up_2_tone1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f446-1f3fb.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "927763300710776902",
+              "name": "alexdrocks",
+              "discriminator": "0000",
+              "nickname": "alex-drocks",
+              "color": "#CD7672",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "927763300710776902",
+          "name": "alexdrocks",
+          "discriminator": "0000",
+          "nickname": "alex-drocks",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1209556251697094666",
+              "name": "infinite・6",
+              "color": "#11806A",
+              "position": 132
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1201942886669889566",
+              "name": "horde・12",
+              "color": "#11806A",
+              "position": 126
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1191868747456204801",
+              "name": "nuance・23",
+              "color": "#11806A",
+              "position": 115
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1263963839477583884",
+              "name": "ai-assess・29",
+              "color": "#11806A",
+              "position": 110
+            },
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1361421652122145010",
+              "name": "candles・31",
+              "color": "#11806A",
+              "position": 108
+            },
+            {
+              "id": "1215319657830031380",
+              "name": "itsai・32",
+              "color": "#11806A",
+              "position": 107
+            },
+            {
+              "id": "1237015679023059017",
+              "name": "ready・33",
+              "color": "#11806A",
+              "position": 106
+            },
+            {
+              "id": "1339356430905376808",
+              "name": "autoppia ・36",
+              "color": "#11806A",
+              "position": 103
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1275149773942292514",
+              "name": "gopher・42",
+              "color": "#11806A",
+              "position": 98
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1271487069079863367",
+              "name": "score・44",
+              "color": "#11806A",
+              "position": 96
+            },
+            {
+              "id": "1272921528572448818",
+              "name": "dojo・52",
+              "color": "#11806A",
+              "position": 87
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1362440868035821851",
+              "name": "metahash・73",
+              "color": "#11806A",
+              "position": 67
+            },
+            {
+              "id": "1264940164074045520",
+              "name": "safe-scan・76",
+              "color": "#11806A",
+              "position": 66
+            },
+            {
+              "id": "1379868219757695077",
+              "name": "infinitehash・89",
+              "color": "#11806A",
+              "position": 55
+            },
+            {
+              "id": "1179152801474039848",
+              "name": "insights・t146",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1179152731554984029",
+              "name": "voiceguard・t253",
+              "color": "#11806A",
+              "position": 21
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428018878633480224",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428019088302542859",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:58:01.963-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Plausible",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1162648476669182052",
+          "name": "cliisearly",
+          "discriminator": "0000",
+          "nickname": "CLIisEarly",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428019017070678139",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428019145559113902",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:58:15.614-05:00",
+      "timestampEdited": "2025-10-15T08:58:21.556-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most of owners dont want to share github until they are fully prepared",
+      "author": {
+        "id": "1233074564041277552",
+        "name": "caro086532",
+        "discriminator": "0000",
+        "nickname": "Caro | Potato",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1204816527271137310",
+            "name": "doge",
+            "color": "#F032C9",
+            "position": 142
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1403069177173905600",
+            "name": "bitquant・15",
+            "color": "#11806A",
+            "position": 123
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1420486520200237137",
+            "name": "aurelius・37",
+            "color": "#11806A",
+            "position": 102
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1351934817838567485",
+            "name": "miid・54",
+            "color": "#11806A",
+            "position": 85
+          },
+          {
+            "id": "1311360549568909332",
+            "name": "gradients・56",
+            "color": "#11806A",
+            "position": 83
+          },
+          {
+            "id": "1387178851611705416",
+            "name": "quantum-i・63",
+            "color": "#11806A",
+            "position": 76
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1342275581236088872",
+            "name": "tpn・65",
+            "color": "#11806A",
+            "position": 74
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1346133673451327542",
+            "name": "nova・68",
+            "color": "#11806A",
+            "position": 71
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1409551996045758515",
+            "name": "cliqueai・83",
+            "color": "#11806A",
+            "position": 61
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1361439022110736464",
+            "name": "brain・90",
+            "color": "#11806A",
+            "position": 54
+          },
+          {
+            "id": "1343987982834864178",
+            "name": "eastworld・94",
+            "color": "#11806A",
+            "position": 50
+          },
+          {
+            "id": "1364253787543568475",
+            "name": "actual・95",
+            "color": "#11806A",
+            "position": 49
+          },
+          {
+            "id": "1364655541577584802",
+            "name": "flock-off・96",
+            "color": "#11806A",
+            "position": 48
+          },
+          {
+            "id": "1366426237563830314",
+            "name": "flamewire・97",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1381667117815824434",
+            "name": "neza・99",
+            "color": "#11806A",
+            "position": 45
+          },
+          {
+            "id": "1379149191548502150",
+            "name": "tigeralpha・107",
+            "color": "#11806A",
+            "position": 39
+          },
+          {
+            "id": "1374747733017235519",
+            "name": "internet・108",
+            "color": "#11806A",
+            "position": 38
+          },
+          {
+            "id": "1397240765977198593",
+            "name": "taoillium・109",
+            "color": "#11806A",
+            "position": 37
+          },
+          {
+            "id": "1400539417155993720",
+            "name": "affine・120",
+            "color": "#11806A",
+            "position": 29
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1379113023607672862",
+            "name": "rekimart・t307",
+            "color": "#11806A",
+            "position": 20
+          },
+          {
+            "id": "1357460811202953397",
+            "name": "agents4all・t334",
+            "color": "#11806A",
+            "position": 19
+          },
+          {
+            "id": "1409555571706957959",
+            "name": "luminar・t414",
+            "color": "#11806A",
+            "position": 17
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1233074564041277552/a068b1e4dc58b0311f3195337672fae2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428019237787668690",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:58:37.603-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah makes sense and the chain does not overwrite a value you did not specifically update",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "691970852589142016",
+              "name": "tseu_tseu_tao",
+              "discriminator": "0000",
+              "nickname": "Tseu Tseu - τao",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/691970852589142016/ee98ee2b78a40636d49409b5e883cbc9.png?size=512"
+            },
+            {
+              "id": "1233074564041277552",
+              "name": "caro086532",
+              "discriminator": "0000",
+              "nickname": "Caro | Potato",
+              "color": "#CD7672",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1233074564041277552/a068b1e4dc58b0311f3195337672fae2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1233074564041277552",
+          "name": "caro086532",
+          "discriminator": "0000",
+          "nickname": "Caro | Potato",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1204816527271137310",
+              "name": "doge",
+              "color": "#F032C9",
+              "position": 142
+            },
+            {
+              "id": "1220505352953528380",
+              "name": "omron・2",
+              "color": "#11806A",
+              "position": 136
+            },
+            {
+              "id": "1222230744760455290",
+              "name": "templar・3",
+              "color": "#11806A",
+              "position": 135
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1232380170946478201",
+              "name": "dippy・11",
+              "color": "#11806A",
+              "position": 127
+            },
+            {
+              "id": "1403069177173905600",
+              "name": "bitquant・15",
+              "color": "#11806A",
+              "position": 123
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1191868747456204801",
+              "name": "nuance・23",
+              "color": "#11806A",
+              "position": 115
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1263963839477583884",
+              "name": "ai-assess・29",
+              "color": "#11806A",
+              "position": 110
+            },
+            {
+              "id": "1237015679023059017",
+              "name": "ready・33",
+              "color": "#11806A",
+              "position": 106
+            },
+            {
+              "id": "1339356430905376808",
+              "name": "autoppia ・36",
+              "color": "#11806A",
+              "position": 103
+            },
+            {
+              "id": "1420486520200237137",
+              "name": "aurelius・37",
+              "color": "#11806A",
+              "position": 102
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1267512274667700296",
+              "name": "swe-rizzo・45",
+              "color": "#11806A",
+              "position": 95
+            },
+            {
+              "id": "1417148675066433536",
+              "name": "resi・46",
+              "color": "#11806A",
+              "position": 94
+            },
+            {
+              "id": "1410284436964249650",
+              "name": "reboot・47",
+              "color": "#11806A",
+              "position": 93
+            },
+            {
+              "id": "1351934817838567485",
+              "name": "miid・54",
+              "color": "#11806A",
+              "position": 85
+            },
+            {
+              "id": "1311360549568909332",
+              "name": "gradients・56",
+              "color": "#11806A",
+              "position": 83
+            },
+            {
+              "id": "1387178851611705416",
+              "name": "quantum-i・63",
+              "color": "#11806A",
+              "position": 76
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1342275581236088872",
+              "name": "tpn・65",
+              "color": "#11806A",
+              "position": 74
+            },
+            {
+              "id": "1394342240654196766",
+              "name": "inactive・66",
+              "color": "#11806A",
+              "position": 73
+            },
+            {
+              "id": "1346133673451327542",
+              "name": "nova・68",
+              "color": "#11806A",
+              "position": 71
+            },
+            {
+              "id": "1362440868035821851",
+              "name": "metahash・73",
+              "color": "#11806A",
+              "position": 67
+            },
+            {
+              "id": "1264940164074045520",
+              "name": "safe-scan・76",
+              "color": "#11806A",
+              "position": 66
+            },
+            {
+              "id": "1409551996045758515",
+              "name": "cliqueai・83",
+              "color": "#11806A",
+              "position": 61
+            },
+            {
+              "id": "1342559449717407824",
+              "name": "vidaio・85",
+              "color": "#11806A",
+              "position": 59
+            },
+            {
+              "id": "1358857675181658263",
+              "name": "investing・88",
+              "color": "#11806A",
+              "position": 56
+            },
+            {
+              "id": "1361439022110736464",
+              "name": "brain・90",
+              "color": "#11806A",
+              "position": 54
+            },
+            {
+              "id": "1343987982834864178",
+              "name": "eastworld・94",
+              "color": "#11806A",
+              "position": 50
+            },
+            {
+              "id": "1364253787543568475",
+              "name": "actual・95",
+              "color": "#11806A",
+              "position": 49
+            },
+            {
+              "id": "1364655541577584802",
+              "name": "flock-off・96",
+              "color": "#11806A",
+              "position": 48
+            },
+            {
+              "id": "1366426237563830314",
+              "name": "flamewire・97",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1381667117815824434",
+              "name": "neza・99",
+              "color": "#11806A",
+              "position": 45
+            },
+            {
+              "id": "1379149191548502150",
+              "name": "tigeralpha・107",
+              "color": "#11806A",
+              "position": 39
+            },
+            {
+              "id": "1374747733017235519",
+              "name": "internet・108",
+              "color": "#11806A",
+              "position": 38
+            },
+            {
+              "id": "1397240765977198593",
+              "name": "taoillium・109",
+              "color": "#11806A",
+              "position": 37
+            },
+            {
+              "id": "1400539417155993720",
+              "name": "affine・120",
+              "color": "#11806A",
+              "position": 29
+            },
+            {
+              "id": "1179152801474039848",
+              "name": "insights・t146",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1379113023607672862",
+              "name": "rekimart・t307",
+              "color": "#11806A",
+              "position": 20
+            },
+            {
+              "id": "1357460811202953397",
+              "name": "agents4all・t334",
+              "color": "#11806A",
+              "position": 19
+            },
+            {
+              "id": "1409555571706957959",
+              "name": "luminar・t414",
+              "color": "#11806A",
+              "position": 17
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1233074564041277552/a068b1e4dc58b0311f3195337672fae2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428019145559113902",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428047108505735271",
+      "type": "Default",
+      "timestamp": "2025-10-15T10:49:22.5-05:00",
+      "timestampEdited": "2025-10-15T10:49:28.635-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, @Edward I see you've scheduled a coldkey swap.  Please let me know whether you intend to keep supporting MIAO in subnet 86 or whether you're a) changing the reward mechanism or b) have sold the subnet to someone else (or some other thing I'm not thinking of at the moment).\n\nIf I don't hear from you by 6:00 PM today I'll be archiving this channel.   Thanks!",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "code": "thumbsup_tone1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fb.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "927763300710776902",
+              "name": "alexdrocks",
+              "discriminator": "0000",
+              "nickname": "alex-drocks",
+              "color": "#CD7672",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1311548160690360371",
+          "name": "edward_57529",
+          "discriminator": "0000",
+          "nickname": "Edward",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428058372875354304",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:34:08.135-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We just changed the team and structure — I’m still here and continuing to support SN86",
+      "author": {
+        "id": "1311548160690360371",
+        "name": "edward_57529",
+        "discriminator": "0000",
+        "nickname": "Edward",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1083021414136827905",
+          "name": "kat_defiants",
+          "discriminator": "0000",
+          "nickname": "Kat | Biττensor CM・won't DM 1st",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107320868746567740",
+              "name": "Supermod",
+              "color": null,
+              "position": 159
+            },
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428047108505735271",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428058573736247356",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:34:56.024-05:00",
+      "timestampEdited": "2025-10-15T11:36:16.314-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it a different project entirely (meaning: a different reward mechanism/goal)?  If so, I'd prefer to set you up a new channel and archive the current one.  This would save you from having to reorganize the pins, and also reduce confusion among the small number of people who actually scroll up or search the channel.",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1311548160690360371",
+          "name": "edward_57529",
+          "discriminator": "0000",
+          "nickname": "Edward",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428058372875354304",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428058835121344625",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:35:58.343-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sus behaviors ngl.\n\ni asked earleir this week if this was still a meme subnet and nobody answered",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1311548160690360371",
+          "name": "edward_57529",
+          "discriminator": "0000",
+          "nickname": "Edward",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428058372875354304",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428059132979843185",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:37:09.358-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure, Setup new channel will be good and make things easy for us",
+      "author": {
+        "id": "1311548160690360371",
+        "name": "edward_57529",
+        "discriminator": "0000",
+        "nickname": "Edward",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1083021414136827905",
+          "name": "kat_defiants",
+          "discriminator": "0000",
+          "nickname": "Kat | Biττensor CM・won't DM 1st",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107320868746567740",
+              "name": "Supermod",
+              "color": null,
+              "position": 159
+            },
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428058573736247356",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428059303054675969",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:37:49.907-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay. If you could shoot me a signed message for the new coldkey via DM, then I can go ahead and start work on setting that up for you.",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1311548160690360371",
+          "name": "edward_57529",
+          "discriminator": "0000",
+          "nickname": "Edward",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428059132979843185",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428059452803780658",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:38:25.61-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry for not reply on time we are actually busy in developing",
+      "author": {
+        "id": "1311548160690360371",
+        "name": "edward_57529",
+        "discriminator": "0000",
+        "nickname": "Edward",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "927763300710776902",
+          "name": "alexdrocks",
+          "discriminator": "0000",
+          "nickname": "alex-drocks",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1209556251697094666",
+              "name": "infinite・6",
+              "color": "#11806A",
+              "position": 132
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1201942886669889566",
+              "name": "horde・12",
+              "color": "#11806A",
+              "position": 126
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1191868747456204801",
+              "name": "nuance・23",
+              "color": "#11806A",
+              "position": 115
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1263963839477583884",
+              "name": "ai-assess・29",
+              "color": "#11806A",
+              "position": 110
+            },
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1361421652122145010",
+              "name": "candles・31",
+              "color": "#11806A",
+              "position": 108
+            },
+            {
+              "id": "1215319657830031380",
+              "name": "itsai・32",
+              "color": "#11806A",
+              "position": 107
+            },
+            {
+              "id": "1237015679023059017",
+              "name": "ready・33",
+              "color": "#11806A",
+              "position": 106
+            },
+            {
+              "id": "1339356430905376808",
+              "name": "autoppia ・36",
+              "color": "#11806A",
+              "position": 103
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1275149773942292514",
+              "name": "gopher・42",
+              "color": "#11806A",
+              "position": 98
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1271487069079863367",
+              "name": "score・44",
+              "color": "#11806A",
+              "position": 96
+            },
+            {
+              "id": "1272921528572448818",
+              "name": "dojo・52",
+              "color": "#11806A",
+              "position": 87
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1362440868035821851",
+              "name": "metahash・73",
+              "color": "#11806A",
+              "position": 67
+            },
+            {
+              "id": "1264940164074045520",
+              "name": "safe-scan・76",
+              "color": "#11806A",
+              "position": 66
+            },
+            {
+              "id": "1379868219757695077",
+              "name": "infinitehash・89",
+              "color": "#11806A",
+              "position": 55
+            },
+            {
+              "id": "1179152801474039848",
+              "name": "insights・t146",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1179152731554984029",
+              "name": "voiceguard・t253",
+              "color": "#11806A",
+              "position": 21
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428058835121344625",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428059479643131904",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:38:32.009-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Soon",
+      "author": {
+        "id": "1311548160690360371",
+        "name": "edward_57529",
+        "discriminator": "0000",
+        "nickname": "Edward",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1083021414136827905",
+          "name": "kat_defiants",
+          "discriminator": "0000",
+          "nickname": "Kat | Biττensor CM・won't DM 1st",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107320868746567740",
+              "name": "Supermod",
+              "color": null,
+              "position": 159
+            },
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428059303054675969",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428060709589225522",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:43:25.251-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But when tagged by Kat you are available \uD83E\uDEE1",
+      "author": {
+        "id": "927763300710776902",
+        "name": "alexdrocks",
+        "discriminator": "0000",
+        "nickname": "alex-drocks",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1275149773942292514",
+            "name": "gopher・42",
+            "color": "#11806A",
+            "position": 98
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1311548160690360371",
+          "name": "edward_57529",
+          "discriminator": "0000",
+          "nickname": "Edward",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428059452803780658",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDEE1",
+          "code": "\uD83E\uDEE1",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fae1.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428061026326282270",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:44:40.767-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry next time will be there on time \uD83D\uDC4D",
+      "author": {
+        "id": "1311548160690360371",
+        "name": "edward_57529",
+        "discriminator": "0000",
+        "nickname": "Edward",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1311548160690360371/315915f694d569863bc5721516b81c9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC10",
+            "code": "goat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f410.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "927763300710776902",
+              "name": "alexdrocks",
+              "discriminator": "0000",
+              "nickname": "alex-drocks",
+              "color": "#CD7672",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324343928660693034",
+              "name": "tzoo0320_33325",
+              "discriminator": "0000",
+              "nickname": "Tzoo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324343928660693034/77a9845fefcc280f036b96f22ab77451.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "927763300710776902",
+          "name": "alexdrocks",
+          "discriminator": "0000",
+          "nickname": "alex-drocks",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1209556251697094666",
+              "name": "infinite・6",
+              "color": "#11806A",
+              "position": 132
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1201942886669889566",
+              "name": "horde・12",
+              "color": "#11806A",
+              "position": 126
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1191868747456204801",
+              "name": "nuance・23",
+              "color": "#11806A",
+              "position": 115
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1263963839477583884",
+              "name": "ai-assess・29",
+              "color": "#11806A",
+              "position": 110
+            },
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1361421652122145010",
+              "name": "candles・31",
+              "color": "#11806A",
+              "position": 108
+            },
+            {
+              "id": "1215319657830031380",
+              "name": "itsai・32",
+              "color": "#11806A",
+              "position": 107
+            },
+            {
+              "id": "1237015679023059017",
+              "name": "ready・33",
+              "color": "#11806A",
+              "position": 106
+            },
+            {
+              "id": "1339356430905376808",
+              "name": "autoppia ・36",
+              "color": "#11806A",
+              "position": 103
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1275149773942292514",
+              "name": "gopher・42",
+              "color": "#11806A",
+              "position": 98
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1271487069079863367",
+              "name": "score・44",
+              "color": "#11806A",
+              "position": 96
+            },
+            {
+              "id": "1272921528572448818",
+              "name": "dojo・52",
+              "color": "#11806A",
+              "position": 87
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1362440868035821851",
+              "name": "metahash・73",
+              "color": "#11806A",
+              "position": 67
+            },
+            {
+              "id": "1264940164074045520",
+              "name": "safe-scan・76",
+              "color": "#11806A",
+              "position": 66
+            },
+            {
+              "id": "1379868219757695077",
+              "name": "infinitehash・89",
+              "color": "#11806A",
+              "position": 55
+            },
+            {
+              "id": "1179152801474039848",
+              "name": "insights・t146",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1179152731554984029",
+              "name": "voiceguard・t253",
+              "color": "#11806A",
+              "position": 21
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/927763300710776902/6a8cbc9cded677dd753f6de18ce4a082.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428060709589225522",
+        "channelId": "1358810927943782673",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4D",
+          "code": "thumbsup",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 35
+}

@@ -1,0 +1,2870 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1380199829669416970",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "ⲁ・brainplay・117",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-15T03:39:04.31-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T08:36:44.780642-05:00",
+  "messages": [
+    {
+      "id": "1427959746878509056",
+      "type": "Default",
+      "timestamp": "2025-10-15T05:02:13.865-05:00",
+      "timestampEdited": "2025-10-15T05:15:31.413-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BrainPlay - SN117 I just checked my live game. confimed our Blue team won, but in the history appeared the opponent won. What happening?",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427959962927239198",
+      "type": "Default",
+      "timestamp": "2025-10-15T05:03:05.375-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please check this game result again. Game ID: 68ef6e65e2bf6c0465da4ec8 Validator key: 5ELbshVTckgV5FSw2sLHXpGETCZjZz3AKDLSJWbvxdiNE5MB",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428005037354909856",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:02:11.956-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "red team won, we just checked it and that game (game id: 68ef6e65e2bf6c0465da4ec8) ended because blue team spymaster played against the rule (a penalty was applied)",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1389753005133267066",
+          "name": "silver_0613",
+          "discriminator": "0000",
+          "nickname": "Silver",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1427959746878509056",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428005476708388924",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:03:56.706-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, @BrainPlay - SN117 \nMy miner didn't get any games even it is not deregged.\nCan you please check it?",
+      "author": {
+        "id": "1417493253128847401",
+        "name": "vinny_song",
+        "discriminator": "0000",
+        "nickname": "vinny",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428006851022422096",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:09:24.368-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDCA1 We acknowledge that the current incentive structure has a few issues, and we're actively brainstorming ways for enhancement, updates are coming soon - stay tuned! ⚙️\nthanks again to y'all for your feedback and support and apologizes for all the inconvenience caused during these early days",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "531040541132193792",
+              "name": "stewardit",
+              "discriminator": "0000",
+              "nickname": "PresentLovin",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/531040541132193792/4eb1499c2745b7387c604ec0779558b4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDCA1",
+          "code": "bulb",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4a1.svg"
+        },
+        {
+          "id": "",
+          "name": "⚙",
+          "code": "⚙",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2699.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428007145357709404",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:10:34.543-05:00",
+      "timestampEdited": "2025-10-15T08:10:57.796-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @BrainPlay - SN117 frequency of game participation of each miner is not same",
+      "author": {
+        "id": "1418258356442763385",
+        "name": "angel08519_148_97120",
+        "discriminator": "0000",
+        "nickname": "Ryzen AMD64",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418258356442763385/5853202d370e1097ad5c7e2c46df21d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428007164533801061",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:10:39.115-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in this case, how to calculate score?",
+      "author": {
+        "id": "1418258356442763385",
+        "name": "angel08519_148_97120",
+        "discriminator": "0000",
+        "nickname": "Ryzen AMD64",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418258356442763385/5853202d370e1097ad5c7e2c46df21d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428007714688208998",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:12:50.282-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen AMD64 check how miner sampling works in this PR - you'll find the answer",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418258356442763385",
+          "name": "angel08519_148_97120",
+          "discriminator": "0000",
+          "nickname": "Ryzen AMD64",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1320814657765900322",
+              "name": "ridges・62",
+              "color": "#11806A",
+              "position": 77
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418258356442763385/5853202d370e1097ad5c7e2c46df21d2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427689267131580507",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428008242033987666",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:14:56.011-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "share your hotkey via DM",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1417493253128847401",
+          "name": "vinny_song",
+          "discriminator": "0000",
+          "nickname": "vinny",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1428005476708388924",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428008602924355614",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:16:22.054-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There are indeed some problems at the moment. My miner has been continuously receiving game requests over the past hour; in fact, 4-5 games are happening simultaneously, and all of them feature the Red Team’s Spymaster character.",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428008817869852784",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:17:13.301-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we don't welcome base miner code runs, and we want to make sure the real winner gets incentivized for his work",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "468135178410131488",
+          "name": "loewe1631",
+          "discriminator": "0000",
+          "nickname": "loewe1631",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427918568573632583",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428008825541099571",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:17:15.13-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BrainPlay - SN117 \ncan you help me understand why there is a big difference in owner's and RT validator weight?",
+      "author": {
+        "id": "1176280179828600844",
+        "name": "lwahpf",
+        "discriminator": "0000",
+        "nickname": "S.A",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1403069177173905600",
+            "name": "bitquant・15",
+            "color": "#11806A",
+            "position": 123
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1387866601990127728",
+            "name": "basilica・39",
+            "color": "#11806A",
+            "position": 100
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1356277672044531823",
+            "name": "polaris・49",
+            "color": "#11806A",
+            "position": 90
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1351934817838567485",
+            "name": "miid・54",
+            "color": "#11806A",
+            "position": 85
+          },
+          {
+            "id": "1387178851611705416",
+            "name": "quantum-i・63",
+            "color": "#11806A",
+            "position": 76
+          },
+          {
+            "id": "1342275581236088872",
+            "name": "tpn・65",
+            "color": "#11806A",
+            "position": 74
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1349759960719953950",
+            "name": "vericore・70",
+            "color": "#11806A",
+            "position": 70
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1365321384653357087",
+            "name": "liquidity・77",
+            "color": "#11806A",
+            "position": 65
+          },
+          {
+            "id": "1356318576386244648",
+            "name": "taos・79",
+            "color": "#11806A",
+            "position": 64
+          },
+          {
+            "id": "1407105661363294330",
+            "name": "grail・81",
+            "color": "#11806A",
+            "position": 62
+          },
+          {
+            "id": "1409551996045758515",
+            "name": "cliqueai・83",
+            "color": "#11806A",
+            "position": 61
+          },
+          {
+            "id": "1408463320071278755",
+            "name": "chipforge・84",
+            "color": "#11806A",
+            "position": 60
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1366412255909904474",
+            "name": "miao・86",
+            "color": "#11806A",
+            "position": 57
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1366426237563830314",
+            "name": "flamewire・97",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1375534953873281025",
+            "name": "bettertherapy・102",
+            "color": "#11806A",
+            "position": 43
+          },
+          {
+            "id": "1370084092527513672",
+            "name": "happyai・103",
+            "color": "#11806A",
+            "position": 42
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1397240765977198593",
+            "name": "taoillium・109",
+            "color": "#11806A",
+            "position": 37
+          },
+          {
+            "id": "1400539417155993720",
+            "name": "affine・120",
+            "color": "#11806A",
+            "position": 29
+          },
+          {
+            "id": "1375509956844978266",
+            "name": "bitrecs・122",
+            "color": "#11806A",
+            "position": 27
+          },
+          {
+            "id": "1386718522453004358",
+            "name": "swarm・124",
+            "color": "#11806A",
+            "position": 25
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1176280179828600844/7a1fc4f1c1bc303a4a834917e5f00fd6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428008924401111051",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:17:38.7-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we're updating the weight setting mechanism soon'",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428008942218510487",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:17:42.948-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Of course, my miner has been optimized by myself; it’s not the basecode.",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428009020685418556",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:18:01.656-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i don't get you?",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "468135178410131488",
+          "name": "loewe1631",
+          "discriminator": "0000",
+          "nickname": "loewe1631",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428008602924355614",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428009189619535975",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:18:41.933-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you can check my uid ，In the past hour, I’ve been participating in the competition almost every minute.",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428009274818170921",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:19:02.246-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uid 35",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428010913876676648",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:25:33.028-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but my miner didn't get the games.\nI think something went wrong for now,",
+      "author": {
+        "id": "1417493253128847401",
+        "name": "vinny_song",
+        "discriminator": "0000",
+        "nickname": "vinny",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428011088351465632",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:26:14.626-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes，My other UID did not receive any game requests during this time period.",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428011276889624606",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:26:59.577-05:00",
+      "timestampEdited": "2025-10-15T08:33:00.75-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "penalized UIDs (didn't respond to PING in time)",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428011306027319408",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:27:06.524-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My miner generated clue \"sport\" as spymaster.  \n\nBlue team words: rock, van, court, ring, robot, ball, paste, deck\n\nsport is ban?",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428005037354909856",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428014184271974512",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:38:32.751-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then I remember the coworker successfully guessed 3 blue team words like court, ball, ring  with this hint as operative.",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428014305936146473",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:39:01.758-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we'll check logs and back to you",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428015422980096103",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:43:28.082-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If a penalty is imposed, how long will one have to wait before receiving another request?",
+      "author": {
+        "id": "468135178410131488",
+        "name": "loewe1631",
+        "discriminator": "0000",
+        "nickname": "loewe1631",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468135178410131488/b46d524feeb92c8524dd79bfc7617b4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428011276889624606",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428015620749918270",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:44:15.234-05:00",
+      "timestampEdited": "2025-10-15T08:45:00.099-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are their specific rules against team play? softplay? etc",
+      "author": {
+        "id": "1385072220338000095",
+        "name": "._happypuppy___",
+        "discriminator": "0000",
+        "nickname": "happy_puppy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428006851022422096",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428015738366726255",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:44:43.276-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or is this royal rumble",
+      "author": {
+        "id": "1385072220338000095",
+        "name": "._happypuppy___",
+        "discriminator": "0000",
+        "nickname": "happy_puppy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428017833043820685",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:53:02.686-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we'll update our history page so that we can check the whole game play in a transparent way - let's discuss about the game play with those logs",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "1372892623823441920",
+              "name": "r_orino",
+              "discriminator": "0000",
+              "nickname": "-ⲟℝī\uD835\uDDC7ⲟ-",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1372892623823441920/a18ffc645120ba086a4811a223df1c42.png?size=512"
+            },
+            {
+              "id": "1389753005133267066",
+              "name": "silver_0613",
+              "discriminator": "0000",
+              "nickname": "Silver",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            },
+            {
+              "id": "1397618048890048554",
+              "name": "gulbis0362",
+              "discriminator": "0000",
+              "nickname": "Gulbis",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+            },
+            {
+              "id": "1418258356442763385",
+              "name": "angel08519_148_97120",
+              "discriminator": "0000",
+              "nickname": "Ryzen AMD64",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1418258356442763385/5853202d370e1097ad5c7e2c46df21d2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428023297609826496",
+      "type": "Default",
+      "timestamp": "2025-10-15T09:14:45.54-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BrainPlay - SN117 Can you also setup wandb for validators?",
+      "author": {
+        "id": "1418258356442763385",
+        "name": "angel08519_148_97120",
+        "discriminator": "0000",
+        "nickname": "Ryzen AMD64",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418258356442763385/5853202d370e1097ad5c7e2c46df21d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1418173489692803265",
+              "name": "brainplay_117",
+              "discriminator": "0000",
+              "nickname": "BrainPlay - SN117",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428046703012876478",
+      "type": "Default",
+      "timestamp": "2025-10-15T10:47:45.823-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear @BrainPlay - SN117 \nMy miner is receiving Ping requests but not receiving GameSynapse requests. \uD83D\uDE41\nCould you please let me know why it doesn't receive GameSynapse requests? Thanks.",
+      "author": {
+        "id": "1422619849292779530",
+        "name": "david62451",
+        "discriminator": "0000",
+        "nickname": "I love SIMPLE!",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1422619849292779530/ece728ff790d2168495010cd30c1e37b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE41",
+          "code": "slight_frown",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f641.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428063782256640141",
+      "type": "Default",
+      "timestamp": "2025-10-15T11:55:37.832-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear @BrainPlay - SN117 \nWhen are the weights changed? Are they changing every epoch or not?",
+      "author": {
+        "id": "1422619849292779530",
+        "name": "david62451",
+        "discriminator": "0000",
+        "nickname": "I love SIMPLE!",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1422619849292779530/ece728ff790d2168495010cd30c1e37b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428071980820594869",
+      "type": "Reply",
+      "timestamp": "2025-10-15T12:28:12.522-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "every epoch",
+      "author": {
+        "id": "1372892623823441920",
+        "name": "r_orino",
+        "discriminator": "0000",
+        "nickname": "-ⲟℝī\uD835\uDDC7ⲟ-",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1372892623823441920/a18ffc645120ba086a4811a223df1c42.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1422619849292779530",
+          "name": "david62451",
+          "discriminator": "0000",
+          "nickname": "I love SIMPLE!",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1422619849292779530/ece728ff790d2168495010cd30c1e37b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428063782256640141",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428072034302169118",
+      "type": "Default",
+      "timestamp": "2025-10-15T12:28:25.273-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you can check top miners are changing every epoch",
+      "author": {
+        "id": "1372892623823441920",
+        "name": "r_orino",
+        "discriminator": "0000",
+        "nickname": "-ⲟℝī\uD835\uDDC7ⲟ-",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1372892623823441920/a18ffc645120ba086a4811a223df1c42.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1422619849292779530",
+              "name": "david62451",
+              "discriminator": "0000",
+              "nickname": "I love SIMPLE!",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1422619849292779530/ece728ff790d2168495010cd30c1e37b.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428088432491499643",
+      "type": "Default",
+      "timestamp": "2025-10-15T13:33:34.906-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BrainPlay - SN117 Where can the miners check logs of validators?\nlike wandb",
+      "author": {
+        "id": "1314680970909061161",
+        "name": "daddy_0270",
+        "discriminator": "0000",
+        "nickname": "Jerry",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1314680970909061161/f9cd3875372beac9a02aeeebff34dd2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428127324355694713",
+      "type": "Default",
+      "timestamp": "2025-10-15T16:08:07.449-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BrainPlay - SN117 Can you check this game history? game id 68f00bc8fd66f7cd42f4715b\n\nMy miner generated the clue \"transport\" as RED spymaster, bur it seems banned.\n\nRed team words: spring, litter, cycle, tablet, limousine, ambulance, night, spike, thumb",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428127661376405655",
+      "type": "Reply",
+      "timestamp": "2025-10-15T16:09:27.801-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any update?",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1418173489692803265",
+          "name": "brainplay_117",
+          "discriminator": "0000",
+          "nickname": "BrainPlay - SN117",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428014305936146473",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428176895278841886",
+      "type": "Default",
+      "timestamp": "2025-10-15T19:25:06.078-05:00",
+      "timestampEdited": "2025-10-15T21:09:04.21-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The subnet requires an OpenAI api key correct. there aren't options of running anything else? EDIT: solved",
+      "author": {
+        "id": "1385072220338000095",
+        "name": "._happypuppy___",
+        "discriminator": "0000",
+        "nickname": "happy_puppy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428184848400384151",
+      "type": "Reply",
+      "timestamp": "2025-10-15T19:56:42.25-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When giving clues, make sure to review all the words on the board, not just your team’s.",
+      "author": {
+        "id": "1276636742719504436",
+        "name": "mr.tao0777",
+        "discriminator": "0000",
+        "nickname": "mr.tao",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1276636742719504436/a0ca99adb9ad19c6cc83319d0f409ded.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1389753005133267066",
+          "name": "silver_0613",
+          "discriminator": "0000",
+          "nickname": "Silver",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1428127324355694713",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428185567668994118",
+      "type": "Default",
+      "timestamp": "2025-10-15T19:59:33.737-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Clue rules\n```\nInvalid: The clue cannot be any of the words currently on the board. \nInvalid: The clue cannot use any part of a word on the board, such as saying \"key\" for \"turkey\". \nInvalid: The clue cannot be the number itself (e.g., \"two\" for \"sea\" and \"animal\"). \nInvalid: The clue cannot refer to the location of the words on the board, like \"top 3\". \nInvalid: Clues cannot be made-up names that aren't actual words or well-known proper names. \nInvalid: The clue cannot be the number of words to guess (e.g., saying \"3\" as a clue for \"ball\", \"figure\", and \"octopus\"). \n```",
+      "author": {
+        "id": "1276636742719504436",
+        "name": "mr.tao0777",
+        "discriminator": "0000",
+        "nickname": "mr.tao",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1276636742719504436/a0ca99adb9ad19c6cc83319d0f409ded.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428185732538699786",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2025-10-15T20:00:13.045-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1425671818399715438",
+        "channelId": "1380199829669416970",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428185960994308298",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2025-10-15T20:01:07.513-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1428185567668994118",
+        "channelId": "1380199829669416970",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428186586809634897",
+      "type": "Reply",
+      "timestamp": "2025-10-15T20:03:36.719-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the current code using openai api - it’s meant as a reference for miners to explore; ur completely free to customize and implement your own approach however you like",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1385072220338000095",
+              "name": "._happypuppy___",
+              "discriminator": "0000",
+              "nickname": "happy_puppy",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1385072220338000095",
+          "name": "._happypuppy___",
+          "discriminator": "0000",
+          "nickname": "happy_puppy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428176895278841886",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428186911872126997",
+      "type": "Reply",
+      "timestamp": "2025-10-15T20:04:54.22-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the hint: transport\n25 board words: SPRING, SNOW, LITTER, LINE, EUROPE, FORK, CHECK, CYCLE, VAN, TABLET, LONDON, LIMOUSINE, ANTARCTICA, AMBULANCE, GREEN, ATLANTIS, CHARGE, MUG, IRON, NIGHT, SPIKE, BELL, THUMB, PRINCESS, DAY.\n\nWhich rules isn't the hint follow?",
+      "author": {
+        "id": "1389753005133267066",
+        "name": "silver_0613",
+        "discriminator": "0000",
+        "nickname": "Silver",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1428127324355694713",
+        "channelId": "1380199829669416970",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428204060808446003",
+      "type": "Default",
+      "timestamp": "2025-10-15T21:13:02.845-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think there are too many literal modes of transport - their is a rule about literal answers past a certain threshold %",
+      "author": {
+        "id": "1385072220338000095",
+        "name": "._happypuppy___",
+        "discriminator": "0000",
+        "nickname": "happy_puppy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428204571997769869",
+      "type": "Default",
+      "timestamp": "2025-10-15T21:15:04.722-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think, or at-least i remember bumping into it at sometime this week",
+      "author": {
+        "id": "1385072220338000095",
+        "name": "._happypuppy___",
+        "discriminator": "0000",
+        "nickname": "happy_puppy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1385072220338000095/f2084bffba0b43378d5c87cc2ccdf92b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428317785527943219",
+      "type": "Default",
+      "timestamp": "2025-10-16T04:44:56.931-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hotkey -- 5CXzkoi7Ydv4onKMzsPc3jrNVzUJxf4GJFh1qhKw2wBGJCJH, miner id -- 44 attacked me.\nIf u dont stop this, I will response to your actions.",
+      "author": {
+        "id": "1369709286481068174",
+        "name": "mykola1214",
+        "discriminator": "0000",
+        "nickname": "Mykola",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1369709286481068174/0d9f16258b7c61a74dddc3cde6550a25.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428373841595600947",
+      "type": "Default",
+      "timestamp": "2025-10-16T08:27:41.739-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@brainplay・117  we looked into a bunch of codenames rule variants and decided not to go too strict with ours\ngonna push an update to the codebase soon\nalso tweaking the scoring system to fix the vtrust issue\nupdate should drop today or tomorrow unless we hit any blockers",
+      "author": {
+        "id": "1418173489692803265",
+        "name": "brainplay_117",
+        "discriminator": "0000",
+        "nickname": "BrainPlay - SN117",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1418173489692803265/9a890451b4774d479879b89007ad000b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 46
+}

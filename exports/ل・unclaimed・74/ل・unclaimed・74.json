@@ -1,0 +1,216 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1349123574820245534",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ل・unclaimed・74",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-12T22:26:36.244-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T05:48:53.6431099-05:00",
+  "messages": [
+    {
+      "id": "1428211183957315586",
+      "type": "Default",
+      "timestamp": "2025-10-15T21:41:21.136-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So about that cks...",
+      "author": {
+        "id": "217346202583171072",
+        "name": "vantastiq",
+        "discriminator": "0000",
+        "nickname": "vaNτasτiq_",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/217346202583171072/03407aa3e870226558aafdd086fd67f3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "474050045709385738",
+              "name": "dyl.trades",
+              "discriminator": "0000",
+              "nickname": "DylTrades",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/474050045709385738/635a7d627975ce3cdd95bad07f5435a3.png?size=512"
+            },
+            {
+              "id": "515609848973623297",
+              "name": "punisher.tt",
+              "discriminator": "0000",
+              "nickname": "punisher",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/515609848973623297/e3e9f76ffbd0b3013808a4786a8a6109.png?size=512"
+            },
+            {
+              "id": "805594580660781056",
+              "name": "pfcwintergreen",
+              "discriminator": "0000",
+              "nickname": "h0wru",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/805594580660781056/a6fcb4d0ecc95bc3f8c8b8ba6ee7a33f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428252481770619031",
+      "type": "Default",
+      "timestamp": "2025-10-16T00:25:27.302-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/hitmans-bodyguard-hitmans-bodyguard-gi-fs-samuel-l-jackson-time-tick-tock-gif-8352665",
+      "author": {
+        "id": "1162648476669182052",
+        "name": "cliisearly",
+        "discriminator": "0000",
+        "nickname": "CLIisEarly",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1162648476669182052/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tick tock muthafucka!",
+          "url": "https://tenor.com/view/hitmans-bodyguard-hitmans-bodyguard-gi-fs-samuel-l-jackson-time-tick-tock-gif-8352665",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IhQVLP9QkeGa2SVQJ7GvWleB_ETRNLqlgpn0iRkqr6s/https/media.tenor.com/DijuQ74YJnwAAAAe/hitmans-bodyguard-hitmans-bodyguard-gi-fs.png",
+            "width": 498,
+            "height": 324
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/PVvVvFi3RphfcVElUvQk3QdAlbqtuD00ARp_J54paJc/https/media.tenor.com/DijuQ74YJnwAAAPo/hitmans-bodyguard-hitmans-bodyguard-gi-fs.mp4",
+            "width": 640,
+            "height": 418
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "474050045709385738",
+              "name": "dyl.trades",
+              "discriminator": "0000",
+              "nickname": "DylTrades",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/474050045709385738/635a7d627975ce3cdd95bad07f5435a3.png?size=512"
+            },
+            {
+              "id": "805594580660781056",
+              "name": "pfcwintergreen",
+              "discriminator": "0000",
+              "nickname": "h0wru",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/805594580660781056/a6fcb4d0ecc95bc3f8c8b8ba6ee7a33f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428325689211228221",
+      "type": "Default",
+      "timestamp": "2025-10-16T05:16:21.316-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cold key exchange?",
+      "author": {
+        "id": "1366704578044760154",
+        "name": "xvcdsf",
+        "discriminator": "0000",
+        "nickname": "sydhx",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

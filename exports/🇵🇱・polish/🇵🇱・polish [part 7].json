@@ -1,0 +1,2098 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1017563158665236581",
+    "type": "GuildTextChat",
+    "categoryId": "1017563036241891368",
+    "category": "[・International・]",
+    "name": "\uD83C\uDDF5\uD83C\uDDF1・polish",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-10-15T05:17:32.071327-05:00",
+  "messages": [
+    {
+      "id": "1340117541627887637",
+      "type": "Default",
+      "timestamp": "2025-02-14T18:28:40.104-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cześć. Korzysta ktoś z portfela ?\nhttps://tensorwallet.ca/\nOd wejścia dTao balance w stake się zmienia ale widzę że portfel się nie synchronizuje.",
+      "author": {
+        "id": "471383388738027520",
+        "name": "cryptofoxxx",
+        "discriminator": "0000",
+        "nickname": "CryptoFoxxx",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471383388738027520/45d28cb0d36be55433c24a303a84b56e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1340356660329316354",
+      "type": "Reply",
+      "timestamp": "2025-02-15T10:18:50.445-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "znany problem, team czeka na zaakceptowanie poprawki w chrome webstore i apple, bez updatu dzialac nie bedzie. realny balans konta/stakingu mozna sprawdzic w taostats. Słabo że nie zdążyli przygotowac portfela przed updatem, no ale pozostaje czekac lub probowac innych walletow",
+      "author": {
+        "id": "605159377573380212",
+        "name": "barabasz3209",
+        "discriminator": "0000",
+        "nickname": "barabasz",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/605159377573380212/9d1c1a595b6e5181dd1aca91bff81c5e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "471383388738027520",
+          "name": "cryptofoxxx",
+          "discriminator": "0000",
+          "nickname": "CryptoFoxxx",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/471383388738027520/45d28cb0d36be55433c24a303a84b56e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1340117541627887637",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341342576715890688",
+      "type": "Default",
+      "timestamp": "2025-02-18T03:36:31.229-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cześć, mam problem, na stronie taostas mam dwie różne warotści stakowania",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341342713357926431",
+      "type": "Default",
+      "timestamp": "2025-02-18T03:37:03.807-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "czy ktoś wie z czego to może wynikać?",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341443153466757202",
+      "type": "Reply",
+      "timestamp": "2025-02-18T10:16:10.595-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Taostats is a third-party project, so we can't provide support for it here. It does have a channel in the Community server, which might be a good place to seek support:\nhttps://discord.gg/rxFR2hEC",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1341342713357926431",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341443161578274856",
+      "type": "Default",
+      "timestamp": "2025-02-18T10:16:12.529-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Taostats to projekt zewnętrzny, więc nie możemy udzielić mu wsparcia. Ma kanał na serwerze społeczności, który może być dobrym miejscem do poszukiwania wsparcia:\nhttps://discord.gg/rxFR2hEC",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/ade223d35da94e82b2028174530ee0d3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341443234592849950",
+      "type": "Reply",
+      "timestamp": "2025-02-18T10:16:29.937-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As a word of warning: there, as here, DO NOT respond to any DMs that anyone sends you.  We DO NOT reach out to people via DM, even as a \"reply\" or to \"follow up\", and don't assign people to \"support\" to do this.  Anyone DMing or calling you right now is a scammer, even if they look like me, another mod, admin, Opentensor Foundation team member, etc (they are imposters).  And if anyone invites you to DM them for \"a guide\" or \"resources\" because they \"can't post links\", it's a scam.  Lastly, do not click on links to \"support servers\" to \"open/raise a ticket\" -- **this is also a scam**",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1341342713357926431",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341443241878491247",
+      "type": "Default",
+      "timestamp": "2025-02-18T10:16:31.674-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jako słowo ostrzeżenia: tam, jak tutaj, nie odpowiadaj na żadne DM, które ktoś cię wysyła. Nie docieramy do ludzi za pośrednictwem DM, nawet jako „odpowiedź” lub „śledztwa”, i nie przypisujemy ludzi do „wsparcia”, aby to zrobić. Każdy, kto cię teraz jest, jest oszustem, nawet jeśli wyglądają jak ja, kolejny Mod, Admin, członek zespołu Fundacji OpenTensor itp. (Są oszustami). A jeśli ktoś zaprasza cię do DM ich do „Przewodnika” lub „Zasoby”, ponieważ „nie mogą opublikować linków”, jest to oszustwo. Wreszcie, nie klikaj linków do „Servers Servers”, aby „Otwórz/podnieś bilet” - **To jest również oszustwo**",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/ade223d35da94e82b2028174530ee0d3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343270313068073041",
+      "type": "Default",
+      "timestamp": "2025-02-23T11:16:39.391-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cześć, mam pytania odnośnie dTAO, czy jest ktoś w stanie pomóc?",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343588511986614344",
+      "type": "Reply",
+      "timestamp": "2025-02-24T08:21:03.925-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi there!  First things first: DO NOT respond to any DMs that anyone sends you.  We DO NOT reach out to people via DM, even as a \"reply\" or to \"follow up\", and don't assign people to \"support\" to do this.  Anyone DMing or calling you right now is a scammer, even if they look like me, another mod, admin, Opentensor Foundation team member, etc (they are imposters).  And if anyone invites you to DM them for \"a guide\" or \"resources\" because they \"can't post links\", it's a scam.  Lastly, do not click on links to \"support servers\" to \"open/raise a ticket\" -- **this is also a scam**",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1343270313068073041",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343588519292960779",
+      "type": "Default",
+      "timestamp": "2025-02-24T08:21:05.667-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cześć! Po pierwsze: nie odpowiadaj na żadne DM, które ktoś cię wysyła. Nie docieramy do ludzi za pośrednictwem DM, nawet jako „odpowiedź” lub „śledztwa”, i nie przypisujemy ludzi do „wsparcia”, aby to zrobić. Każdy, kto cię teraz jest, jest oszustem, nawet jeśli wyglądają jak ja, kolejny Mod, Admin, członek zespołu Fundacji OpenTensor itp. (Są oszustami). A jeśli ktoś zaprasza cię do DM ich do „Przewodnika” lub „Zasoby”, ponieważ „nie mogą opublikować linków”, jest to oszustwo. Wreszcie, nie klikaj linków do „Servers Servers”, aby „Otwórz/podnieś bilet” - **To jest również oszustwo**",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/ade223d35da94e82b2028174530ee0d3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343589165169770596",
+      "type": "Reply",
+      "timestamp": "2025-02-24T08:23:39.656-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd recommend checking the #❓・faq channel to get started; this article provides links to explainers (though most of them are in English, you can run the written ones through a translation site like translate.google.com): https://discord.com/channels/799672011265015819/1215386737661055056/1298277344036786196\n\nAnd this one for investment info: https://discord.com/channels/799672011265015819/1215386737661055056/1220060399546798111",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1343270313068073041",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343589170412781651",
+      "type": "Default",
+      "timestamp": "2025-02-24T08:23:40.906-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Polecam sprawdzenie kanału #❓・faq , aby rozpocząć; Ten artykuł zawiera linki do wyjaśniających (choć większość z nich jest w języku angielskim, możesz uruchomić pisemne za pośrednictwem strony tłumaczenia, takiej jak translate.google.com): https://discord.com/channels/799672011265015819/1215386737661055056/1298277344036786196\n\nI ten dla informacji o inwestycji: https://discord.com/channels/799672011265015819/1215386737661055056/1220060399546798111",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/ade223d35da94e82b2028174530ee0d3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348736139904942271",
+      "type": "Default",
+      "timestamp": "2025-03-10T14:15:54.059-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Witam czy da rade jeszcze coś zarobić na 6xrtx3090?",
+      "author": {
+        "id": "1186749316614852661",
+        "name": "miner2049r",
+        "discriminator": "0000",
+        "nickname": "Miner2049r",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1263142603503829034",
+            "name": "sportstensor・41",
+            "color": "#11806A",
+            "position": 99
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1311109873672392785",
+            "name": "synth-network・50",
+            "color": "#11806A",
+            "position": 89
+          },
+          {
+            "id": "1302975971804184626",
+            "name": "efficient-frontier・53",
+            "color": "#11806A",
+            "position": 86
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1186749316614852661/157e517cdbf371a47aaead44675714a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE06",
+            "code": "laughing",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f606.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "201741436117450752",
+              "name": "rhef",
+              "discriminator": "0000",
+              "nickname": "Rhef",
+              "color": "#F05D14",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/201741436117450752/1b09953704d5c62ebffeaec1634fca56.png?size=512"
+            },
+            {
+              "id": "1283741717660569673",
+              "name": "flowintern1",
+              "discriminator": "0000",
+              "nickname": "Dominic",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1283741717660569673/1960613945941fe9dda7c70b0c9a569a.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1060211199175827496",
+              "name": "s3nh1123",
+              "discriminator": "0000",
+              "nickname": "s3nh",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1060211199175827496/84e9527c83c9f5d927ff352816c70536.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348736499830493314",
+      "type": "Reply",
+      "timestamp": "2025-03-10T14:17:19.872-05:00",
+      "timestampEdited": "2025-03-10T14:17:32.426-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We aren't going to be able to provide you recommendations based on your equipment; the subnets are all different, sometimes radically so in terms of skills required, hardware, etc.  So we are unable to answer these questions, or provide you with an all-inclusive guide for newcomers (if we tried to make one, it would be out of date approximately 30 seconds after being published).\n\nIf you're absolutely brand new, though, please check out the Testnet projects, or look for projects that are currently operating on Testnet as well as Mainnet.  Being able to work out the bugs/issues/errors that you might encounter on Testnet first is better than trying to rush because your Mainnet registration is running out of immunity time.  Check the subnets' pinned posts for information about Testnet (or, if there isn't anything, feel free to ask if the subnet is currently active on Testnet).\n\nYou can also refer to this post for information about which *testnet* subnet IDs that mainnet subnets are using (and projects currently developing on testnet only): https://discord.com/channels/799672011265015819/1182445225801691226/1182445225801691226",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1186749316614852661",
+          "name": "miner2049r",
+          "discriminator": "0000",
+          "nickname": "Miner2049r",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1191868747456204801",
+              "name": "nuance・23",
+              "color": "#11806A",
+              "position": 115
+            },
+            {
+              "id": "1263142603503829034",
+              "name": "sportstensor・41",
+              "color": "#11806A",
+              "position": 99
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1267512274667700296",
+              "name": "swe-rizzo・45",
+              "color": "#11806A",
+              "position": 95
+            },
+            {
+              "id": "1311109873672392785",
+              "name": "synth-network・50",
+              "color": "#11806A",
+              "position": 89
+            },
+            {
+              "id": "1302975971804184626",
+              "name": "efficient-frontier・53",
+              "color": "#11806A",
+              "position": 86
+            },
+            {
+              "id": "1342559449717407824",
+              "name": "vidaio・85",
+              "color": "#11806A",
+              "position": 59
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1186749316614852661/157e517cdbf371a47aaead44675714a3.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1348736139904942271",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348736504624578561",
+      "type": "Default",
+      "timestamp": "2025-03-10T14:17:21.015-05:00",
+      "timestampEdited": "2025-03-10T14:17:33.817-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nie będziemy w stanie przekazać Ci zaleceń na podstawie Twojego sprzętu; Wszystkie podsieci są różne, czasem radykalnie pod względem wymaganych umiejętności, sprzętu itp. Więc nie jesteśmy w stanie odpowiedzieć na te pytania lub dostarczyć ci all-inclusive przewodnik dla początkujących (gdybyśmy próbowali je zrobić, byłoby to nieaktualne około 30 sekund po opublikowaniu).\n\nJeśli jednak jesteś absolutnie nowy, sprawdź projekty testne lub poszukaj projektów, które obecnie działają zarówno na Testnet, jak i Mainnet. Możliwość wypracowania błędów/problemów/błędów, które możesz napotkać na Testnet, jest lepsza niż próba pośpiechu, ponieważ rejestracja główna jest czasem czasu na odporność. Sprawdź przypięte posty podsieci, aby uzyskać informacje o Testnet (lub, jeśli nic nie ma, zapyta się, czy podsieć jest obecnie aktywna w Testnet).\n\nMożesz także zapoznać się z tym postem, aby uzyskać informacje o tym, które identyfikatory podsieci *testne* używają podsieci Mainnet (i projekty obecnie opracowujące się tylko na testnet): https://discord.com/channels/799672011265015819/1182445225801691226/1182445225801691226",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/ade223d35da94e82b2028174530ee0d3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1380438299407024221",
+      "type": "Default",
+      "timestamp": "2025-06-06T01:48:57.882-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Czy jest tu ktoś kto wyjaśni mi dlaczego APY na root spada drastycznie ? Dlaczego pare tygodni temu mogło być powyżej 20 proc a teraz jest ledwo 15? Dzięki",
+      "author": {
+        "id": "873203902907052092",
+        "name": "michal.op",
+        "discriminator": "0000",
+        "nickname": "Michał",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/873203902907052092/be9f4e16da50b9e5643caa23f2587b89.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1380443685413589113",
+      "type": "Reply",
+      "timestamp": "2025-06-06T02:10:22.006-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The root APY changes primarily due to fluctuations in root emissions (the amount of TAO distributed to stakers) and shifts in the total amount of TAO staked in root.\n\nTLDR: It's dynamic",
+      "author": {
+        "id": "404289456938418177",
+        "name": "jessica_defiants",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/404289456938418177/10348dab3b3766cf8cd62db7db45a765.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "873203902907052092",
+          "name": "michal.op",
+          "discriminator": "0000",
+          "nickname": "Michał",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/873203902907052092/be9f4e16da50b9e5643caa23f2587b89.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1380438299407024221",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1380443691734401036",
+      "type": "Default",
+      "timestamp": "2025-06-06T02:10:23.513-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Korzenie APY zmienia się przede wszystkim z fluktuacji emisji korzeni (ilość TAO dystrybuowanego na Stakers) i przesuwa się w całkowitej ilości Tao postawionego w korzeniu.\n\nTLDR: Jest dynamiczny",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Jessica | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/faf700bce1595281caa6920ad73011a8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1380808069394726942",
+      "type": "Default",
+      "timestamp": "2025-06-07T02:18:17.917-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tłumaczenie: \uD83D\uDD1D",
+      "author": {
+        "id": "795991134706991126",
+        "name": "rysjol",
+        "discriminator": "0000",
+        "nickname": "rysjol [τ τ] | Team Rizzo",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1364251404105158777",
+            "name": "taohash・14",
+            "color": "#11806A",
+            "position": 124
+          },
+          {
+            "id": "1403069177173905600",
+            "name": "bitquant・15",
+            "color": "#11806A",
+            "position": 123
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1414687929544085635",
+            "name": "pending・19",
+            "color": "#11806A",
+            "position": 119
+          },
+          {
+            "id": "1416077880529653771",
+            "name": "bounty-hunter・20",
+            "color": "#11806A",
+            "position": 118
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1321148526813642782",
+            "name": "kinitro・26",
+            "color": "#11806A",
+            "position": 112
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1247681225255161889",
+            "name": "mind・34",
+            "color": "#11806A",
+            "position": 105
+          },
+          {
+            "id": "1415791026672500827",
+            "name": "cartha・35",
+            "color": "#11806A",
+            "position": 104
+          },
+          {
+            "id": "1420486520200237137",
+            "name": "aurelius・37",
+            "color": "#11806A",
+            "position": 102
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1387866601990127728",
+            "name": "basilica・39",
+            "color": "#11806A",
+            "position": 100
+          },
+          {
+            "id": "1263142603503829034",
+            "name": "sportstensor・41",
+            "color": "#11806A",
+            "position": 99
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1271487069079863367",
+            "name": "score・44",
+            "color": "#11806A",
+            "position": 96
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1286726433699532800",
+            "name": "nextplace・48",
+            "color": "#11806A",
+            "position": 92
+          },
+          {
+            "id": "1414657398630776903",
+            "name": "quantum-c・48",
+            "color": "#11806A",
+            "position": 91
+          },
+          {
+            "id": "1356277672044531823",
+            "name": "polaris・49",
+            "color": "#11806A",
+            "position": 90
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1351934817838567485",
+            "name": "miid・54",
+            "color": "#11806A",
+            "position": 85
+          },
+          {
+            "id": "1320766571521511516",
+            "name": "precog・55",
+            "color": "#11806A",
+            "position": 84
+          },
+          {
+            "id": "1311360549568909332",
+            "name": "gradients・56",
+            "color": "#11806A",
+            "position": 83
+          },
+          {
+            "id": "1310698595850129459",
+            "name": "gaia・57",
+            "color": "#11806A",
+            "position": 82
+          },
+          {
+            "id": "1425143983725744148",
+            "name": "babelbit・59",
+            "color": "#11806A",
+            "position": 80
+          },
+          {
+            "id": "1300553409597931663",
+            "name": "bitsec・60",
+            "color": "#11806A",
+            "position": 79
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1387178851611705416",
+            "name": "quantum-i・63",
+            "color": "#11806A",
+            "position": 76
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1349759960719953950",
+            "name": "vericore・70",
+            "color": "#11806A",
+            "position": 70
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1365321384653357087",
+            "name": "liquidity・77",
+            "color": "#11806A",
+            "position": 65
+          },
+          {
+            "id": "1356318576386244648",
+            "name": "taos・79",
+            "color": "#11806A",
+            "position": 64
+          },
+          {
+            "id": "1407105661363294330",
+            "name": "grail・81",
+            "color": "#11806A",
+            "position": 62
+          },
+          {
+            "id": "1409551996045758515",
+            "name": "cliqueai・83",
+            "color": "#11806A",
+            "position": 61
+          },
+          {
+            "id": "1408463320071278755",
+            "name": "chipforge・84",
+            "color": "#11806A",
+            "position": 60
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1366412255909904474",
+            "name": "miao・86",
+            "color": "#11806A",
+            "position": 57
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1361439022110736464",
+            "name": "brain・90",
+            "color": "#11806A",
+            "position": 54
+          },
+          {
+            "id": "1362451357122166905",
+            "name": "tensorprox・91",
+            "color": "#11806A",
+            "position": 53
+          },
+          {
+            "id": "1361761950110978251",
+            "name": "pi・92",
+            "color": "#11806A",
+            "position": 52
+          },
+          {
+            "id": "1343987982834864178",
+            "name": "eastworld・94",
+            "color": "#11806A",
+            "position": 50
+          },
+          {
+            "id": "1364253787543568475",
+            "name": "actual・95",
+            "color": "#11806A",
+            "position": 49
+          },
+          {
+            "id": "1364655541577584802",
+            "name": "flock-off・96",
+            "color": "#11806A",
+            "position": 48
+          },
+          {
+            "id": "1366426237563830314",
+            "name": "flamewire・97",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1381667117815824434",
+            "name": "neza・99",
+            "color": "#11806A",
+            "position": 45
+          },
+          {
+            "id": "1366897545653125190",
+            "name": "signal・100",
+            "color": "#11806A",
+            "position": 44
+          },
+          {
+            "id": "1375534953873281025",
+            "name": "bettertherapy・102",
+            "color": "#11806A",
+            "position": 43
+          },
+          {
+            "id": "1370084092527513672",
+            "name": "happyai・103",
+            "color": "#11806A",
+            "position": 42
+          },
+          {
+            "id": "1329824446223220867",
+            "name": "soundsright・105",
+            "color": "#11806A",
+            "position": 41
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1379149191548502150",
+            "name": "tigeralpha・107",
+            "color": "#11806A",
+            "position": 39
+          },
+          {
+            "id": "1374747733017235519",
+            "name": "internet・108",
+            "color": "#11806A",
+            "position": 38
+          },
+          {
+            "id": "1419748252688842923",
+            "name": "rich-kids・110",
+            "color": "#11806A",
+            "position": 36
+          },
+          {
+            "id": "1382378455152332944",
+            "name": "oneoneone・111",
+            "color": "#11806A",
+            "position": 35
+          },
+          {
+            "id": "1363881889240191026",
+            "name": "taonado・113",
+            "color": "#11806A",
+            "position": 34
+          },
+          {
+            "id": "1418240117138653264",
+            "name": "level-114・114",
+            "color": "#11806A",
+            "position": 33
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1420053155525427352",
+            "name": "brainplay・117",
+            "color": "#11806A",
+            "position": 30
+          },
+          {
+            "id": "1400539417155993720",
+            "name": "affine・120",
+            "color": "#11806A",
+            "position": 29
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1375509956844978266",
+            "name": "bitrecs・122",
+            "color": "#11806A",
+            "position": 27
+          },
+          {
+            "id": "1384566209739231252",
+            "name": "mantis・123",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1386718522453004358",
+            "name": "swarm・124",
+            "color": "#11806A",
+            "position": 25
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/795991134706991126/43e1df72d5f53bed22aae04faf0ff25d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD1D",
+          "code": "top",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1392021490169544874",
+      "type": "Default",
+      "timestamp": "2025-07-08T00:56:25.765-05:00",
+      "timestampEdited": "2025-07-08T00:56:55.161-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cześć, powiedzcie mi proszę dlaczego gdy chce kupić jakiś SN to wyskakuje mi w sumie od dziś na czerwono komunikat, ze nie mam TAO na fee ? a mam kilka sztuk na portfelu",
+      "author": {
+        "id": "902597079145263105",
+        "name": "johnyb212",
+        "discriminator": "0000",
+        "nickname": "JohnyB212",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902597079145263105/4042044126c11d2051a4bf0b513efa6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1392021878872473640",
+      "type": "Default",
+      "timestamp": "2025-07-08T00:57:58.439-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nie mam nic w ROOT i nawet jak chce tam wrzucić to nie mogę bo nie mam nic na fee",
+      "author": {
+        "id": "902597079145263105",
+        "name": "johnyb212",
+        "discriminator": "0000",
+        "nickname": "JohnyB212",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902597079145263105/4042044126c11d2051a4bf0b513efa6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1392022292564807744",
+      "type": "Reply",
+      "timestamp": "2025-07-08T00:59:37.071-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Depends on the amount also \nMinimum stake is now 0.02 Tao  since the new update\n\nYou can’t stake your entire Tao balance you have to leave some for fees",
+      "author": {
+        "id": "1049370387739320340",
+        "name": "uzor_defiants",
+        "discriminator": "0000",
+        "nickname": "Uzor | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1247681225255161889",
+            "name": "mind・34",
+            "color": "#11806A",
+            "position": 105
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1263142603503829034",
+            "name": "sportstensor・41",
+            "color": "#11806A",
+            "position": 99
+          },
+          {
+            "id": "1356277672044531823",
+            "name": "polaris・49",
+            "color": "#11806A",
+            "position": 90
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1049370387739320340/5737b6e392b668709101ee858f95c453.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902597079145263105",
+          "name": "johnyb212",
+          "discriminator": "0000",
+          "nickname": "JohnyB212",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/902597079145263105/4042044126c11d2051a4bf0b513efa6d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1392021490169544874",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1392022301427630130",
+      "type": "Default",
+      "timestamp": "2025-07-08T00:59:39.184-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Zależy również od kwoty \nMinimalny udział jest teraz 0.02 Tao od nowej aktualizacji\n\nMożesz’t stać całą saldo Tao, musisz zostawić trochę za opłaty",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Uzor | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Uzor | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/064f74be4e3917a288ae6890edd63c9e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1392029835756572807",
+      "type": "Reply",
+      "timestamp": "2025-07-08T01:29:35.508-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mam włożone w Root 0.1T i dalej to samo, masz jeszcze jakiś pomysł co może być nie tak?",
+      "author": {
+        "id": "902597079145263105",
+        "name": "johnyb212",
+        "discriminator": "0000",
+        "nickname": "JohnyB212",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902597079145263105/4042044126c11d2051a4bf0b513efa6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1392022301427630130",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1392135136757157928",
+      "type": "Reply",
+      "timestamp": "2025-07-08T08:28:01.223-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If the slippage is too high in the subnet you're wanting to stake to, it's possible that the transaction will fail out automatically.   If you are approaching staking to a subnet as an investment, please read this article first; https://discord.com/channels/799672011265015819/1215386737661055056/1343617241790419037",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902597079145263105",
+          "name": "johnyb212",
+          "discriminator": "0000",
+          "nickname": "JohnyB212",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/902597079145263105/4042044126c11d2051a4bf0b513efa6d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1392029835756572807",
+        "channelId": "1017563158665236581",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1392135143791132673",
+      "type": "Default",
+      "timestamp": "2025-07-08T08:28:02.9-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jeśli poślizg jest zbyt wysoki w podsieci, do której chcesz stawiać, możliwe jest, że transakcja awansuje automatycznie. Jeśli zbliżasz się do stawiania podsieci jako inwestycji, najpierw przeczytaj ten artykuł; https://discord.com/channels/799672011265015819/1215386737661055056/1343617241790419037",
+      "author": {
+        "id": "1237145876116279398",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145876116279398/23612279e6c9aae82eb81264be1d9d88.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 27
+}

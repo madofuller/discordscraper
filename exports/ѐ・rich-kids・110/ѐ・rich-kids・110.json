@@ -1,0 +1,776 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1374390003865747546",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "ѐ・rich-kids・110",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T07:10:23.456-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T22:18:46.6931464-05:00",
+  "messages": [
+    {
+      "id": "1428103039851434016",
+      "type": "Default",
+      "timestamp": "2025-10-15T14:31:37.572-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why slippage .34%!!????",
+      "author": {
+        "id": "541722141738139648",
+        "name": "miketheimmortalbard",
+        "discriminator": "0000",
+        "nickname": "Santideva",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541722141738139648/c39a711a0ecf969f4c578083c6708afd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD26",
+            "code": "person_facepalming",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f926.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1299625580945342485",
+              "name": "commander_hawk",
+              "discriminator": "0000",
+              "nickname": "Commander Hawk [τ, τ]",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1299625580945342485/ecf710dd9aff784d7ca94ab4d7a0bd41.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428103606783184916",
+      "type": "Reply",
+      "timestamp": "2025-10-15T14:33:52.739-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most likely due to low liquidity.  Please see this article in the FAQ channel: https://discord.com/channels/799672011265015819/1411009646835269744/1411009675280781433",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541722141738139648",
+          "name": "miketheimmortalbard",
+          "discriminator": "0000",
+          "nickname": "Santideva",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/541722141738139648/c39a711a0ecf969f4c578083c6708afd.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428103039851434016",
+        "channelId": "1374390003865747546",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428143770917933180",
+      "type": "Default",
+      "timestamp": "2025-10-15T17:13:28.615-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Richie Rich [SN 110 | RKoT] what's the plan?",
+      "author": {
+        "id": "1197181539851714662",
+        "name": "p383_54249",
+        "discriminator": "0000",
+        "nickname": "Fish | lium.io",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1197181539851714662/73585ddffe7cbe1819ea099d38b45fa2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1337164703708741714",
+          "name": "bespoketoby",
+          "discriminator": "0000",
+          "nickname": "Richie Rich [SN 110 | RKoT]",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1337164703708741714/296cbc592a5f9a68abf3166ea204cd10.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428147097034686565",
+      "type": "Reply",
+      "timestamp": "2025-10-15T17:26:41.623-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "waiting for your comments on my wall of text",
+      "author": {
+        "id": "1337164703708741714",
+        "name": "bespoketoby",
+        "discriminator": "0000",
+        "nickname": "Richie Rich [SN 110 | RKoT]",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1337164703708741714/296cbc592a5f9a68abf3166ea204cd10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1197181539851714662",
+          "name": "p383_54249",
+          "discriminator": "0000",
+          "nickname": "Fish | lium.io",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1295847093847720027",
+              "name": "rao",
+              "color": "#FFFFFF",
+              "position": 148
+            },
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1194085189643669587",
+              "name": "subnet-comms",
+              "color": "#3399BB",
+              "position": 145
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1291754767240007690",
+              "name": "lium-io・51",
+              "color": "#11806A",
+              "position": 88
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1197181539851714662/73585ddffe7cbe1819ea099d38b45fa2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428143770917933180",
+        "channelId": "1374390003865747546",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428147206770135101",
+      "type": "Reply",
+      "timestamp": "2025-10-15T17:27:07.786-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree",
+      "author": {
+        "id": "1197181539851714662",
+        "name": "p383_54249",
+        "discriminator": "0000",
+        "nickname": "Fish | lium.io",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1197181539851714662/73585ddffe7cbe1819ea099d38b45fa2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1337164703708741714",
+          "name": "bespoketoby",
+          "discriminator": "0000",
+          "nickname": "Richie Rich [SN 110 | RKoT]",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1337164703708741714/296cbc592a5f9a68abf3166ea204cd10.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428147097034686565",
+        "channelId": "1374390003865747546",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428147895613521930",
+      "type": "Reply",
+      "timestamp": "2025-10-15T17:29:52.019-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thx for the classic answer after the wall of text hahaha",
+      "author": {
+        "id": "1337164703708741714",
+        "name": "bespoketoby",
+        "discriminator": "0000",
+        "nickname": "Richie Rich [SN 110 | RKoT]",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1337164703708741714/296cbc592a5f9a68abf3166ea204cd10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1197181539851714662",
+          "name": "p383_54249",
+          "discriminator": "0000",
+          "nickname": "Fish | lium.io",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1295847093847720027",
+              "name": "rao",
+              "color": "#FFFFFF",
+              "position": 148
+            },
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1194085189643669587",
+              "name": "subnet-comms",
+              "color": "#3399BB",
+              "position": 145
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1291754767240007690",
+              "name": "lium-io・51",
+              "color": "#11806A",
+              "position": 88
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1197181539851714662/73585ddffe7cbe1819ea099d38b45fa2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428147206770135101",
+        "channelId": "1374390003865747546",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428148008758939660",
+      "type": "Reply",
+      "timestamp": "2025-10-15T17:30:18.995-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so what's your plan now?",
+      "author": {
+        "id": "1197181539851714662",
+        "name": "p383_54249",
+        "discriminator": "0000",
+        "nickname": "Fish | lium.io",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1197181539851714662/73585ddffe7cbe1819ea099d38b45fa2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1337164703708741714",
+          "name": "bespoketoby",
+          "discriminator": "0000",
+          "nickname": "Richie Rich [SN 110 | RKoT]",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1337164703708741714/296cbc592a5f9a68abf3166ea204cd10.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428147895613521930",
+        "channelId": "1374390003865747546",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428148249830625342",
+      "type": "Default",
+      "timestamp": "2025-10-15T17:31:16.471-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Still not sure. Validators are roaming around without saying anything and I got some weird offers for the slot. Except these no updates",
+      "author": {
+        "id": "1337164703708741714",
+        "name": "bespoketoby",
+        "discriminator": "0000",
+        "nickname": "Richie Rich [SN 110 | RKoT]",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1337164703708741714/296cbc592a5f9a68abf3166ea204cd10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

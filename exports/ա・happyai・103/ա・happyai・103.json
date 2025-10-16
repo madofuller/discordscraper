@@ -1,0 +1,1682 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1370083644818849955",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "ա・happyai・103",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-08T03:07:57.309-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T22:20:56.9910745-05:00",
+  "messages": [
+    {
+      "id": "1425428912296558693",
+      "type": "Default",
+      "timestamp": "2025-10-08T05:25:35.88-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi @Vitaliy",
+      "author": {
+        "id": "1333833566295036038",
+        "name": "bytecrafter15_02112",
+        "discriminator": "0000",
+        "nickname": "Pikachu",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1333833566295036038/b01d1734c621a8b204c6189b2fa70184.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "593514728819785736",
+          "name": "sevenfolt",
+          "discriminator": "0000",
+          "nickname": "Vitaliy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425428928969052251",
+      "type": "Default",
+      "timestamp": "2025-10-08T05:25:39.855-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can I send DM?",
+      "author": {
+        "id": "1333833566295036038",
+        "name": "bytecrafter15_02112",
+        "discriminator": "0000",
+        "nickname": "Pikachu",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1333833566295036038/b01d1734c621a8b204c6189b2fa70184.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425452667735375873",
+      "type": "Default",
+      "timestamp": "2025-10-08T06:59:59.618-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425837689323913286",
+      "type": "Default",
+      "timestamp": "2025-10-09T08:29:55.918-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @Pavlo Soroka , @Vitaliy",
+      "author": {
+        "id": "1217557116248789083",
+        "name": "dark.gain",
+        "discriminator": "0000",
+        "nickname": "Dan",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1217557116248789083/77f24d712b686ec984fc7bbbd29492bf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "593514728819785736",
+          "name": "sevenfolt",
+          "discriminator": "0000",
+          "nickname": "Vitaliy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        },
+        {
+          "id": "306498733414285322",
+          "name": "batster4",
+          "discriminator": "0000",
+          "nickname": "Pavlo Soroka",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425837984485343343",
+      "type": "Default",
+      "timestamp": "2025-10-09T08:31:06.29-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Were there any changes in incentive-mechanism?",
+      "author": {
+        "id": "1217557116248789083",
+        "name": "dark.gain",
+        "discriminator": "0000",
+        "nickname": "Dan",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1217557116248789083/77f24d712b686ec984fc7bbbd29492bf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425839706767364116",
+      "type": "Default",
+      "timestamp": "2025-10-09T08:37:56.914-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @Vitaliy Can I send DM to you?",
+      "author": {
+        "id": "822057422818115625",
+        "name": "0xrfj",
+        "discriminator": "0000",
+        "nickname": "0xRFJ",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822057422818115625/ffd9f292d29ff8f986fed9ba31ef1d65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "593514728819785736",
+              "name": "sevenfolt",
+              "discriminator": "0000",
+              "nickname": "Vitaliy",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "593514728819785736",
+          "name": "sevenfolt",
+          "discriminator": "0000",
+          "nickname": "Vitaliy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425841525610385408",
+      "type": "Reply",
+      "timestamp": "2025-10-09T08:45:10.56-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a bit",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1217557116248789083",
+          "name": "dark.gain",
+          "discriminator": "0000",
+          "nickname": "Dan",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1217557116248789083/77f24d712b686ec984fc7bbbd29492bf.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1425837984485343343",
+        "channelId": "1370083644818849955",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425841567700353088",
+      "type": "Default",
+      "timestamp": "2025-10-09T08:45:20.595-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "punished a couple of cheaters.",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425912884009111634",
+      "type": "Default",
+      "timestamp": "2025-10-09T13:28:43.728-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My miner was good in incentive and trust score and my ranking was 160 ~ 170. But suddenly it is deregistered. How come this happens? In my opinion, need to de-register the low ranking UIDs.",
+      "author": {
+        "id": "822057422818115625",
+        "name": "0xrfj",
+        "discriminator": "0000",
+        "nickname": "0xRFJ",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822057422818115625/ffd9f292d29ff8f986fed9ba31ef1d65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425912954196459600",
+      "type": "Default",
+      "timestamp": "2025-10-09T13:29:00.462-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Another hotkey registered as my UID and I can't continue mining. How come this happen?",
+      "author": {
+        "id": "822057422818115625",
+        "name": "0xrfj",
+        "discriminator": "0000",
+        "nickname": "0xRFJ",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822057422818115625/ffd9f292d29ff8f986fed9ba31ef1d65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425912978645188671",
+      "type": "Default",
+      "timestamp": "2025-10-09T13:29:06.291-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Vitaliy Could you please help me on this?",
+      "author": {
+        "id": "822057422818115625",
+        "name": "0xrfj",
+        "discriminator": "0000",
+        "nickname": "0xRFJ",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822057422818115625/ffd9f292d29ff8f986fed9ba31ef1d65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "593514728819785736",
+          "name": "sevenfolt",
+          "discriminator": "0000",
+          "nickname": "Vitaliy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426142781105115148",
+      "type": "Default",
+      "timestamp": "2025-10-10T04:42:15.467-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My friend, we are not responsible for the mechanisms of the bitensor itself. I am unlikely to be able to help you.",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426142939725172756",
+      "type": "Default",
+      "timestamp": "2025-10-10T04:42:53.285-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's very sad that this happened, but I don't know why you were kicked out of the middle.",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426195773514842203",
+      "type": "Reply",
+      "timestamp": "2025-10-10T08:12:49.842-05:00",
+      "timestampEdited": "2025-10-10T08:13:37.726-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also due to incentive mechanisms validators punish potentially harmful/dangerous responses, it can be one of the reasons",
+      "author": {
+        "id": "306498733414285322",
+        "name": "batster4",
+        "discriminator": "0000",
+        "nickname": "Pavlo Soroka",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "822057422818115625",
+          "name": "0xrfj",
+          "discriminator": "0000",
+          "nickname": "0xRFJ",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/822057422818115625/ffd9f292d29ff8f986fed9ba31ef1d65.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1425912884009111634",
+        "channelId": "1370083644818849955",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426199961317539921",
+      "type": "Reply",
+      "timestamp": "2025-10-10T08:29:28.292-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pls check my DM",
+      "author": {
+        "id": "855474717653205002",
+        "name": "khai3851",
+        "discriminator": "0000",
+        "nickname": "BombTsar",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1364251404105158777",
+            "name": "taohash・14",
+            "color": "#11806A",
+            "position": 124
+          },
+          {
+            "id": "1403069177173905600",
+            "name": "bitquant・15",
+            "color": "#11806A",
+            "position": 123
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1414687929544085635",
+            "name": "pending・19",
+            "color": "#11806A",
+            "position": 119
+          },
+          {
+            "id": "1416077880529653771",
+            "name": "bounty-hunter・20",
+            "color": "#11806A",
+            "position": 118
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1321148526813642782",
+            "name": "kinitro・26",
+            "color": "#11806A",
+            "position": 112
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1247681225255161889",
+            "name": "mind・34",
+            "color": "#11806A",
+            "position": 105
+          },
+          {
+            "id": "1415791026672500827",
+            "name": "cartha・35",
+            "color": "#11806A",
+            "position": 104
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1420486520200237137",
+            "name": "aurelius・37",
+            "color": "#11806A",
+            "position": 102
+          },
+          {
+            "id": "1387866601990127728",
+            "name": "basilica・39",
+            "color": "#11806A",
+            "position": 100
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1286726433699532800",
+            "name": "nextplace・48",
+            "color": "#11806A",
+            "position": 92
+          },
+          {
+            "id": "1414657398630776903",
+            "name": "quantum-c・48",
+            "color": "#11806A",
+            "position": 91
+          },
+          {
+            "id": "1356277672044531823",
+            "name": "polaris・49",
+            "color": "#11806A",
+            "position": 90
+          },
+          {
+            "id": "1311109873672392785",
+            "name": "synth-network・50",
+            "color": "#11806A",
+            "position": 89
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1351934817838567485",
+            "name": "miid・54",
+            "color": "#11806A",
+            "position": 85
+          },
+          {
+            "id": "1320766571521511516",
+            "name": "precog・55",
+            "color": "#11806A",
+            "position": 84
+          },
+          {
+            "id": "1310698595850129459",
+            "name": "gaia・57",
+            "color": "#11806A",
+            "position": 82
+          },
+          {
+            "id": "1300553409597931663",
+            "name": "bitsec・60",
+            "color": "#11806A",
+            "position": 79
+          },
+          {
+            "id": "1387178851611705416",
+            "name": "quantum-i・63",
+            "color": "#11806A",
+            "position": 76
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1342275581236088872",
+            "name": "tpn・65",
+            "color": "#11806A",
+            "position": 74
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1346133673451327542",
+            "name": "nova・68",
+            "color": "#11806A",
+            "position": 71
+          },
+          {
+            "id": "1349759960719953950",
+            "name": "vericore・70",
+            "color": "#11806A",
+            "position": 70
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1365321384653357087",
+            "name": "liquidity・77",
+            "color": "#11806A",
+            "position": 65
+          },
+          {
+            "id": "1407105661363294330",
+            "name": "grail・81",
+            "color": "#11806A",
+            "position": 62
+          },
+          {
+            "id": "1409551996045758515",
+            "name": "cliqueai・83",
+            "color": "#11806A",
+            "position": 61
+          },
+          {
+            "id": "1408463320071278755",
+            "name": "chipforge・84",
+            "color": "#11806A",
+            "position": 60
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1366412255909904474",
+            "name": "miao・86",
+            "color": "#11806A",
+            "position": 57
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1361439022110736464",
+            "name": "brain・90",
+            "color": "#11806A",
+            "position": 54
+          },
+          {
+            "id": "1343987982834864178",
+            "name": "eastworld・94",
+            "color": "#11806A",
+            "position": 50
+          },
+          {
+            "id": "1364253787543568475",
+            "name": "actual・95",
+            "color": "#11806A",
+            "position": 49
+          },
+          {
+            "id": "1364655541577584802",
+            "name": "flock-off・96",
+            "color": "#11806A",
+            "position": 48
+          },
+          {
+            "id": "1366897545653125190",
+            "name": "signal・100",
+            "color": "#11806A",
+            "position": 44
+          },
+          {
+            "id": "1375534953873281025",
+            "name": "bettertherapy・102",
+            "color": "#11806A",
+            "position": 43
+          },
+          {
+            "id": "1370084092527513672",
+            "name": "happyai・103",
+            "color": "#11806A",
+            "position": 42
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1382378455152332944",
+            "name": "oneoneone・111",
+            "color": "#11806A",
+            "position": 35
+          },
+          {
+            "id": "1363881889240191026",
+            "name": "taonado・113",
+            "color": "#11806A",
+            "position": 34
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1420053155525427352",
+            "name": "brainplay・117",
+            "color": "#11806A",
+            "position": 30
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1375509956844978266",
+            "name": "bitrecs・122",
+            "color": "#11806A",
+            "position": 27
+          },
+          {
+            "id": "1384566209739231252",
+            "name": "mantis・123",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1386718522453004358",
+            "name": "swarm・124",
+            "color": "#11806A",
+            "position": 25
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1379113023607672862",
+            "name": "rekimart・t307",
+            "color": "#11806A",
+            "position": 20
+          },
+          {
+            "id": "1357460811202953397",
+            "name": "agents4all・t334",
+            "color": "#11806A",
+            "position": 19
+          },
+          {
+            "id": "1404870654418882753",
+            "name": "acoreai・t405",
+            "color": "#11806A",
+            "position": 18
+          },
+          {
+            "id": "1409555571706957959",
+            "name": "luminar・t414",
+            "color": "#11806A",
+            "position": 17
+          },
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/855474717653205002/e86aab2a0d47e31d2aeddf1914e297e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "593514728819785736",
+          "name": "sevenfolt",
+          "discriminator": "0000",
+          "nickname": "Vitaliy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1426142939725172756",
+        "channelId": "1370083644818849955",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426288310732591294",
+      "type": "Default",
+      "timestamp": "2025-10-10T14:20:32.434-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey team!\n\nWould be great to verify your subnet metrics on Tao Revenue to make sure we are displaying them correctly. Who can I speak to regarding this? \uD83D\uDE4F",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1426409644942819408",
+      "type": "Default",
+      "timestamp": "2025-10-10T22:22:40.764-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi is 103 the test netuid",
+      "author": {
+        "id": "699754575238004827",
+        "name": "manojbh",
+        "discriminator": "0000",
+        "nickname": "mjb09 (τ)",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427179049771339796",
+      "type": "Reply",
+      "timestamp": "2025-10-13T01:20:01.17-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699754575238004827",
+          "name": "manojbh",
+          "discriminator": "0000",
+          "nickname": "mjb09 (τ)",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1222230744760455290",
+              "name": "templar・3",
+              "color": "#11806A",
+              "position": 135
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1232380170946478201",
+              "name": "dippy・11",
+              "color": "#11806A",
+              "position": 127
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1291754767240007690",
+              "name": "lium-io・51",
+              "color": "#11806A",
+              "position": 88
+            },
+            {
+              "id": "1304499734827892816",
+              "name": "dippy-speech・58",
+              "color": "#11806A",
+              "position": 81
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426409644942819408",
+        "channelId": "1370083644818849955",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427179119853965334",
+      "type": "Reply",
+      "timestamp": "2025-10-13T01:20:17.879-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "send me dm pls",
+      "author": {
+        "id": "593514728819785736",
+        "name": "sevenfolt",
+        "discriminator": "0000",
+        "nickname": "Vitaliy",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1347912853453013066",
+              "name": "antlerminator",
+              "discriminator": "0000",
+              "nickname": "Moose \uD83E\uDECE",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1347912853453013066",
+          "name": "antlerminator",
+          "discriminator": "0000",
+          "nickname": "Moose \uD83E\uDECE",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1404959073283346552",
+              "name": "subnet-claiminfo",
+              "color": "#11806A",
+              "position": 5
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426288310732591294",
+        "channelId": "1370083644818849955",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428094716347547708",
+      "type": "Reply",
+      "timestamp": "2025-10-15T13:58:33.094-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey, mining is happy in this sn?",
+      "author": {
+        "id": "1291744624955883524",
+        "name": "matthias_216",
+        "discriminator": "0000",
+        "nickname": "Matthias",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1291744624955883524/0bd8bbc815fd1847203fb49ec3339b29.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "822057422818115625",
+          "name": "0xrfj",
+          "discriminator": "0000",
+          "nickname": "0xRFJ",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/822057422818115625/ffd9f292d29ff8f986fed9ba31ef1d65.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1425912884009111634",
+        "channelId": "1370083644818849955",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428127296061046876",
+      "type": "Default",
+      "timestamp": "2025-10-15T16:08:00.703-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, @Vitaliy \nCan I send you DM?",
+      "author": {
+        "id": "1423351763506827394",
+        "name": "fresh_0809_71379",
+        "discriminator": "0000",
+        "nickname": "Fresh",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1423351763506827394/66edbb4baaa8457a93be6c0fcedd7c5a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "593514728819785736",
+          "name": "sevenfolt",
+          "discriminator": "0000",
+          "nickname": "Vitaliy",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 21
+}

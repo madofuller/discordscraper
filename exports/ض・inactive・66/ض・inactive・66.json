@@ -1,0 +1,247 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1392960766990221312",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ض・inactive・66",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T13:22:47.559-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T04:18:51.6898349-05:00",
+  "messages": [
+    {
+      "id": "1428000873723727882",
+      "type": "Reply",
+      "timestamp": "2025-10-15T07:45:39.269-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Out of curiosity does this happen at a fixed market price or is there a death candle of sorts?",
+      "author": {
+        "id": "1250468492222664772",
+        "name": "sebyverse",
+        "discriminator": "0000",
+        "nickname": "Seby | SN46 RESI",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1250468492222664772/e327f9858c635824a0bf3d4d8e25489f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1083021414136827905",
+          "name": "kat_defiants",
+          "discriminator": "0000",
+          "nickname": "Kat | Biττensor CM・won't DM 1st",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107320868746567740",
+              "name": "Supermod",
+              "color": null,
+              "position": 159
+            },
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427723329456050308",
+        "channelId": "1392960766990221312",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428011721271935120",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:28:45.526-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also curious?",
+      "author": {
+        "id": "219536927811043329",
+        "name": "anonyman4464",
+        "discriminator": "0000",
+        "nickname": "Bittensortalkorg",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/219536927811043329/ee85a25554d58fba1b629d2c86b04646.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428038520320299188",
+      "type": "Reply",
+      "timestamp": "2025-10-15T10:15:14.917-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure of the technical details.  That should be part of the actual PR that implemented it (check the #\uD83D\uDCE3・announcements channel for the links; if you're able to read the code, you can find the answer for yourself right now).  Or alternately ask this in the #☯・rao channel so that one of the smarter code/dev types can answer it. : )",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️‍\uD83D\uDD25",
+            "code": "heart_on_fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764-fe0f-200d-1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1250468492222664772",
+              "name": "sebyverse",
+              "discriminator": "0000",
+              "nickname": "Seby | SN46 RESI",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1250468492222664772/e327f9858c635824a0bf3d4d8e25489f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1250468492222664772",
+          "name": "sebyverse",
+          "discriminator": "0000",
+          "nickname": "Seby | SN46 RESI",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1250468492222664772/e327f9858c635824a0bf3d4d8e25489f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428000873723727882",
+        "channelId": "1392960766990221312",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

@@ -1,0 +1,2121 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1368959417936252998",
+    "type": "GuildTextChat",
+    "categoryId": "1161764488186441768",
+    "category": "[・Subnets・]",
+    "name": "ε・hone・5",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T17:08:52.916-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T17:23:58.5794056-05:00",
+  "messages": [
+    {
+      "id": "1427884051779555429",
+      "type": "Reply",
+      "timestamp": "2025-10-15T00:01:26.747-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how long is there left for the competition for ARC-AGI 2.. Launch soon? How soonn..... \uD83D\uDE02",
+      "author": {
+        "id": "1404721206971596892",
+        "name": "goldenmember514",
+        "discriminator": "0000",
+        "nickname": "Ivory514",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1404721206971596892/09523fe385d436b7eb1b0cd16d2e6307.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "689802468376313879",
+          "name": "presario001",
+          "discriminator": "0000",
+          "nickname": "Presario [τ, τ]",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1403132577346490410",
+              "name": "hone・5",
+              "color": "#11806A",
+              "position": 133
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427262249738964994",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE02",
+          "code": "joy",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+        }
+      ]
+    },
+    {
+      "id": "1427988307668893829",
+      "type": "Reply",
+      "timestamp": "2025-10-15T06:55:43.288-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "less than a month i think (if you mean the Kaggle comp, which doesnt interest us much), other than that the ARC AGI 2 bench is always \"alive\" until someone reaches 85% \n\n+ If you consider ARC AGI 3 (which personally I think it's the most important version of the benchmark so far), that will officially start next year",
+      "author": {
+        "id": "689802468376313879",
+        "name": "presario001",
+        "discriminator": "0000",
+        "nickname": "Presario [τ, τ]",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "547966246486802432",
+              "name": "sirouk",
+              "discriminator": "0000",
+              "nickname": "sirouk",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/547966246486802432/271281d603b2c3e7af0910c6b00e60c5.png?size=512"
+            },
+            {
+              "id": "899701878756081795",
+              "name": "im_dinhy",
+              "discriminator": "0000",
+              "nickname": "dinhy",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/899701878756081795/904398855c3f4cdb9301bdd75da9154a.png?size=512"
+            },
+            {
+              "id": "1079758371663646790",
+              "name": "ttsheik",
+              "discriminator": "0000",
+              "nickname": "Sheik",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1079758371663646790/ecf74f53a097db9d7cdaa20b75ce97a6.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "885624142659981362",
+            "name": "bts",
+            "code": "bts",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/885624142659981362.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1404721206971596892",
+              "name": "goldenmember514",
+              "discriminator": "0000",
+              "nickname": "Ivory514",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1404721206971596892/09523fe385d436b7eb1b0cd16d2e6307.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1404721206971596892",
+          "name": "goldenmember514",
+          "discriminator": "0000",
+          "nickname": "Ivory514",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1404721206971596892/09523fe385d436b7eb1b0cd16d2e6307.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427884051779555429",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428000138365898913",
+      "type": "Reply",
+      "timestamp": "2025-10-15T07:42:43.946-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lesgoo \uD83D\uDE80",
+      "author": {
+        "id": "1079758371663646790",
+        "name": "ttsheik",
+        "discriminator": "0000",
+        "nickname": "Sheik",
+        "color": "#888888",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1079758371663646790/ecf74f53a097db9d7cdaa20b75ce97a6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "689802468376313879",
+          "name": "presario001",
+          "discriminator": "0000",
+          "nickname": "Presario [τ, τ]",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1403132577346490410",
+              "name": "hone・5",
+              "color": "#11806A",
+              "position": 133
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427988307668893829",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE80",
+          "code": "rocket",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428114165196783800",
+      "type": "Default",
+      "timestamp": "2025-10-15T15:15:50.061-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Howdy yall! we just merged the first version of the codebase https://github.com/manifold-inc/hone and we are opening up 1% incentive for our live production test! validator is running",
+      "author": {
+        "id": "135226942906433536",
+        "name": "0xcarro",
+        "discriminator": "0000",
+        "nickname": "carro [τ, ∆] - manifold labs",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1204816527271137310",
+            "name": "doge",
+            "color": "#F032C9",
+            "position": 142
+          },
+          {
+            "id": "911302211726880808",
+            "name": "Tao of a million symmetries",
+            "color": null,
+            "position": 140
+          },
+          {
+            "id": "829793723013136427",
+            "name": "Server Booster",
+            "color": "#57BD84",
+            "position": 138
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/135226942906433536/7ebc0b0d2f829d37913f67515258530c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - manifold-inc/hone: Decentralized Hierarchal Pretraining",
+          "url": "https://github.com/manifold-inc/hone",
+          "timestamp": null,
+          "description": "Decentralized Hierarchal Pretraining. Contribute to manifold-inc/hone development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sDKh4mDIjQw7w9TxZybACnS1HjTYa5K4gcK8CF0rxkY/https/opengraph.githubassets.com/b9b780e864994d65311bb132814b21bfe9a516f10a55c95e40339afec765a59c/manifold-inc/hone",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "141630390766010368",
+              "name": "vune",
+              "discriminator": "0000",
+              "nickname": "Vune",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/141630390766010368/2b04397c8e8508dee6aac429717a3aff.png?size=512"
+            },
+            {
+              "id": "689802468376313879",
+              "name": "presario001",
+              "discriminator": "0000",
+              "nickname": "Presario [τ, τ]",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "141630390766010368",
+              "name": "vune",
+              "discriminator": "0000",
+              "nickname": "Vune",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/141630390766010368/2b04397c8e8508dee6aac429717a3aff.png?size=512"
+            },
+            {
+              "id": "689802468376313879",
+              "name": "presario001",
+              "discriminator": "0000",
+              "nickname": "Presario [τ, τ]",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428123177447325707",
+      "type": "Reply",
+      "timestamp": "2025-10-15T15:51:38.749-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good to know.. Looking forward to see how we perform on Hone \uD83D\uDC40 :thanosdaddy:",
+      "author": {
+        "id": "1404721206971596892",
+        "name": "goldenmember514",
+        "discriminator": "0000",
+        "nickname": "Ivory514",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1404721206971596892/09523fe385d436b7eb1b0cd16d2e6307.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "689802468376313879",
+          "name": "presario001",
+          "discriminator": "0000",
+          "nickname": "Presario [τ, τ]",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1403132577346490410",
+              "name": "hone・5",
+              "color": "#11806A",
+              "position": 133
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427988307668893829",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC40",
+          "code": "eyes",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+        },
+        {
+          "id": "997302445724143626",
+          "name": "thanosdaddy",
+          "code": "thanosdaddy",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/997302445724143626.png"
+        }
+      ]
+    },
+    {
+      "id": "1428123221638774877",
+      "type": "Reply",
+      "timestamp": "2025-10-15T15:51:49.285-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "likewise!",
+      "author": {
+        "id": "135226942906433536",
+        "name": "0xcarro",
+        "discriminator": "0000",
+        "nickname": "carro [τ, ∆] - manifold labs",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1204816527271137310",
+            "name": "doge",
+            "color": "#F032C9",
+            "position": 142
+          },
+          {
+            "id": "911302211726880808",
+            "name": "Tao of a million symmetries",
+            "color": null,
+            "position": 140
+          },
+          {
+            "id": "829793723013136427",
+            "name": "Server Booster",
+            "color": "#57BD84",
+            "position": 138
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/135226942906433536/7ebc0b0d2f829d37913f67515258530c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1404721206971596892",
+          "name": "goldenmember514",
+          "discriminator": "0000",
+          "nickname": "Ivory514",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1404721206971596892/09523fe385d436b7eb1b0cd16d2e6307.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428123177447325707",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428123912339980318",
+      "type": "Default",
+      "timestamp": "2025-10-15T15:54:33.961-05:00",
+      "timestampEdited": "2025-10-15T15:54:55.183-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what kind of gpu do i need to run a miner?",
+      "author": {
+        "id": "1017769436402438265",
+        "name": "bigh3ro",
+        "discriminator": "0000",
+        "nickname": ".ca",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1364251404105158777",
+            "name": "taohash・14",
+            "color": "#11806A",
+            "position": 124
+          },
+          {
+            "id": "1407020987693793430",
+            "name": "bitkoop・16",
+            "color": "#11806A",
+            "position": 122
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1416077880529653771",
+            "name": "bounty-hunter・20",
+            "color": "#11806A",
+            "position": 118
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1286726433699532800",
+            "name": "nextplace・48",
+            "color": "#11806A",
+            "position": 92
+          },
+          {
+            "id": "1414657398630776903",
+            "name": "quantum-c・48",
+            "color": "#11806A",
+            "position": 91
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1365321384653357087",
+            "name": "liquidity・77",
+            "color": "#11806A",
+            "position": 65
+          },
+          {
+            "id": "1408463320071278755",
+            "name": "chipforge・84",
+            "color": "#11806A",
+            "position": 60
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1362451357122166905",
+            "name": "tensorprox・91",
+            "color": "#11806A",
+            "position": 53
+          },
+          {
+            "id": "1375534953873281025",
+            "name": "bettertherapy・102",
+            "color": "#11806A",
+            "position": 43
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1397240765977198593",
+            "name": "taoillium・109",
+            "color": "#11806A",
+            "position": 37
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1017769436402438265/avatars/baedf9e201016009f7ecafa004af4ebf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428124039062225127",
+      "type": "Default",
+      "timestamp": "2025-10-15T15:55:04.174-05:00",
+      "timestampEdited": "2025-10-15T15:55:09.403-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@carro [τ, ∆] - manifold labs",
+      "author": {
+        "id": "1017769436402438265",
+        "name": "bigh3ro",
+        "discriminator": "0000",
+        "nickname": ".ca",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1364251404105158777",
+            "name": "taohash・14",
+            "color": "#11806A",
+            "position": 124
+          },
+          {
+            "id": "1407020987693793430",
+            "name": "bitkoop・16",
+            "color": "#11806A",
+            "position": 122
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1416077880529653771",
+            "name": "bounty-hunter・20",
+            "color": "#11806A",
+            "position": 118
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1286726433699532800",
+            "name": "nextplace・48",
+            "color": "#11806A",
+            "position": 92
+          },
+          {
+            "id": "1414657398630776903",
+            "name": "quantum-c・48",
+            "color": "#11806A",
+            "position": 91
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1365321384653357087",
+            "name": "liquidity・77",
+            "color": "#11806A",
+            "position": 65
+          },
+          {
+            "id": "1408463320071278755",
+            "name": "chipforge・84",
+            "color": "#11806A",
+            "position": 60
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1362451357122166905",
+            "name": "tensorprox・91",
+            "color": "#11806A",
+            "position": 53
+          },
+          {
+            "id": "1375534953873281025",
+            "name": "bettertherapy・102",
+            "color": "#11806A",
+            "position": 43
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1397240765977198593",
+            "name": "taoillium・109",
+            "color": "#11806A",
+            "position": 37
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1017769436402438265/avatars/baedf9e201016009f7ecafa004af4ebf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "135226942906433536",
+          "name": "0xcarro",
+          "discriminator": "0000",
+          "nickname": "carro [τ, ∆] - manifold labs",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1295847093847720027",
+              "name": "rao",
+              "color": "#FFFFFF",
+              "position": 148
+            },
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1194085189643669587",
+              "name": "subnet-comms",
+              "color": "#3399BB",
+              "position": 145
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1204816527271137310",
+              "name": "doge",
+              "color": "#F032C9",
+              "position": 142
+            },
+            {
+              "id": "911302211726880808",
+              "name": "Tao of a million symmetries",
+              "color": null,
+              "position": 140
+            },
+            {
+              "id": "829793723013136427",
+              "name": "Server Booster",
+              "color": "#57BD84",
+              "position": 138
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/135226942906433536/7ebc0b0d2f829d37913f67515258530c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428131287826305116",
+      "type": "Reply",
+      "timestamp": "2025-10-15T16:23:52.414-05:00",
+      "timestampEdited": "2025-10-15T16:24:43.941-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's for you to decide, for now there are no constraits on the solution.\nfor example the miner starter code uses an OpenAI key to solve the arc agi 2 problems, you can:\n- use another provider\n- more prompt engineering\n- finetune your own LLM \n- try new methods like HRMs\n\nthe most important thing is to expose the endpoints needed for sending the arc agi problems, for the solution you can do whatever you want",
+      "author": {
+        "id": "689802468376313879",
+        "name": "presario001",
+        "discriminator": "0000",
+        "nickname": "Presario [τ, τ]",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017769436402438265",
+          "name": "bigh3ro",
+          "discriminator": "0000",
+          "nickname": ".ca",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1220505352953528380",
+              "name": "omron・2",
+              "color": "#11806A",
+              "position": 136
+            },
+            {
+              "id": "1222230744760455290",
+              "name": "templar・3",
+              "color": "#11806A",
+              "position": 135
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1403132577346490410",
+              "name": "hone・5",
+              "color": "#11806A",
+              "position": 133
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1217953238331166802",
+              "name": "swap・10",
+              "color": "#11806A",
+              "position": 128
+            },
+            {
+              "id": "1232380170946478201",
+              "name": "dippy・11",
+              "color": "#11806A",
+              "position": 127
+            },
+            {
+              "id": "1364251404105158777",
+              "name": "taohash・14",
+              "color": "#11806A",
+              "position": 124
+            },
+            {
+              "id": "1407020987693793430",
+              "name": "bitkoop・16",
+              "color": "#11806A",
+              "position": 122
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1416077880529653771",
+              "name": "bounty-hunter・20",
+              "color": "#11806A",
+              "position": 118
+            },
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1417148675066433536",
+              "name": "resi・46",
+              "color": "#11806A",
+              "position": 94
+            },
+            {
+              "id": "1410284436964249650",
+              "name": "reboot・47",
+              "color": "#11806A",
+              "position": 93
+            },
+            {
+              "id": "1286726433699532800",
+              "name": "nextplace・48",
+              "color": "#11806A",
+              "position": 92
+            },
+            {
+              "id": "1414657398630776903",
+              "name": "quantum-c・48",
+              "color": "#11806A",
+              "position": 91
+            },
+            {
+              "id": "1291754767240007690",
+              "name": "lium-io・51",
+              "color": "#11806A",
+              "position": 88
+            },
+            {
+              "id": "1394342240654196766",
+              "name": "inactive・66",
+              "color": "#11806A",
+              "position": 73
+            },
+            {
+              "id": "1412064332082188410",
+              "name": "tenex・67",
+              "color": "#11806A",
+              "position": 72
+            },
+            {
+              "id": "1349127990910386238",
+              "name": "streetvision・72",
+              "color": "#11806A",
+              "position": 68
+            },
+            {
+              "id": "1264940164074045520",
+              "name": "safe-scan・76",
+              "color": "#11806A",
+              "position": 66
+            },
+            {
+              "id": "1365321384653357087",
+              "name": "liquidity・77",
+              "color": "#11806A",
+              "position": 65
+            },
+            {
+              "id": "1408463320071278755",
+              "name": "chipforge・84",
+              "color": "#11806A",
+              "position": 60
+            },
+            {
+              "id": "1342559449717407824",
+              "name": "vidaio・85",
+              "color": "#11806A",
+              "position": 59
+            },
+            {
+              "id": "1347298350092783656",
+              "name": "checkerchain・87",
+              "color": "#11806A",
+              "position": 58
+            },
+            {
+              "id": "1358857675181658263",
+              "name": "investing・88",
+              "color": "#11806A",
+              "position": 56
+            },
+            {
+              "id": "1379868219757695077",
+              "name": "infinitehash・89",
+              "color": "#11806A",
+              "position": 55
+            },
+            {
+              "id": "1362451357122166905",
+              "name": "tensorprox・91",
+              "color": "#11806A",
+              "position": 53
+            },
+            {
+              "id": "1375534953873281025",
+              "name": "bettertherapy・102",
+              "color": "#11806A",
+              "position": 43
+            },
+            {
+              "id": "1375493875250102292",
+              "name": "voidai・106",
+              "color": "#11806A",
+              "position": 40
+            },
+            {
+              "id": "1397240765977198593",
+              "name": "taoillium・109",
+              "color": "#11806A",
+              "position": 37
+            },
+            {
+              "id": "1415850901884637274",
+              "name": "taolend・116",
+              "color": "#11806A",
+              "position": 31
+            },
+            {
+              "id": "1383926660897833061",
+              "name": "sundae-bar・121",
+              "color": "#11806A",
+              "position": 28
+            },
+            {
+              "id": "1404954686477434991",
+              "name": "flyspeck・125",
+              "color": "#11806A",
+              "position": 24
+            },
+            {
+              "id": "1397257351614042262",
+              "name": "byteleap・128",
+              "color": "#11806A",
+              "position": 23
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1017769436402438265/avatars/baedf9e201016009f7ecafa004af4ebf.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428123912339980318",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428131820087677019",
+      "type": "Default",
+      "timestamp": "2025-10-15T16:25:59.315-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is there a scoreboard?",
+      "author": {
+        "id": "1296591456106053655",
+        "name": "hilbertcurve_06892",
+        "discriminator": "0000",
+        "nickname": "hilbertcurv3",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1320766571521511516",
+            "name": "precog・55",
+            "color": "#11806A",
+            "position": 84
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1374747733017235519",
+            "name": "internet・108",
+            "color": "#11806A",
+            "position": 38
+          },
+          {
+            "id": "1382378455152332944",
+            "name": "oneoneone・111",
+            "color": "#11806A",
+            "position": 35
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1296591456106053655/cd3734b840135f1e8ca090a3777652da.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428132915837141085",
+      "type": "Reply",
+      "timestamp": "2025-10-15T16:30:20.562-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we will definitely add that yes!",
+      "author": {
+        "id": "689802468376313879",
+        "name": "presario001",
+        "discriminator": "0000",
+        "nickname": "Presario [τ, τ]",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689802468376313879/f964072ec41df46c9bd591f2e952f39b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1296591456106053655",
+              "name": "hilbertcurve_06892",
+              "discriminator": "0000",
+              "nickname": "hilbertcurv3",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1296591456106053655/cd3734b840135f1e8ca090a3777652da.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1296591456106053655",
+          "name": "hilbertcurve_06892",
+          "discriminator": "0000",
+          "nickname": "hilbertcurv3",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1267512274667700296",
+              "name": "swe-rizzo・45",
+              "color": "#11806A",
+              "position": 95
+            },
+            {
+              "id": "1320766571521511516",
+              "name": "precog・55",
+              "color": "#11806A",
+              "position": 84
+            },
+            {
+              "id": "1375493875250102292",
+              "name": "voidai・106",
+              "color": "#11806A",
+              "position": 40
+            },
+            {
+              "id": "1374747733017235519",
+              "name": "internet・108",
+              "color": "#11806A",
+              "position": 38
+            },
+            {
+              "id": "1382378455152332944",
+              "name": "oneoneone・111",
+              "color": "#11806A",
+              "position": 35
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1296591456106053655/cd3734b840135f1e8ca090a3777652da.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428131820087677019",
+        "channelId": "1368959417936252998",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428142421497348239",
+      "type": "Default",
+      "timestamp": "2025-10-15T17:08:06.888-05:00",
+      "timestampEdited": "2025-10-15T17:08:54.243-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when are you gonna open 1% incentive?",
+      "author": {
+        "id": "1017769436402438265",
+        "name": "bigh3ro",
+        "discriminator": "0000",
+        "nickname": ".ca",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1364251404105158777",
+            "name": "taohash・14",
+            "color": "#11806A",
+            "position": 124
+          },
+          {
+            "id": "1407020987693793430",
+            "name": "bitkoop・16",
+            "color": "#11806A",
+            "position": 122
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1416077880529653771",
+            "name": "bounty-hunter・20",
+            "color": "#11806A",
+            "position": 118
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1410284436964249650",
+            "name": "reboot・47",
+            "color": "#11806A",
+            "position": 93
+          },
+          {
+            "id": "1286726433699532800",
+            "name": "nextplace・48",
+            "color": "#11806A",
+            "position": 92
+          },
+          {
+            "id": "1414657398630776903",
+            "name": "quantum-c・48",
+            "color": "#11806A",
+            "position": 91
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1394342240654196766",
+            "name": "inactive・66",
+            "color": "#11806A",
+            "position": 73
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1349127990910386238",
+            "name": "streetvision・72",
+            "color": "#11806A",
+            "position": 68
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1365321384653357087",
+            "name": "liquidity・77",
+            "color": "#11806A",
+            "position": 65
+          },
+          {
+            "id": "1408463320071278755",
+            "name": "chipforge・84",
+            "color": "#11806A",
+            "position": 60
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1347298350092783656",
+            "name": "checkerchain・87",
+            "color": "#11806A",
+            "position": 58
+          },
+          {
+            "id": "1358857675181658263",
+            "name": "investing・88",
+            "color": "#11806A",
+            "position": 56
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1362451357122166905",
+            "name": "tensorprox・91",
+            "color": "#11806A",
+            "position": 53
+          },
+          {
+            "id": "1375534953873281025",
+            "name": "bettertherapy・102",
+            "color": "#11806A",
+            "position": 43
+          },
+          {
+            "id": "1375493875250102292",
+            "name": "voidai・106",
+            "color": "#11806A",
+            "position": 40
+          },
+          {
+            "id": "1397240765977198593",
+            "name": "taoillium・109",
+            "color": "#11806A",
+            "position": 37
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1017769436402438265/avatars/baedf9e201016009f7ecafa004af4ebf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 12
+}

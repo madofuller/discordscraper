@@ -1,0 +1,170 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1353733529774723073",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ى・ai-facτory・80",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T15:04:22.314-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T05:59:09.6504309-05:00",
+  "messages": [
+    {
+      "id": "1428049209965150208",
+      "type": "Reply",
+      "timestamp": "2025-10-15T10:57:43.527-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Still tuned, Wen Best \uD83E\uDEF4",
+      "author": {
+        "id": "707799592913207396",
+        "name": "thepimpbehindthetint",
+        "discriminator": "0000",
+        "nickname": "Mr Moon™®©",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707799592913207396/122c99d96d8c9bb7763b47a004e9f6cf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "707799592913207396",
+              "name": "thepimpbehindthetint",
+              "discriminator": "0000",
+              "nickname": "Mr Moon™®©",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/707799592913207396/122c99d96d8c9bb7763b47a004e9f6cf.png?size=512"
+            },
+            {
+              "id": "1359215465779433512",
+              "name": "alex_746139",
+              "discriminator": "0000",
+              "nickname": "Alex",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "1373864576822808677",
+              "name": "taouzer",
+              "discriminator": "0000",
+              "nickname": "Shaman",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1373864576822808677/77d41d6246040b695e9410c92aa3a0ed.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "877911547689709639",
+          "name": "johnstone_12",
+          "discriminator": "0000",
+          "nickname": "Johnstone| TaoQuant 80",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/877911547689709639/19c3e1082bd9c4b6b7650ab1d5ace786.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1416470171593216182",
+        "channelId": "1353733529774723073",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDEF4",
+          "code": "\uD83E\uDEF4",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1faf4.svg"
+        }
+      ]
+    },
+    {
+      "id": "1428165326528577607",
+      "type": "Default",
+      "timestamp": "2025-10-15T18:39:07.873-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ai Fact: AI stands for Artificial Intelligence.",
+      "author": {
+        "id": "1373864576822808677",
+        "name": "taouzer",
+        "discriminator": "0000",
+        "nickname": "Shaman",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1373864576822808677/77d41d6246040b695e9410c92aa3a0ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

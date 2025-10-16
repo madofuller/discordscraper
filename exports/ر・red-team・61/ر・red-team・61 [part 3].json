@@ -1,0 +1,2871 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1319313447435108413",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ر・red-team・61",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-10-15T00:33:39.3576355-05:00",
+  "messages": [
+    {
+      "id": "1426352305258627132",
+      "type": "Default",
+      "timestamp": "2025-10-10T18:34:49.918-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "please check my DM",
+      "author": {
+        "id": "1343417139981451275",
+        "name": "edward072519",
+        "discriminator": "0000",
+        "nickname": "edward",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1007713047516811455",
+              "name": "javokhir",
+              "discriminator": "0000",
+              "nickname": "Javokhir | RedTeam",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426355043807789179",
+      "type": "Reply",
+      "timestamp": "2025-10-10T18:45:42.839-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commit Time is oct-10 and scored timestamp is oct-2\nIs this possible? (UID : 104, 162)",
+      "author": {
+        "id": "1286373767865434114",
+        "name": "kraken00408",
+        "discriminator": "0000",
+        "nickname": "Kraken",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1007713047516811455",
+          "name": "javokhir",
+          "discriminator": "0000",
+          "nickname": "Javokhir | RedTeam",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426334773378551888",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426379393994850476",
+      "type": "Reply",
+      "timestamp": "2025-10-10T20:22:28.376-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ofc IMPOSSIBLE!!!!",
+      "author": {
+        "id": "1343417139981451275",
+        "name": "edward072519",
+        "discriminator": "0000",
+        "nickname": "edward",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1286373767865434114",
+          "name": "kraken00408",
+          "discriminator": "0000",
+          "nickname": "Kraken",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426355043807789179",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426407091504943115",
+      "type": "Reply",
+      "timestamp": "2025-10-10T22:12:31.977-05:00",
+      "timestampEdited": "2025-10-10T22:12:58.341-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I sorry for late replay. I’ve reviewed this submission.\n\nHe/she didn’t submit an old submission; it was a new one. You can see it in the `Digest` section and I validated script itself. However, I’m still not sure why the times are mismatching this time. \n\nThere is only two options:\n1. Issue in rendering of Dashboard\n2. It got effected by latest maintenance restarts",
+      "author": {
+        "id": "1007713047516811455",
+        "name": "javokhir",
+        "discriminator": "0000",
+        "nickname": "Javokhir | RedTeam",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1286373767865434114",
+              "name": "kraken00408",
+              "discriminator": "0000",
+              "nickname": "Kraken",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1286373767865434114",
+          "name": "kraken00408",
+          "discriminator": "0000",
+          "nickname": "Kraken",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426355043807789179",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426408619229839470",
+      "type": "Default",
+      "timestamp": "2025-10-10T22:18:36.215-05:00",
+      "timestampEdited": "2025-10-10T22:18:56.6-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "---\n\nCheck out the RedTeam repository; there’s a new **PR**. We’re launching a **new challenge **soon. It’s a new version of the Auto Browser Sniffer challenge.",
+      "author": {
+        "id": "1007713047516811455",
+        "name": "javokhir",
+        "discriminator": "0000",
+        "nickname": "Javokhir | RedTeam",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426418637706760274",
+      "type": "Default",
+      "timestamp": "2025-10-10T22:58:24.806-05:00",
+      "timestampEdited": "2025-10-10T23:01:28.758-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Good news!**\nThe next iteration of the **Auto Browser Sniffer (ab_sniffer_v4)** challenge is ready.\n\n**What’s new:**\n\n* Two new frameworks: **Botasaurus** and **Pydoll**\n* **Human-in-the-loop verification:** some requests will be routed to a real device — your miner must identify and return **“human”** as the driver in those cases\n\nCheck out the full details in the PR:\n\uD83D\uDD17 [RedTeamSubnet/RedTeam#83](https://github.com/RedTeamSubnet/RedTeam/pull/83)",
+      "author": {
+        "id": "1056593803215126568",
+        "name": "im_sokhib",
+        "discriminator": "0000",
+        "nickname": "sokhib | RedTeam",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1056593803215126568/avatars/004ecc7b2e959f59ec2d4c6a249efeb4.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1426418637819875338",
+          "url": "https://cdn.discordapp.com/attachments/1319313447435108413/1426418637819875338/Add_a_heading.png?ex=68f06d60&is=68ef1be0&hm=fd4fb08b90a3ad5dea5251e822ad8d7cdd77ecc0172c6e9651cc28590753a6d0&",
+          "fileName": "Add_a_heading.png",
+          "fileSizeBytes": 433174
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 8,
+          "users": [
+            {
+              "id": "703974633954607176",
+              "name": "limsasc",
+              "discriminator": "0000",
+              "nickname": "LimsaSC",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/703974633954607176/5892b6b2e53133e5116f5afb9b3c1c22.png?size=512"
+            },
+            {
+              "id": "869999841533648907",
+              "name": "larry_portter",
+              "discriminator": "0000",
+              "nickname": "larry_potter",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1007713047516811455",
+              "name": "javokhir",
+              "discriminator": "0000",
+              "nickname": "Javokhir | RedTeam",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1044661075649495141",
+              "name": "wayde2617",
+              "discriminator": "0000",
+              "nickname": "Wayde",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1044661075649495141/54eb804eec2757f9fdac0df6e4f3af33.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            },
+            {
+              "id": "1333383522102149121",
+              "name": "tchou_67011",
+              "discriminator": "0000",
+              "nickname": "TCHOU",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1044661075649495141",
+              "name": "wayde2617",
+              "discriminator": "0000",
+              "nickname": "Wayde",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1044661075649495141/54eb804eec2757f9fdac0df6e4f3af33.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            },
+            {
+              "id": "1333383522102149121",
+              "name": "tchou_67011",
+              "discriminator": "0000",
+              "nickname": "TCHOU",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF0B",
+            "code": "volcano",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f30b.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD69",
+            "code": "cut_of_meat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f969.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "997302442217722017",
+            "name": "stonks",
+            "code": "stonks",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/997302442217722017.png"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "Mr. Deep",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1206266527712673823",
+              "name": "oscarinnerworks",
+              "discriminator": "0000",
+              "nickname": "Oscar | RedTeam",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD17",
+          "code": "link",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+        }
+      ]
+    },
+    {
+      "id": "1426499476402475008",
+      "type": "Reply",
+      "timestamp": "2025-10-11T04:19:38.253-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When NS? \uD83D\uDC40 @sokhib | RedTeam",
+      "author": {
+        "id": "1014357091038810213",
+        "name": ".deepfuckingvalue",
+        "discriminator": "0000",
+        "nickname": "DeepValue",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1056593803215126568",
+              "name": "im_sokhib",
+              "discriminator": "0000",
+              "nickname": "sokhib | RedTeam",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1056593803215126568/avatars/004ecc7b2e959f59ec2d4c6a249efeb4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1056593803215126568",
+          "name": "im_sokhib",
+          "discriminator": "0000",
+          "nickname": "sokhib | RedTeam",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1056593803215126568/avatars/004ecc7b2e959f59ec2d4c6a249efeb4.png?size=512"
+        },
+        {
+          "id": "1206266527712673823",
+          "name": "oscarinnerworks",
+          "discriminator": "0000",
+          "nickname": "Oscar | RedTeam",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1425922637913264412",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC40",
+          "code": "eyes",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+        }
+      ]
+    },
+    {
+      "id": "1426638851945795785",
+      "type": "Reply",
+      "timestamp": "2025-10-11T13:33:27.972-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Next slot was in mid November - unless there are any changes we will be presenting then \uD83D\uDC4D",
+      "author": {
+        "id": "1206266527712673823",
+        "name": "oscarinnerworks",
+        "discriminator": "0000",
+        "nickname": "Oscar | RedTeam",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "838556213053489192",
+              "name": "mk6g",
+              "discriminator": "0000",
+              "nickname": "\uD835\uDD7D\uD835\uDD94\uD835\uDD91\uD835\uDD91",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            },
+            {
+              "id": "1007713047516811455",
+              "name": "javokhir",
+              "discriminator": "0000",
+              "nickname": "Javokhir | RedTeam",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+            },
+            {
+              "id": "1014357091038810213",
+              "name": ".deepfuckingvalue",
+              "discriminator": "0000",
+              "nickname": "DeepValue",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+            },
+            {
+              "id": "1056593803215126568",
+              "name": "im_sokhib",
+              "discriminator": "0000",
+              "nickname": "sokhib | RedTeam",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1056593803215126568/avatars/004ecc7b2e959f59ec2d4c6a249efeb4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1014357091038810213",
+          "name": ".deepfuckingvalue",
+          "discriminator": "0000",
+          "nickname": "DeepValue",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1404959073283346552",
+              "name": "subnet-claiminfo",
+              "color": "#11806A",
+              "position": 5
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426499476402475008",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4D",
+          "code": "thumbsup",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1426645238251917488",
+      "type": "Reply",
+      "timestamp": "2025-10-11T13:58:50.586-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s exciting!!!",
+      "author": {
+        "id": "1014357091038810213",
+        "name": ".deepfuckingvalue",
+        "discriminator": "0000",
+        "nickname": "DeepValue",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1206266527712673823",
+          "name": "oscarinnerworks",
+          "discriminator": "0000",
+          "nickname": "Oscar | RedTeam",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426638851945795785",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426646827134091284",
+      "type": "Default",
+      "timestamp": "2025-10-11T14:05:09.405-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Oscar | RedTeam  dm you",
+      "author": {
+        "id": "1014357091038810213",
+        "name": ".deepfuckingvalue",
+        "discriminator": "0000",
+        "nickname": "DeepValue",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014357091038810213/e477acf77717650decc93e5722849c80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1206266527712673823",
+          "name": "oscarinnerworks",
+          "discriminator": "0000",
+          "nickname": "Oscar | RedTeam",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426773903597899816",
+      "type": "Reply",
+      "timestamp": "2025-10-11T22:30:06.795-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Should reach out to Siam from dsv fund for a slot in revenue search. I'm sure he'll be excited for your work",
+      "author": {
+        "id": "838556213053489192",
+        "name": "mk6g",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDD7D\uD835\uDD94\uD835\uDD91\uD835\uDD91",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "985380350958121020",
+              "name": "spike_joe_",
+              "discriminator": "0000",
+              "nickname": "SpikeJoee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/985380350958121020/a9058079d5a9fb63770c1ed59923875d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1206266527712673823",
+          "name": "oscarinnerworks",
+          "discriminator": "0000",
+          "nickname": "Oscar | RedTeam",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1426638851945795785",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426967395435810997",
+      "type": "Default",
+      "timestamp": "2025-10-12T11:18:58.844-05:00",
+      "timestampEdited": "2025-10-12T11:19:12.769-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Javokhir | RedTeam \nHello, sorry to bother you.\nBut can you tell me why my commit is not revealed?\nI'm running the miner over 24h, but there aren't any log that the commit is revealed.\nThis is my current log.\n\n> Dendrite: dendrite(5E9YiE6bB9zDPWvoC51LNEnJC99F2zqggx82zRs4xWbFaMMn)\n> Metagraph: metagraph(netuid:61, n:256, block:6644104, network:finney)\n> Axon: Axon([::], 8091, 5E9YiE6bB9zDPWvoC51LNEnJC99F2zqggx82zRs4xWbFaMMn, stopped, ['Synapse'])\n> Running miner on uid: 130\n> Active challenges: ['ab_sniffer_v3', 'humanize_behaviour_v5', 'dev_fingerprinter_v1']\n> Miner is running.\n> Serving miner axon Axon([::], 8091, 5E9YiE6bB9zDPWvoC51LNEnJC99F2zqggx82zRs4xWbFaMMn, stopped, ['Synapse', 'Commit']) on network: wss://entrypoint-finney.opentensor.ai:443 with netuid: 61\n> Miner is running.\n> Miner is running.\n> ...",
+      "author": {
+        "id": "1237399013263937596",
+        "name": "hanshandanov_48186",
+        "discriminator": "0000",
+        "nickname": "Hans Handanov",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1007713047516811455",
+          "name": "javokhir",
+          "discriminator": "0000",
+          "nickname": "Javokhir | RedTeam",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427005098143387780",
+      "type": "Default",
+      "timestamp": "2025-10-12T13:48:47.87-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Oscar | RedTeam are you guys using RL driven agents in network ?",
+      "author": {
+        "id": "800128945369907210",
+        "name": "yash.eth.",
+        "discriminator": "0000",
+        "nickname": "Yv.dtao > = TAO",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1206266527712673823",
+          "name": "oscarinnerworks",
+          "discriminator": "0000",
+          "nickname": "Oscar | RedTeam",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427005122335998032",
+      "type": "Default",
+      "timestamp": "2025-10-12T13:48:53.638-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or developing ?",
+      "author": {
+        "id": "800128945369907210",
+        "name": "yash.eth.",
+        "discriminator": "0000",
+        "nickname": "Yv.dtao > = TAO",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427068630713106533",
+      "type": "Reply",
+      "timestamp": "2025-10-12T18:01:15.215-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’ve analyzed your case, and I don’t see any issues on either side. However, I think we need a bit more context. Are these all the logs you’re receiving? Could you please share all your logs as a `.log` file to my DM?",
+      "author": {
+        "id": "1007713047516811455",
+        "name": "javokhir",
+        "discriminator": "0000",
+        "nickname": "Javokhir | RedTeam",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1237399013263937596",
+          "name": "hanshandanov_48186",
+          "discriminator": "0000",
+          "nickname": "Hans Handanov",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1426967395435810997",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427088618526081217",
+      "type": "Default",
+      "timestamp": "2025-10-12T19:20:40.681-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Javokhir | RedTeam \nThank you for your reply.\nCheck your dm please.",
+      "author": {
+        "id": "1237399013263937596",
+        "name": "hanshandanov_48186",
+        "discriminator": "0000",
+        "nickname": "Hans Handanov",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1007713047516811455",
+              "name": "javokhir",
+              "discriminator": "0000",
+              "nickname": "Javokhir | RedTeam",
+              "color": "#6388C8",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1007713047516811455",
+          "name": "javokhir",
+          "discriminator": "0000",
+          "nickname": "Javokhir | RedTeam",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427339889426436289",
+      "type": "Default",
+      "timestamp": "2025-10-13T11:59:08.332-05:00",
+      "timestampEdited": "2025-10-13T12:00:40.284-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HI @Javokhir | RedTeam \nI submitted ab_v3 and hb_v5 on oct-9 but they are still in `Overwritten`\nCould you plz check? (uid : 13)",
+      "author": {
+        "id": "1286373767865434114",
+        "name": "kraken00408",
+        "discriminator": "0000",
+        "nickname": "Kraken",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1007713047516811455",
+          "name": "javokhir",
+          "discriminator": "0000",
+          "nickname": "Javokhir | RedTeam",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427345610528264272",
+      "type": "Reply",
+      "timestamp": "2025-10-13T12:21:52.349-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "don't worry about that",
+      "author": {
+        "id": "1343417139981451275",
+        "name": "edward072519",
+        "discriminator": "0000",
+        "nickname": "edward",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1286373767865434114",
+          "name": "kraken00408",
+          "discriminator": "0000",
+          "nickname": "Kraken",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427339889426436289",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427345889990545469",
+      "type": "Default",
+      "timestamp": "2025-10-13T12:22:58.978-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They were accepted and began receiving emissions as well.",
+      "author": {
+        "id": "1343417139981451275",
+        "name": "edward072519",
+        "discriminator": "0000",
+        "nickname": "edward",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427346008009871523",
+      "type": "Reply",
+      "timestamp": "2025-10-13T12:23:27.116-05:00",
+      "timestampEdited": "2025-10-13T12:23:31.776-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but `scored timestamp` and `validation start time` are empty for now",
+      "author": {
+        "id": "1286373767865434114",
+        "name": "kraken00408",
+        "discriminator": "0000",
+        "nickname": "Kraken",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1343417139981451275",
+          "name": "edward072519",
+          "discriminator": "0000",
+          "nickname": "edward",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1427345610528264272",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427346415457271891",
+      "type": "Reply",
+      "timestamp": "2025-10-13T12:25:04.259-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyway, your miner is getting emissions right now",
+      "author": {
+        "id": "1343417139981451275",
+        "name": "edward072519",
+        "discriminator": "0000",
+        "nickname": "edward",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "696288990009098280",
+              "name": "bloomingsg0604",
+              "discriminator": "0000",
+              "nickname": "bloomingsg0604",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            {
+              "id": "1286373767865434114",
+              "name": "kraken00408",
+              "discriminator": "0000",
+              "nickname": "Kraken",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "696288990009098280",
+              "name": "bloomingsg0604",
+              "discriminator": "0000",
+              "nickname": "bloomingsg0604",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            {
+              "id": "1286373767865434114",
+              "name": "kraken00408",
+              "discriminator": "0000",
+              "nickname": "Kraken",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1286373767865434114",
+          "name": "kraken00408",
+          "discriminator": "0000",
+          "nickname": "Kraken",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1286373767865434114/1d9e6ca5bee2d537140152e9573b21d5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427346008009871523",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427482852760748082",
+      "type": "Default",
+      "timestamp": "2025-10-13T21:27:13.447-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when would hugging face hide docker hub id? I have solution for Device Fingerprinterer which gets high score and also prepared for AB Sniffer v4. But I wouldn't push it unless they hide docker hub id. And I think, Device Fingerprinterer dose not apply softmax.",
+      "author": {
+        "id": "958768893478973500",
+        "name": "wpb119",
+        "discriminator": "0000",
+        "nickname": "William",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/958768893478973500/3b8e9699dcd2aa66dac0cf8944086f10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1152263696337350746",
+              "name": "coreytaylor0504",
+              "discriminator": "0000",
+              "nickname": "Corey",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1152263696337350746/2007cfca646ddf0128b454914ac146b2.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "code": "rofl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f923.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1343417139981451275",
+              "name": "edward072519",
+              "discriminator": "0000",
+              "nickname": "edward",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427536659272175626",
+      "type": "Default",
+      "timestamp": "2025-10-14T01:01:01.919-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can we replace cloudflare",
+      "author": {
+        "id": "389189199514959893",
+        "name": "consttt",
+        "discriminator": "0000",
+        "nickname": "consτ [τ, τ]",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1204816527271137310",
+            "name": "doge",
+            "color": "#F032C9",
+            "position": 142
+          },
+          {
+            "id": "1168570467431485480",
+            "name": "Opentensor",
+            "color": "#BC8519",
+            "position": 141
+          },
+          {
+            "id": "911302211726880808",
+            "name": "Tao of a million symmetries",
+            "color": null,
+            "position": 140
+          },
+          {
+            "id": "1366897545653125190",
+            "name": "signal・100",
+            "color": "#11806A",
+            "position": 44
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/389189199514959893/b83d2a9715f5b0e5d75ce8d17bd5e745.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427536746320494654",
+      "type": "Default",
+      "timestamp": "2025-10-14T01:01:22.673-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "389189199514959893",
+        "name": "consttt",
+        "discriminator": "0000",
+        "nickname": "consτ [τ, τ]",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1204816527271137310",
+            "name": "doge",
+            "color": "#F032C9",
+            "position": 142
+          },
+          {
+            "id": "1168570467431485480",
+            "name": "Opentensor",
+            "color": "#BC8519",
+            "position": 141
+          },
+          {
+            "id": "911302211726880808",
+            "name": "Tao of a million symmetries",
+            "color": null,
+            "position": 140
+          },
+          {
+            "id": "1366897545653125190",
+            "name": "signal・100",
+            "color": "#11806A",
+            "position": 44
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/389189199514959893/b83d2a9715f5b0e5d75ce8d17bd5e745.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1427536746102394972",
+          "url": "https://cdn.discordapp.com/attachments/1319313447435108413/1427536746102394972/IMG_6995.png?ex=68efe172&is=68ee8ff2&hm=64722bf2eab1bb745f2765874d0059119ca02d92fdd2c634751837008abfa830&",
+          "fileName": "IMG_6995.png",
+          "fileSizeBytes": 294625
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427536752909750372",
+      "type": "Default",
+      "timestamp": "2025-10-14T01:01:24.244-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This shit is so annoying",
+      "author": {
+        "id": "389189199514959893",
+        "name": "consttt",
+        "discriminator": "0000",
+        "nickname": "consτ [τ, τ]",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1204816527271137310",
+            "name": "doge",
+            "color": "#F032C9",
+            "position": 142
+          },
+          {
+            "id": "1168570467431485480",
+            "name": "Opentensor",
+            "color": "#BC8519",
+            "position": 141
+          },
+          {
+            "id": "911302211726880808",
+            "name": "Tao of a million symmetries",
+            "color": null,
+            "position": 140
+          },
+          {
+            "id": "1366897545653125190",
+            "name": "signal・100",
+            "color": "#11806A",
+            "position": 44
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/389189199514959893/b83d2a9715f5b0e5d75ce8d17bd5e745.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427650683762380971",
+      "type": "Reply",
+      "timestamp": "2025-10-14T08:34:07.476-05:00",
+      "timestampEdited": "2025-10-14T11:36:22.605-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah 100%,  just not whatever it provides for reverse proxy\n\nalso the detection rate is horrible - last time we live benchmarked 63% of approved users were still bots (major crypto exchange)",
+      "author": {
+        "id": "1206266527712673823",
+        "name": "oscarinnerworks",
+        "discriminator": "0000",
+        "nickname": "Oscar | RedTeam",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "389189199514959893",
+          "name": "consttt",
+          "discriminator": "0000",
+          "nickname": "consτ [τ, τ]",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107320868746567740",
+              "name": "Supermod",
+              "color": null,
+              "position": 159
+            },
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1295847093847720027",
+              "name": "rao",
+              "color": "#FFFFFF",
+              "position": 148
+            },
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1194085189643669587",
+              "name": "subnet-comms",
+              "color": "#3399BB",
+              "position": 145
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1204816527271137310",
+              "name": "doge",
+              "color": "#F032C9",
+              "position": 142
+            },
+            {
+              "id": "1168570467431485480",
+              "name": "Opentensor",
+              "color": "#BC8519",
+              "position": 141
+            },
+            {
+              "id": "911302211726880808",
+              "name": "Tao of a million symmetries",
+              "color": null,
+              "position": 140
+            },
+            {
+              "id": "1366897545653125190",
+              "name": "signal・100",
+              "color": "#11806A",
+              "position": 44
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/389189199514959893/b83d2a9715f5b0e5d75ce8d17bd5e745.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427536659272175626",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427719087198572554",
+      "type": "Default",
+      "timestamp": "2025-10-14T13:05:56.126-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey team!\n\nWould be great to verify your subnet metrics on Tao Revenue to make sure we are displaying them correctly. Who can I speak to regarding this? \uD83D\uDE4F",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1427719239774502982",
+      "type": "Reply",
+      "timestamp": "2025-10-14T13:06:32.503-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey feel free to dm",
+      "author": {
+        "id": "1206266527712673823",
+        "name": "oscarinnerworks",
+        "discriminator": "0000",
+        "nickname": "Oscar | RedTeam",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1347912853453013066",
+          "name": "antlerminator",
+          "discriminator": "0000",
+          "nickname": "Moose \uD83E\uDECE",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1404959073283346552",
+              "name": "subnet-claiminfo",
+              "color": "#11806A",
+              "position": 5
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427719087198572554",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427720063594659891",
+      "type": "Reply",
+      "timestamp": "2025-10-14T13:09:48.917-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LFG! Sent a DM :awesome:",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1206266527712673823",
+          "name": "oscarinnerworks",
+          "discriminator": "0000",
+          "nickname": "Oscar | RedTeam",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1319313470520557628",
+              "name": "red-team・61",
+              "color": "#11806A",
+              "position": 78
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/1206266527712673823/avatars/1122c18b8f5f27dfb1644dba71e99ad1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427719239774502982",
+        "channelId": "1319313447435108413",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "997302345224421386",
+          "name": "awesome",
+          "code": "awesome",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/997302345224421386.png"
+        }
+      ]
+    },
+    {
+      "id": "1427756525778112542",
+      "type": "Default",
+      "timestamp": "2025-10-14T15:34:42.179-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Red team is on fire \uD83D\uDD25",
+      "author": {
+        "id": "800128945369907210",
+        "name": "yash.eth.",
+        "discriminator": "0000",
+        "nickname": "Yv.dtao > = TAO",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD25",
+          "code": "fire",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+        }
+      ]
+    },
+    {
+      "id": "1427756577510658229",
+      "type": "Default",
+      "timestamp": "2025-10-14T15:34:54.513-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cloudflare replacement is a big deal on Open source",
+      "author": {
+        "id": "800128945369907210",
+        "name": "yash.eth.",
+        "discriminator": "0000",
+        "nickname": "Yv.dtao > = TAO",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427821689164795975",
+      "type": "Default",
+      "timestamp": "2025-10-14T19:53:38.341-05:00",
+      "timestampEdited": "2025-10-14T19:55:20.737-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi #ر・red-team・61 \n\nWe are pleased to announce the release of the fourth version of Auto Browser Sniffer tomorrow, along with an update to the weights. For more information, please refer to our [blog page](https://blog.theredteam.io/latest/blog/posts/an.ab_sniffer_v4/).\n\nHere is the  list of new weights:\n- ABS  0.4\n- HB    0.3\n- DFP  0.3",
+      "author": {
+        "id": "1007713047516811455",
+        "name": "javokhir",
+        "discriminator": "0000",
+        "nickname": "Javokhir | RedTeam",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1007713047516811455/cd0c72fd3dd26790f707b360c9ab66af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "696288990009098280",
+              "name": "bloomingsg0604",
+              "discriminator": "0000",
+              "nickname": "bloomingsg0604",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            {
+              "id": "1418258356442763385",
+              "name": "angel08519_148_97120",
+              "discriminator": "0000",
+              "nickname": "Ryzen AMD64",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1418258356442763385/5853202d370e1097ad5c7e2c46df21d2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 32
+}

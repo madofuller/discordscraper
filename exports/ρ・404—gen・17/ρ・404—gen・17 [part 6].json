@@ -1,0 +1,3609 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1179081290289528864",
+    "type": "GuildTextChat",
+    "categoryId": "1161764488186441768",
+    "category": "[・Subnets・]",
+    "name": "ρ・404—gen・17",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-04-29T00:22:53.921-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T20:12:36.022517-05:00",
+  "messages": [
+    {
+      "id": "1423703252427477092",
+      "type": "Default",
+      "timestamp": "2025-10-03T11:08:26.506-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Marisol!\n\nSorry for the delay - I’m a little under the weather today. Can you open a https://discord.com/channels/1065924238550237194/1387488986670436514 in our discord server so we can assist.",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1423752300039635046",
+      "type": "Default",
+      "timestamp": "2025-10-03T14:23:20.368-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@sheesh [τ, ρ] , how much TAO do I need to stake to be a validator?",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424697329340121231",
+      "type": "Default",
+      "timestamp": "2025-10-06T04:58:32.911-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When will you update 2D-3D feature?",
+      "author": {
+        "id": "1374257118831448127",
+        "name": "taylormooreinterest",
+        "discriminator": "0000",
+        "nickname": "PetterBank",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424699974872203264",
+      "type": "Reply",
+      "timestamp": "2025-10-06T05:09:03.655-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Plan is to update Validator 199 first as per: https://discord.com/channels/799672011265015819/1179081290289528864/1423031676648427551\n\nAiming for tomorrow.",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "717293689835356202",
+              "name": "mateusz.srebrny",
+              "discriminator": "0000",
+              "nickname": "mateusz [τ, μ]",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/717293689835356202/966ee6f5f6b49d309e87dd395955f0e0.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1374257118831448127",
+          "name": "taylormooreinterest",
+          "discriminator": "0000",
+          "nickname": "PetterBank",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1424697329340121231",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424721364031504384",
+      "type": "Reply",
+      "timestamp": "2025-10-06T06:34:03.228-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does that mean the prompt-3d will be deprecated?",
+      "author": {
+        "id": "699754575238004827",
+        "name": "manojbh",
+        "discriminator": "0000",
+        "nickname": "mjb09 (τ)",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1424699974872203264",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424727686537809930",
+      "type": "Reply",
+      "timestamp": "2025-10-06T06:59:10.631-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We will have both Text-to-3D and 2D-to-3D.",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "699754575238004827",
+              "name": "manojbh",
+              "discriminator": "0000",
+              "nickname": "mjb09 (τ)",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "699754575238004827",
+          "name": "manojbh",
+          "discriminator": "0000",
+          "nickname": "mjb09 (τ)",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1222230744760455290",
+              "name": "templar・3",
+              "color": "#11806A",
+              "position": 135
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1232380170946478201",
+              "name": "dippy・11",
+              "color": "#11806A",
+              "position": 127
+            },
+            {
+              "id": "1240801441480708117",
+              "name": "any-any・21",
+              "color": "#11806A",
+              "position": 117
+            },
+            {
+              "id": "1291754767240007690",
+              "name": "lium-io・51",
+              "color": "#11806A",
+              "position": 88
+            },
+            {
+              "id": "1304499734827892816",
+              "name": "dippy-speech・58",
+              "color": "#11806A",
+              "position": 81
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1424721364031504384",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424741754246140014",
+      "type": "Default",
+      "timestamp": "2025-10-06T07:55:04.634-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey folks.\nIf I have score between 0.65 - 0.85, can I survive immunity period?",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424797860918198323",
+      "type": "Reply",
+      "timestamp": "2025-10-06T11:38:01.507-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@sheesh [τ, ρ] ?",
+      "author": {
+        "id": "699754575238004827",
+        "name": "manojbh",
+        "discriminator": "0000",
+        "nickname": "mjb09 (τ)",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        },
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1424741754246140014",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424835771461927096",
+      "type": "Default",
+      "timestamp": "2025-10-06T14:08:40.085-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@sheesh [τ, ρ] I run the miner for about 2 hours, and I keep generating images. However, my incentive & emission is never improved. What's the possible reason?\nIt looks like my results are accepted by the validators.",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1424835984352088175",
+      "type": "Default",
+      "timestamp": "2025-10-06T14:09:30.842-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it because my results are too bad? \uD83D\uDE41",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE41",
+          "code": "slight_frown",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f641.svg"
+        }
+      ]
+    },
+    {
+      "id": "1424836016581251222",
+      "type": "Reply",
+      "timestamp": "2025-10-06T14:09:38.526-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Marisol! If you could share some details re you miner in our ticket then I can take look.",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1424835771461927096",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425050725695885366",
+      "type": "Default",
+      "timestamp": "2025-10-07T04:22:49.168-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Did you start 2D-to-3D feature?",
+      "author": {
+        "id": "1374257118831448127",
+        "name": "taylormooreinterest",
+        "discriminator": "0000",
+        "nickname": "PetterBank",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425066240296095867",
+      "type": "Reply",
+      "timestamp": "2025-10-07T05:24:28.137-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We are planning to update Validator 199 first later today.",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1374257118831448127",
+          "name": "taylormooreinterest",
+          "discriminator": "0000",
+          "nickname": "PetterBank",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1425050725695885366",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425090065507549215",
+      "type": "Default",
+      "timestamp": "2025-10-07T06:59:08.51-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey folks. How often do you get tasks from validator UID 49 on mainnet? I'm running base miner code and is getting the task every 2 mins. I don't know how some miners are submitting 120 results every 30 mins.",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425121083354255390",
+      "type": "Default",
+      "timestamp": "2025-10-07T09:02:23.741-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Never mind. I think I was penalized with cooldown duration of 10mins for poor result submission.",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425152858894110731",
+      "type": "Reply",
+      "timestamp": "2025-10-07T11:08:39.62-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For Miners - As per our plan to roll out **2D-to-3D** on Mainnet we have now updated Validator **UID199**. Once we are happy we will proceed with an update to Validator **UID49** \uD83D\uDE4F",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1423031676648427551",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1425199053523779818",
+      "type": "Default",
+      "timestamp": "2025-10-07T14:12:13.278-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@sheesh [τ, ρ] , is the 2D-to-3D task 10-20% of the request, or is it 100% for UID199?",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425204371469111467",
+      "type": "Reply",
+      "timestamp": "2025-10-07T14:33:21.175-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's 20% \uD83D\uDE42",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "771635827758858311",
+              "name": "pilo8772",
+              "discriminator": "0000",
+              "nickname": "pilo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/771635827758858311/a5f34123987d5542d8c574500012af3c.png?size=512"
+            },
+            {
+              "id": "1417460737948909589",
+              "name": "marisol940320",
+              "discriminator": "0000",
+              "nickname": "Marisol",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1425199053523779818",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE42",
+          "code": "slight_smile",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f642.svg"
+        }
+      ]
+    },
+    {
+      "id": "1425816523502649407",
+      "type": "Default",
+      "timestamp": "2025-10-09T07:05:49.593-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "UID49 is experiencing network issues now. Once the issues resolved it will be updated to serve 2d-to-3d tasks (20%)",
+      "author": {
+        "id": "486935511165042733",
+        "name": "mx4096",
+        "discriminator": "0000",
+        "nickname": "mx [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486935511165042733/085f42dd38cd9d7f942718881269e347.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425848886081355807",
+      "type": "Default",
+      "timestamp": "2025-10-09T09:14:25.433-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am newbie here and should I update the miner code to get high score?",
+      "author": {
+        "id": "1416468582065377431",
+        "name": "hotshot9411",
+        "discriminator": "0000",
+        "nickname": "HotShot",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1403132577346490410",
+            "name": "hone・5",
+            "color": "#11806A",
+            "position": 133
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1364251404105158777",
+            "name": "taohash・14",
+            "color": "#11806A",
+            "position": 124
+          },
+          {
+            "id": "1403069177173905600",
+            "name": "bitquant・15",
+            "color": "#11806A",
+            "position": 123
+          },
+          {
+            "id": "1407020987693793430",
+            "name": "bitkoop・16",
+            "color": "#11806A",
+            "position": 122
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1335971411407147080",
+            "name": "zeus・18",
+            "color": "#11806A",
+            "position": 120
+          },
+          {
+            "id": "1414687929544085635",
+            "name": "pending・19",
+            "color": "#11806A",
+            "position": 119
+          },
+          {
+            "id": "1416077880529653771",
+            "name": "bounty-hunter・20",
+            "color": "#11806A",
+            "position": 118
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1321148526813642782",
+            "name": "kinitro・26",
+            "color": "#11806A",
+            "position": 112
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1255568675625500732",
+            "name": "bet・30",
+            "color": "#11806A",
+            "position": 109
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1247681225255161889",
+            "name": "mind・34",
+            "color": "#11806A",
+            "position": 105
+          },
+          {
+            "id": "1415791026672500827",
+            "name": "cartha・35",
+            "color": "#11806A",
+            "position": 104
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1420486520200237137",
+            "name": "aurelius・37",
+            "color": "#11806A",
+            "position": 102
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1387866601990127728",
+            "name": "basilica・39",
+            "color": "#11806A",
+            "position": 100
+          },
+          {
+            "id": "1263142603503829034",
+            "name": "sportstensor・41",
+            "color": "#11806A",
+            "position": 99
+          },
+          {
+            "id": "1263507783286915114",
+            "name": "graphite・43",
+            "color": "#11806A",
+            "position": 97
+          },
+          {
+            "id": "1267512274667700296",
+            "name": "swe-rizzo・45",
+            "color": "#11806A",
+            "position": 95
+          },
+          {
+            "id": "1417148675066433536",
+            "name": "resi・46",
+            "color": "#11806A",
+            "position": 94
+          },
+          {
+            "id": "1272921528572448818",
+            "name": "dojo・52",
+            "color": "#11806A",
+            "position": 87
+          },
+          {
+            "id": "1425143983725744148",
+            "name": "babelbit・59",
+            "color": "#11806A",
+            "position": 80
+          },
+          {
+            "id": "1300553409597931663",
+            "name": "bitsec・60",
+            "color": "#11806A",
+            "position": 79
+          },
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1412064332082188410",
+            "name": "tenex・67",
+            "color": "#11806A",
+            "position": 72
+          },
+          {
+            "id": "1346133673451327542",
+            "name": "nova・68",
+            "color": "#11806A",
+            "position": 71
+          },
+          {
+            "id": "1349759960719953950",
+            "name": "vericore・70",
+            "color": "#11806A",
+            "position": 70
+          },
+          {
+            "id": "1362440868035821851",
+            "name": "metahash・73",
+            "color": "#11806A",
+            "position": 67
+          },
+          {
+            "id": "1407105661363294330",
+            "name": "grail・81",
+            "color": "#11806A",
+            "position": 62
+          },
+          {
+            "id": "1343987982834864178",
+            "name": "eastworld・94",
+            "color": "#11806A",
+            "position": 50
+          },
+          {
+            "id": "1364253787543568475",
+            "name": "actual・95",
+            "color": "#11806A",
+            "position": 49
+          },
+          {
+            "id": "1370084092527513672",
+            "name": "happyai・103",
+            "color": "#11806A",
+            "position": 42
+          },
+          {
+            "id": "1329824446223220867",
+            "name": "soundsright・105",
+            "color": "#11806A",
+            "position": 41
+          },
+          {
+            "id": "1397240765977198593",
+            "name": "taoillium・109",
+            "color": "#11806A",
+            "position": 37
+          },
+          {
+            "id": "1419748252688842923",
+            "name": "rich-kids・110",
+            "color": "#11806A",
+            "position": 36
+          },
+          {
+            "id": "1382378455152332944",
+            "name": "oneoneone・111",
+            "color": "#11806A",
+            "position": 35
+          },
+          {
+            "id": "1363881889240191026",
+            "name": "taonado・113",
+            "color": "#11806A",
+            "position": 34
+          },
+          {
+            "id": "1418240117138653264",
+            "name": "level-114・114",
+            "color": "#11806A",
+            "position": 33
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1420053155525427352",
+            "name": "brainplay・117",
+            "color": "#11806A",
+            "position": 30
+          },
+          {
+            "id": "1400539417155993720",
+            "name": "affine・120",
+            "color": "#11806A",
+            "position": 29
+          },
+          {
+            "id": "1383926660897833061",
+            "name": "sundae-bar・121",
+            "color": "#11806A",
+            "position": 28
+          },
+          {
+            "id": "1375509956844978266",
+            "name": "bitrecs・122",
+            "color": "#11806A",
+            "position": 27
+          },
+          {
+            "id": "1384566209739231252",
+            "name": "mantis・123",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1386718522453004358",
+            "name": "swarm・124",
+            "color": "#11806A",
+            "position": 25
+          },
+          {
+            "id": "1404954686477434991",
+            "name": "flyspeck・125",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1416468582065377431/a6506b85e4e2d7bbd070a198e6392001.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425856450160234537",
+      "type": "Default",
+      "timestamp": "2025-10-09T09:44:28.85-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@sheesh [τ, ρ] , @mx [τ, ρ] , for the updated validators 199, and 49, are they expecting task_id in the submit result? I was wondering about this because I couldn't verify the correct behavior on testnet yesterday.",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        },
+        {
+          "id": "486935511165042733",
+          "name": "mx4096",
+          "discriminator": "0000",
+          "nickname": "mx [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1194085189643669587",
+              "name": "subnet-comms",
+              "color": "#3399BB",
+              "position": 145
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/486935511165042733/085f42dd38cd9d7f942718881269e347.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425856993243168879",
+      "type": "Reply",
+      "timestamp": "2025-10-09T09:46:38.331-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```python\n    def model_post_init(self, __context: Any) -> None:\n        # Forward compatibility: if task_id not provided, extract from task\n        if self.task_id == \"\" and self.task is not None:\n            self.task_id = self.task.id\n```\nYou can use your old code but it's better to update it and send the task_id as well.",
+      "author": {
+        "id": "486935511165042733",
+        "name": "mx4096",
+        "discriminator": "0000",
+        "nickname": "mx [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486935511165042733/085f42dd38cd9d7f942718881269e347.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1417460737948909589",
+              "name": "marisol940320",
+              "discriminator": "0000",
+              "nickname": "Marisol",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1425856450160234537",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425857790395547791",
+      "type": "Default",
+      "timestamp": "2025-10-09T09:49:48.387-05:00",
+      "timestampEdited": "2025-10-09T09:50:00.369-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is the testnet validator working fine now?",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425859843918532679",
+      "type": "Default",
+      "timestamp": "2025-10-09T09:57:57.985-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "486935511165042733",
+        "name": "mx4096",
+        "discriminator": "0000",
+        "nickname": "mx [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486935511165042733/085f42dd38cd9d7f942718881269e347.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425862464309956620",
+      "type": "Reply",
+      "timestamp": "2025-10-09T10:08:22.735-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The base miner code is not competetive. I see that you are a member of our sever so I recommend reading the minding guide we put together if you haven't already - here: https://discord.com/channels/1065924238550237194/1358810178652344473",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1416468582065377431",
+          "name": "hotshot9411",
+          "discriminator": "0000",
+          "nickname": "HotShot",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1220505352953528380",
+              "name": "omron・2",
+              "color": "#11806A",
+              "position": 136
+            },
+            {
+              "id": "1222230744760455290",
+              "name": "templar・3",
+              "color": "#11806A",
+              "position": 135
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1403132577346490410",
+              "name": "hone・5",
+              "color": "#11806A",
+              "position": 133
+            },
+            {
+              "id": "1209556251697094666",
+              "name": "infinite・6",
+              "color": "#11806A",
+              "position": 132
+            },
+            {
+              "id": "1215312184327020575",
+              "name": "subvortex ・7",
+              "color": "#11806A",
+              "position": 131
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1179152602072625182",
+              "name": "iota・9",
+              "color": "#11806A",
+              "position": 129
+            },
+            {
+              "id": "1217953238331166802",
+              "name": "swap・10",
+              "color": "#11806A",
+              "position": 128
+            },
+            {
+              "id": "1232380170946478201",
+              "name": "dippy・11",
+              "color": "#11806A",
+              "position": 127
+            },
+            {
+              "id": "1201942886669889566",
+              "name": "horde・12",
+              "color": "#11806A",
+              "position": 126
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1364251404105158777",
+              "name": "taohash・14",
+              "color": "#11806A",
+              "position": 124
+            },
+            {
+              "id": "1403069177173905600",
+              "name": "bitquant・15",
+              "color": "#11806A",
+              "position": 123
+            },
+            {
+              "id": "1407020987693793430",
+              "name": "bitkoop・16",
+              "color": "#11806A",
+              "position": 122
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1335971411407147080",
+              "name": "zeus・18",
+              "color": "#11806A",
+              "position": 120
+            },
+            {
+              "id": "1414687929544085635",
+              "name": "pending・19",
+              "color": "#11806A",
+              "position": 119
+            },
+            {
+              "id": "1416077880529653771",
+              "name": "bounty-hunter・20",
+              "color": "#11806A",
+              "position": 118
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1237015889690234910",
+              "name": "mainframe・25",
+              "color": "#11806A",
+              "position": 113
+            },
+            {
+              "id": "1321148526813642782",
+              "name": "kinitro・26",
+              "color": "#11806A",
+              "position": 112
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1255568675625500732",
+              "name": "bet・30",
+              "color": "#11806A",
+              "position": 109
+            },
+            {
+              "id": "1361421652122145010",
+              "name": "candles・31",
+              "color": "#11806A",
+              "position": 108
+            },
+            {
+              "id": "1215319657830031380",
+              "name": "itsai・32",
+              "color": "#11806A",
+              "position": 107
+            },
+            {
+              "id": "1247681225255161889",
+              "name": "mind・34",
+              "color": "#11806A",
+              "position": 105
+            },
+            {
+              "id": "1415791026672500827",
+              "name": "cartha・35",
+              "color": "#11806A",
+              "position": 104
+            },
+            {
+              "id": "1339356430905376808",
+              "name": "autoppia ・36",
+              "color": "#11806A",
+              "position": 103
+            },
+            {
+              "id": "1420486520200237137",
+              "name": "aurelius・37",
+              "color": "#11806A",
+              "position": 102
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1387866601990127728",
+              "name": "basilica・39",
+              "color": "#11806A",
+              "position": 100
+            },
+            {
+              "id": "1263142603503829034",
+              "name": "sportstensor・41",
+              "color": "#11806A",
+              "position": 99
+            },
+            {
+              "id": "1263507783286915114",
+              "name": "graphite・43",
+              "color": "#11806A",
+              "position": 97
+            },
+            {
+              "id": "1267512274667700296",
+              "name": "swe-rizzo・45",
+              "color": "#11806A",
+              "position": 95
+            },
+            {
+              "id": "1417148675066433536",
+              "name": "resi・46",
+              "color": "#11806A",
+              "position": 94
+            },
+            {
+              "id": "1272921528572448818",
+              "name": "dojo・52",
+              "color": "#11806A",
+              "position": 87
+            },
+            {
+              "id": "1425143983725744148",
+              "name": "babelbit・59",
+              "color": "#11806A",
+              "position": 80
+            },
+            {
+              "id": "1300553409597931663",
+              "name": "bitsec・60",
+              "color": "#11806A",
+              "position": 79
+            },
+            {
+              "id": "1320814657765900322",
+              "name": "ridges・62",
+              "color": "#11806A",
+              "position": 77
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1412064332082188410",
+              "name": "tenex・67",
+              "color": "#11806A",
+              "position": 72
+            },
+            {
+              "id": "1346133673451327542",
+              "name": "nova・68",
+              "color": "#11806A",
+              "position": 71
+            },
+            {
+              "id": "1349759960719953950",
+              "name": "vericore・70",
+              "color": "#11806A",
+              "position": 70
+            },
+            {
+              "id": "1362440868035821851",
+              "name": "metahash・73",
+              "color": "#11806A",
+              "position": 67
+            },
+            {
+              "id": "1407105661363294330",
+              "name": "grail・81",
+              "color": "#11806A",
+              "position": 62
+            },
+            {
+              "id": "1343987982834864178",
+              "name": "eastworld・94",
+              "color": "#11806A",
+              "position": 50
+            },
+            {
+              "id": "1364253787543568475",
+              "name": "actual・95",
+              "color": "#11806A",
+              "position": 49
+            },
+            {
+              "id": "1370084092527513672",
+              "name": "happyai・103",
+              "color": "#11806A",
+              "position": 42
+            },
+            {
+              "id": "1329824446223220867",
+              "name": "soundsright・105",
+              "color": "#11806A",
+              "position": 41
+            },
+            {
+              "id": "1397240765977198593",
+              "name": "taoillium・109",
+              "color": "#11806A",
+              "position": 37
+            },
+            {
+              "id": "1419748252688842923",
+              "name": "rich-kids・110",
+              "color": "#11806A",
+              "position": 36
+            },
+            {
+              "id": "1382378455152332944",
+              "name": "oneoneone・111",
+              "color": "#11806A",
+              "position": 35
+            },
+            {
+              "id": "1363881889240191026",
+              "name": "taonado・113",
+              "color": "#11806A",
+              "position": 34
+            },
+            {
+              "id": "1418240117138653264",
+              "name": "level-114・114",
+              "color": "#11806A",
+              "position": 33
+            },
+            {
+              "id": "1415850901884637274",
+              "name": "taolend・116",
+              "color": "#11806A",
+              "position": 31
+            },
+            {
+              "id": "1420053155525427352",
+              "name": "brainplay・117",
+              "color": "#11806A",
+              "position": 30
+            },
+            {
+              "id": "1400539417155993720",
+              "name": "affine・120",
+              "color": "#11806A",
+              "position": 29
+            },
+            {
+              "id": "1383926660897833061",
+              "name": "sundae-bar・121",
+              "color": "#11806A",
+              "position": 28
+            },
+            {
+              "id": "1375509956844978266",
+              "name": "bitrecs・122",
+              "color": "#11806A",
+              "position": 27
+            },
+            {
+              "id": "1384566209739231252",
+              "name": "mantis・123",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1386718522453004358",
+              "name": "swarm・124",
+              "color": "#11806A",
+              "position": 25
+            },
+            {
+              "id": "1404954686477434991",
+              "name": "flyspeck・125",
+              "color": "#11806A",
+              "position": 24
+            },
+            {
+              "id": "1397257351614042262",
+              "name": "byteleap・128",
+              "color": "#11806A",
+              "position": 23
+            },
+            {
+              "id": "1404959073283346552",
+              "name": "subnet-claiminfo",
+              "color": "#11806A",
+              "position": 5
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1416468582065377431/a6506b85e4e2d7bbd070a198e6392001.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1425848886081355807",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425867477270663178",
+      "type": "Reply",
+      "timestamp": "2025-10-09T10:28:17.918-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@404-gen・17 \n\nEarlier in the week we updated Validator **UID199** as per our roll out for **2D-to-3D** on Mainnet. Please be aware that we have now also updated Validator **UID49** as planned \uD83E\uDEE1",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1423031676648427551",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDEE1",
+          "code": "\uD83E\uDEE1",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fae1.svg"
+        }
+      ]
+    },
+    {
+      "id": "1425923384147054715",
+      "type": "Default",
+      "timestamp": "2025-10-09T14:10:27.156-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@mx [τ, ρ] I'm running a miner on testnet. I'm submitting the result to UID 79, but the score is 0. Is the validator UID79 on testnet returns correct score?",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "486935511165042733",
+          "name": "mx4096",
+          "discriminator": "0000",
+          "nickname": "mx [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1194085189643669587",
+              "name": "subnet-comms",
+              "color": "#3399BB",
+              "position": 145
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/486935511165042733/085f42dd38cd9d7f942718881269e347.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425923662929989662",
+      "type": "Reply",
+      "timestamp": "2025-10-09T14:11:33.623-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "According to my tests, yes. What score your validation is giving you?",
+      "author": {
+        "id": "486935511165042733",
+        "name": "mx4096",
+        "discriminator": "0000",
+        "nickname": "mx [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1194085189643669587",
+            "name": "subnet-comms",
+            "color": "#3399BB",
+            "position": 145
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486935511165042733/085f42dd38cd9d7f942718881269e347.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1425923384147054715",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425924027029000242",
+      "type": "Default",
+      "timestamp": "2025-10-09T14:13:00.431-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm running old validation logic locally, and the score is about 0.83",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425924613606477865",
+      "type": "Default",
+      "timestamp": "2025-10-09T14:15:20.282-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I never tried new validation logic locally though",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1425943150668681318",
+      "type": "Default",
+      "timestamp": "2025-10-09T15:28:59.862-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is there anyone running a miner on testnet with uID 79? I wonder if they are getting scores back after submission.",
+      "author": {
+        "id": "1417460737948909589",
+        "name": "marisol940320",
+        "discriminator": "0000",
+        "nickname": "Marisol",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "699754575238004827",
+              "name": "manojbh",
+              "discriminator": "0000",
+              "nickname": "mjb09 (τ)",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1426402944680591451",
+      "type": "Reply",
+      "timestamp": "2025-10-10T21:56:03.297-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "New validation scores are vastly different and hardware dependent, beware",
+      "author": {
+        "id": "699754575238004827",
+        "name": "manojbh",
+        "discriminator": "0000",
+        "nickname": "mjb09 (τ)",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1232380170946478201",
+            "name": "dippy・11",
+            "color": "#11806A",
+            "position": 127
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1291754767240007690",
+            "name": "lium-io・51",
+            "color": "#11806A",
+            "position": 88
+          },
+          {
+            "id": "1304499734827892816",
+            "name": "dippy-speech・58",
+            "color": "#11806A",
+            "position": 81
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699754575238004827/e3b411ba9fe6877c3c72e6f0f8b761fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1417460737948909589",
+              "name": "marisol940320",
+              "discriminator": "0000",
+              "nickname": "Marisol",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1417460737948909589",
+          "name": "marisol940320",
+          "discriminator": "0000",
+          "nickname": "Marisol",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1425924027029000242",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427738715333198025",
+      "type": "Default",
+      "timestamp": "2025-10-14T14:23:55.838-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Mainnet Update: 2D-to-3D  \n\n@404-gen・17 \n\nOur *most* requested feature **2D-to-3D** has launched and is now live across all Validators on Mainnet :peperave: \n\nWhilst **Text-to-3D** generations have produced strong results, maintaining consistent tone and style across assets required more nuanced prompting. With **2D-to-3D** Creators can now transform 2D images into fully textured 3D models giving them ultimate creative control over their 3D Projects ✨ \n## For Miners  ⛏️ \n\n> - 20% of all Synthetic Traffic Tasks are now **2D-to-3D**.\n> - Synthetic 2D Prompts are being generated by our friends at **SN12**. For more details: https://discord.com/channels/799672011265015819/1179081290289528864/1423031676648427551\n\n**PR:** https://github.com/404-Repo/three-gen-subnet/pull/116\n\nIf you have any questions please let us know. You can find us here or you can open a ticket in our discord server: https://discord.gg/404gen\n\nTeam 404.\n:404:",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFC",
+            "code": "thumbsup_tone2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fc.svg"
+          },
+          "count": 6,
+          "users": [
+            {
+              "id": "310779853290864641",
+              "name": "vancliff",
+              "discriminator": "0000",
+              "nickname": "VanCliff",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/310779853290864641/8a62babe54da3c54164c6a1affdfab39.png?size=512"
+            },
+            {
+              "id": "381133395557613588",
+              "name": "piotrg8691",
+              "discriminator": "0000",
+              "nickname": "Piotr  [τ, μ]",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/381133395557613588/9cc4eebb4f165d1b980e39f7fbae0a0a.png?size=512"
+            },
+            {
+              "id": "515609848973623297",
+              "name": "punisher.tt",
+              "discriminator": "0000",
+              "nickname": "punisher",
+              "color": "#11806A",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/515609848973623297/e3e9f76ffbd0b3013808a4786a8a6109.png?size=512"
+            },
+            {
+              "id": "771635827758858311",
+              "name": "pilo8772",
+              "discriminator": "0000",
+              "nickname": "pilo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/771635827758858311/a5f34123987d5542d8c574500012af3c.png?size=512"
+            },
+            {
+              "id": "878121520239636550",
+              "name": "soso235",
+              "discriminator": "0000",
+              "nickname": "SoSo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/878121520239636550/97bd3c5fb1fd0a82653e9209e1ec2007.png?size=512"
+            },
+            {
+              "id": "1238429944619466797",
+              "name": "fc0101",
+              "discriminator": "0000",
+              "nickname": "FC0101",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1238429944619466797/8c24f492302692cde1d8bbc46c3bace7.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1268926469870981192",
+          "name": "peperave",
+          "code": "peperave",
+          "isAnimated": true,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1268926469870981192.gif"
+        },
+        {
+          "id": "",
+          "name": "⛏",
+          "code": "⛏",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/26cf.svg"
+        },
+        {
+          "id": "1268986251269115906",
+          "name": "404",
+          "code": "404",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1268986251269115906.png"
+        }
+      ]
+    },
+    {
+      "id": "1427759669983842355",
+      "type": "Reply",
+      "timestamp": "2025-10-14T15:47:11.816-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25",
+      "author": {
+        "id": "381133395557613588",
+        "name": "piotrg8691",
+        "discriminator": "0000",
+        "nickname": "Piotr  [τ, μ]",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381133395557613588/9cc4eebb4f165d1b980e39f7fbae0a0a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427738715333198025",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD25",
+          "code": "fire",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+        }
+      ]
+    },
+    {
+      "id": "1427987150208630916",
+      "type": "Default",
+      "timestamp": "2025-10-15T06:51:07.328-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey team!\n\nWould be great to verify your subnet metrics on Tao Revenue to make sure we are displaying them correctly. Who can I speak to regarding this? \uD83D\uDE4F",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1427990771214319697",
+      "type": "Reply",
+      "timestamp": "2025-10-15T07:05:30.643-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Moose \uD83E\uDECE if you join our discord server using the link in the announcement above and open a ticket that would be best!",
+      "author": {
+        "id": "964576823650422866",
+        "name": "canigonow",
+        "discriminator": "0000",
+        "nickname": "sheesh [τ, ρ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1347912853453013066",
+          "name": "antlerminator",
+          "discriminator": "0000",
+          "nickname": "Moose \uD83E\uDECE",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1404959073283346552",
+              "name": "subnet-claiminfo",
+              "color": "#11806A",
+              "position": 5
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427987150208630916",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427991232642158693",
+      "type": "Reply",
+      "timestamp": "2025-10-15T07:07:20.656-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On my way to do it! :awesome:",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "964576823650422866",
+              "name": "canigonow",
+              "discriminator": "0000",
+              "nickname": "sheesh [τ, ρ]",
+              "color": "#CD7672",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "964576823650422866",
+          "name": "canigonow",
+          "discriminator": "0000",
+          "nickname": "sheesh [τ, ρ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1234256450638057482",
+              "name": "404-gen・17",
+              "color": "#11806A",
+              "position": 121
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/964576823650422866/avatars/b05dfe710b5c9f4a3ba41ea1a1a2c788.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427990771214319697",
+        "channelId": "1179081290289528864",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "997302345224421386",
+          "name": "awesome",
+          "code": "awesome",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/997302345224421386.png"
+        }
+      ]
+    }
+  ],
+  "messageCount": 37
+}

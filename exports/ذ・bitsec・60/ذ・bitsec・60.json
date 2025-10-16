@@ -1,0 +1,621 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1300553352274382848",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ذ・bitsec・60",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T03:46:04.304-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T03:17:19.6384082-05:00",
+  "messages": [
+    {
+      "id": "1427960348949876756",
+      "type": "Default",
+      "timestamp": "2025-10-15T05:04:37.41-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Last night my miners on this subnet were under a ddos attack. They were being flooded with bogus http requests. \n\nI have been mining on bittensor on different subnets for 2 years now and this is the first time someone tried anything like this. There is a dirty actor trying things on this subnet so miners beware.",
+      "author": {
+        "id": "337253439631392787",
+        "name": "lordnadejde.eth",
+        "discriminator": "0000",
+        "nickname": "Lord Nadejde.eth [τ, τ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337253439631392787/016a6eab1558b4fa6f42e8b438484a4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427987390240395326",
+      "type": "Default",
+      "timestamp": "2025-10-15T06:52:04.556-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks @Lord Nadejde.eth [τ, τ] \nAlso it's not even possible to buy keys here. someone has been buying them non-stop for two days already. And combined with the DDoS attacks, that’s a bad sign for all the other miners here ⚠️ \n\n@yubo, judging by the active buying and DDoS attacks, I can predict that within a week or two this subnet will be completely dominated, and competition will be entirely destroyed through DDoS. There will be one person sitting in the subnet, taking down newcomers’ servers with DDoS as soon as they buy keys. Of course, it’s not certain, but the risk of it is very high\n\nPlease consider introducing emission burning, if the DDoS continues, and and implement DDoS protection for miners in your subnet (Bittensor has documentation on that). Without it, neither new nor existing miners — even with the best solution — will stand a chance against that rat. If my prediction comes true, only one person will be making money in this subnet — by kicking everyone else out with DDoS — and any talk about v2 im will become meaningless. \n\nEven with a better solution, new miners won’t be able to outperform someone who simply takes down their servers while having a mediocre solution. But if the rat knows that his emissions will be cut in case of a DDoS, further DDoS attacks will be pointless for him as a strategy.",
+      "author": {
+        "id": "1420788476835528844",
+        "name": "fratermoon",
+        "discriminator": "0000",
+        "nickname": "FraterMoon",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1420788476835528844/3224d2590af78be62a8b3379e5e0d6b6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "263544733442244609",
+          "name": "yubo",
+          "discriminator": "0000",
+          "nickname": "yubo",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/263544733442244609/19664324e8c7cf2d9659a98bbf5e0bf8.png?size=512"
+        },
+        {
+          "id": "337253439631392787",
+          "name": "lordnadejde.eth",
+          "discriminator": "0000",
+          "nickname": "Lord Nadejde.eth [τ, τ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1179152731554984029",
+              "name": "voiceguard・t253",
+              "color": "#11806A",
+              "position": 21
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/337253439631392787/016a6eab1558b4fa6f42e8b438484a4d.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "⚠",
+          "code": "⚠",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/26a0.svg"
+        }
+      ]
+    },
+    {
+      "id": "1427991171439001711",
+      "type": "Reply",
+      "timestamp": "2025-10-15T07:07:06.064-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think the DDoS is anything that Yubo can fix. This is a miner concern and there are ways to guard against it. I just wanted to put it out there so others are aware",
+      "author": {
+        "id": "337253439631392787",
+        "name": "lordnadejde.eth",
+        "discriminator": "0000",
+        "nickname": "Lord Nadejde.eth [τ, τ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337253439631392787/016a6eab1558b4fa6f42e8b438484a4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1420788476835528844",
+          "name": "fratermoon",
+          "discriminator": "0000",
+          "nickname": "FraterMoon",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1420788476835528844/3224d2590af78be62a8b3379e5e0d6b6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427987390240395326",
+        "channelId": "1300553352274382848",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428011428367044680",
+      "type": "Default",
+      "timestamp": "2025-10-15T08:27:35.692-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@yubo \nCan I dm you?",
+      "author": {
+        "id": "1169315921530208360",
+        "name": "larryneil1206",
+        "discriminator": "0000",
+        "nickname": "biττenleo (SocialTensor) [τ, ψ]",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1169315921530208360/ed6c4b1f09eeaa0b40e1a639d312da78.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "263544733442244609",
+          "name": "yubo",
+          "discriminator": "0000",
+          "nickname": "yubo",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/263544733442244609/19664324e8c7cf2d9659a98bbf5e0bf8.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428063478983426068",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:54:25.526-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If, in the case of domination that is reinforced by a DDoS attack\n\nBut the dishonest miner who defeated everyone and remained alone in the subnet only because of his DDoS attacks and without providing any real value will be left with nothing",
+      "author": {
+        "id": "1420788476835528844",
+        "name": "fratermoon",
+        "discriminator": "0000",
+        "nickname": "FraterMoon",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1420788476835528844/3224d2590af78be62a8b3379e5e0d6b6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "337253439631392787",
+          "name": "lordnadejde.eth",
+          "discriminator": "0000",
+          "nickname": "Lord Nadejde.eth [τ, τ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "861670873291423764",
+              "name": "Pleb",
+              "color": "#888888",
+              "position": 143
+            },
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152515758030858",
+              "name": "ptn・8",
+              "color": "#11806A",
+              "position": 130
+            },
+            {
+              "id": "1186735697537794198",
+              "name": "dataverse・13",
+              "color": "#11806A",
+              "position": 125
+            },
+            {
+              "id": "1189649199130738869",
+              "name": "desearch・22",
+              "color": "#11806A",
+              "position": 116
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1179152731554984029",
+              "name": "voiceguard・t253",
+              "color": "#11806A",
+              "position": 21
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/337253439631392787/016a6eab1558b4fa6f42e8b438484a4d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427991171439001711",
+        "channelId": "1300553352274382848",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428063986339020831",
+      "type": "Reply",
+      "timestamp": "2025-10-15T11:56:26.489-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don’t know where all of this is coming from but ok:)",
+      "author": {
+        "id": "337253439631392787",
+        "name": "lordnadejde.eth",
+        "discriminator": "0000",
+        "nickname": "Lord Nadejde.eth [τ, τ]",
+        "color": "#CD7672",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1014234618049876012",
+            "name": "Gang Signs [τ, τ]",
+            "color": "#CD7672",
+            "position": 147
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1179153349229170738",
+            "name": "neural-internet・27",
+            "color": "#11806A",
+            "position": 111
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337253439631392787/016a6eab1558b4fa6f42e8b438484a4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1420788476835528844",
+          "name": "fratermoon",
+          "discriminator": "0000",
+          "nickname": "FraterMoon",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1420788476835528844/3224d2590af78be62a8b3379e5e0d6b6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428063478983426068",
+        "channelId": "1300553352274382848",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

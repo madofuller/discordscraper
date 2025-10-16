@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1166513818957008936",
+    "type": "GuildTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "⛏・community-pool・ex13",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2023-12-08T11:04:02.937-06:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T08:21:31.5938623-05:00",
+  "messages": [],
+  "messageCount": 0
+}

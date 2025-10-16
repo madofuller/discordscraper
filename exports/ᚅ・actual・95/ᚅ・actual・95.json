@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1364253568961609859",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ᚅ・actual・95",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T13:52:57.045-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T06:09:11.4000031-05:00",
+  "messages": [],
+  "messageCount": 0
+}

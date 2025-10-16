@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1215386737661055056",
+    "type": "GuildTextChat",
+    "categoryId": "1116106508166500484",
+    "category": "[・Welcome・]",
+    "name": "❓・faq",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-08-29T10:31:05.948-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T08:21:57.0541094-05:00",
+  "messages": [],
+  "messageCount": 0
+}

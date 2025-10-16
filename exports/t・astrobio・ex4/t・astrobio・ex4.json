@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1249845979780223117",
+    "type": "GuildTextChat",
+    "categoryId": "1390356590871314532",
+    "category": "The Archives - Testnet",
+    "name": "t・astrobio・ex4",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-10-02T15:58:27.048-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T14:25:00.7902641-05:00",
+  "messages": [],
+  "messageCount": 0
+}

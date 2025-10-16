@@ -1,0 +1,306 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1407020346208682175",
+    "type": "GuildTextChat",
+    "categoryId": "1161764488186441768",
+    "category": "[・Subnets・]",
+    "name": "π・biτkoop・16",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T10:55:59.269-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T20:03:06.7500773-05:00",
+  "messages": [
+    {
+      "id": "1427933145927389195",
+      "type": "Reply",
+      "timestamp": "2025-10-15T03:16:31.704-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The first phase should be live in the next 2-4 weeks. There’ll only be a select group of merchants to test out the infrastructure, but we’re expecting to increase the numbers pretty fast.",
+      "author": {
+        "id": "1419354002327605328",
+        "name": "cosminbitkoop",
+        "discriminator": "0000",
+        "nickname": "Cosmin",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1419354002327605328/583dacc5530c3e9da8e7c38b0b51cda0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "805594580660781056",
+              "name": "pfcwintergreen",
+              "discriminator": "0000",
+              "nickname": "h0wru",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/805594580660781056/a6fcb4d0ecc95bc3f8c8b8ba6ee7a33f.png?size=512"
+            },
+            {
+              "id": "916976827044601856",
+              "name": "alcovealpha",
+              "discriminator": "0000",
+              "nickname": "Joseph K. | alcove alpha",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/916976827044601856/6cfdf39f270078362cdb8eeea161dbcb.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "916976827044601856",
+          "name": "alcovealpha",
+          "discriminator": "0000",
+          "nickname": "Joseph K. | alcove alpha",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/916976827044601856/6cfdf39f270078362cdb8eeea161dbcb.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427102453345812643",
+        "channelId": "1407020346208682175",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427934376880242708",
+      "type": "Reply",
+      "timestamp": "2025-10-15T03:21:25.186-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s not per coupon basis, it’s per affiliate link (which is different). The plan right now is to not trigger the extension automatically if the user is on an affiliate link.\n\nBy default we want the extension to be automatically enabled to maximize usage, this is an exception.\n\nAll users will eventually become miners so they’ll be incentivized to use the extension and add new coupons.",
+      "author": {
+        "id": "1419354002327605328",
+        "name": "cosminbitkoop",
+        "discriminator": "0000",
+        "nickname": "Cosmin",
+        "color": "#6388C8",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1240044184811868332",
+            "name": "subnet-support",
+            "color": "#6388C8",
+            "position": 144
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1419354002327605328/583dacc5530c3e9da8e7c38b0b51cda0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "805594580660781056",
+              "name": "pfcwintergreen",
+              "discriminator": "0000",
+              "nickname": "h0wru",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/805594580660781056/a6fcb4d0ecc95bc3f8c8b8ba6ee7a33f.png?size=512"
+            },
+            {
+              "id": "916976827044601856",
+              "name": "alcovealpha",
+              "discriminator": "0000",
+              "nickname": "Joseph K. | alcove alpha",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/916976827044601856/6cfdf39f270078362cdb8eeea161dbcb.png?size=512"
+            },
+            {
+              "id": "1068663763991023657",
+              "name": "sydneytammy",
+              "discriminator": "0000",
+              "nickname": "Sydney Tammy",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1068663763991023657/89b1ca082e2c0a67a15c5d00d7e853ee.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "804206189000785941",
+          "name": "youwishy",
+          "discriminator": "0000",
+          "nickname": "You\uD83D\uDC8EWish [τ, τ]",
+          "color": "#CD7672",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1014234618049876012",
+              "name": "Gang Signs [τ, τ]",
+              "color": "#CD7672",
+              "position": 147
+            },
+            {
+              "id": "829793723013136427",
+              "name": "Server Booster",
+              "color": "#57BD84",
+              "position": 138
+            },
+            {
+              "id": "1403069177173905600",
+              "name": "bitquant・15",
+              "color": "#11806A",
+              "position": 123
+            },
+            {
+              "id": "1321148526813642782",
+              "name": "kinitro・26",
+              "color": "#11806A",
+              "position": 112
+            },
+            {
+              "id": "1281624344560406619",
+              "name": "distributed・38",
+              "color": "#11806A",
+              "position": 101
+            },
+            {
+              "id": "1387866601990127728",
+              "name": "basilica・39",
+              "color": "#11806A",
+              "position": 100
+            },
+            {
+              "id": "1417148675066433536",
+              "name": "resi・46",
+              "color": "#11806A",
+              "position": 94
+            },
+            {
+              "id": "1351934817838567485",
+              "name": "miid・54",
+              "color": "#11806A",
+              "position": 85
+            },
+            {
+              "id": "1394342240654196766",
+              "name": "inactive・66",
+              "color": "#11806A",
+              "position": 73
+            },
+            {
+              "id": "1412064332082188410",
+              "name": "tenex・67",
+              "color": "#11806A",
+              "position": 72
+            },
+            {
+              "id": "1363881889240191026",
+              "name": "taonado・113",
+              "color": "#11806A",
+              "position": 34
+            },
+            {
+              "id": "1383926660897833061",
+              "name": "sundae-bar・121",
+              "color": "#11806A",
+              "position": 28
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/799672011265015819/users/804206189000785941/avatars/6fbf724918a674480533f790e70666f2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427323996944203937",
+        "channelId": "1407020346208682175",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

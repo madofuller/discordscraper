@@ -1,0 +1,2143 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1017833753021788251",
+    "type": "GuildTextChat",
+    "categoryId": "1017563036241891368",
+    "category": "[・International・]",
+    "name": "\uD83C\uDDE8\uD83C\uDDF3・中文",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-10-15T04:47:49.9710503-05:00",
+  "messages": [
+    {
+      "id": "1416028480927432815",
+      "type": "Default",
+      "timestamp": "2025-09-12T06:51:38.39-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "不要回应任何人发送给您的任何DMS或朋友请求（FR）。即使是作为“答复”或“跟进”，不要派人frs，也不要将人们“支持”与人接触。即使他们看起来像我，另一个Mod，Admin，OpenTensor Foundation Team成员等（他们是冒名顶替者），任何人现在都会打电话或打电话给您。而且，如果有人邀请您DM来获取“指南”或“资源”，因为他们“无法发布链接”，那就是一个骗局。最后，请勿单击“支持服务器”的链接以“打开/提高票证”  - 这也是一个骗局",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Jessica | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/faf700bce1595281caa6920ad73011a8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416028570517504040",
+      "type": "Reply",
+      "timestamp": "2025-09-12T06:51:59.75-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think so sorry, they are only in English I believe.",
+      "author": {
+        "id": "404289456938418177",
+        "name": "jessica_defiants",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/404289456938418177/10348dab3b3766cf8cd62db7db45a765.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1360411296851562527",
+          "name": "allen06217",
+          "discriminator": "0000",
+          "nickname": "Zino",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1360411296851562527/526626a3ac3144f355315b0f80757136.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1416027927094759465",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416028574967664733",
+      "type": "Default",
+      "timestamp": "2025-09-12T06:52:00.811-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "我不这么抱歉，我相信他们只是用英语。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Jessica | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/faf700bce1595281caa6920ad73011a8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416028882330456106",
+      "type": "Default",
+      "timestamp": "2025-09-12T06:53:14.092-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有官方中文文档就好了",
+      "author": {
+        "id": "1360411296851562527",
+        "name": "allen06217",
+        "discriminator": "0000",
+        "nickname": "Zino",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1360411296851562527/526626a3ac3144f355315b0f80757136.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416040567015739472",
+      "type": "Reply",
+      "timestamp": "2025-09-12T07:39:39.938-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's not that easy to \"just have chinese documentation\" it needs to be translated correctly and there is lots of stuff and complicated stuff that needs to be translated.",
+      "author": {
+        "id": "404289456938418177",
+        "name": "jessica_defiants",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/404289456938418177/10348dab3b3766cf8cd62db7db45a765.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1360411296851562527",
+          "name": "allen06217",
+          "discriminator": "0000",
+          "nickname": "Zino",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1360411296851562527/526626a3ac3144f355315b0f80757136.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1416028882330456106",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416040573466443786",
+      "type": "Default",
+      "timestamp": "2025-09-12T07:39:41.476-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“只有中文文档”需要正确翻译并不容易，并且需要翻译很多东西和复杂的东西。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Jessica | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Jessica | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/faf700bce1595281caa6920ad73011a8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416164979207442443",
+      "type": "Default",
+      "timestamp": "2025-09-12T15:54:02.116-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有人可以開始挖礦嗎？我的日誌如下。有人知道問題出在哪裡嗎？\n\nminer_whitelist_updated_threshold: 20\nssh:\n  port: masked\nexternal:\n  fixed_port: masked\nsubtensor:\n  network: finney\n  chain_endpoint: wss://entrypoint-finney.opentensor.ai:443\n  _mock: false\nlogging:\n  debug: false\n  trace: false\n  info: true\n  record_log: false\n  logging_dir: masked\nwallet:\n  name: masked\n  hotkey: masked\n  path: masked\naxon:\n  port: masked\n  ip: 0.0.0.0\n  external_port: masked\n  external_ip: masked\n  max_workers: 10\nconfig: false\nstrict: false\nno_version_checking: false\nfull_path: masked\n\n2025-09-09 14:41:28.763 | INFO | Setting up bittensor objects.\n2025-09-09 14:41:28.763 | INFO | Wallet: Wallet (Name: 'masked', Hotkey: 'masked', Path: 'masked')\n2025-09-09 14:41:28.763 | INFO | You are connecting to finney network with endpoint wss://entrypoint-finney.opentensor.ai:443.\n2025-09-09 14:41:31.727 | INFO | Connected to finney network and wss://entrypoint-finney.opentensor.ai:443.\n2025-09-09 14:41:33.279 | INFO | Metagraph: metagraph(netuid:27, n:256, block:masked, network:finney)\n2025-09-09 14:41:34.523 | INFO | Running miner on uid: masked\n2025-09-09 14:41:34.612 | INFO | Serving axon Axon(0.0.0.0, masked, masked, stopped, ['Synapse', 'Allocate', 'Challenge']) on network: wss://entrypoint-finney.opentensor.ai:443 with netuid: 27\n2025-09-09 14:41:35.200 | INFO | Starting axon server on port: masked\nwandb: Currently logged in as: masked\nwandb: Run data is saved locally in masked\nwandb: Resuming run miner-masked\n2025-09-09 14:41:43.481 | SUCCESS | Allocation made by masked\n2025-09-09 14:41:43.710 | INFO | Block: masked | Stake: masked | Trust: 0.0000 | Consensus: 0.000000 | Incentive: 0.000000 | Emission: 0.000000 | Sync_status: #masked ~ 0:05:00 | Allocated: No",
+      "author": {
+        "id": "290074833042145281",
+        "name": "yunusemremeral.",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290074833042145281/12971e859a2f15524e59dc64e58a47f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416164988719993004",
+      "type": "Default",
+      "timestamp": "2025-09-12T15:54:04.384-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有人可以开始挖矿吗？我的日志如下。有人知道问题出在哪里吗？\n\n矿工_白名单_更新_阈值：20\nSSH：\n 端口：蒙面\n外部的：\n 修复了_端口：蒙版\n副本：\n 网络：芬尼\n 链_端点：WSS://entrypoint-finney.opentensor.ai:443\n _模拟：false\n记录：\n 调试：错误\n 跟踪：false\n 信息：是的\n 记录_log：false\n 记录_dir：蒙版\n钱包：\n 名称：蒙面\n 热键：蒙面\n 路径：蒙面\nAxon：\n 端口：蒙面\n IP： 0.0.0.0\n 外部_端口：蒙版\n 外部_ip：掩盖\n 最大_工人：10\n配置：false\n严格：错误\nno_版本_检查：false\n完整_路径：蒙版\n\n2025-09-09 14:41:28.763 | info | 设置bittensor对象。\n2025-09-09 14:41:28.763 | info | 钱包：钱包（name：'basked'，hotkey：'basked'，'basked'，路径：'basked'）\n2025-09-09 14:41:28.763 | info | 您将连接到具有端点WSS://entrypoint-finney.opentensor.ai:443的Finney Network。\n2025-09-09 14:41:31.727 | info | 连接到Finney Network和WSS://entrypoint-finney.opentensor.ai:443。\n2025-09-09 14:41:33.279 | info | metagraph：metagraph（netUID：27，n：256，块：掩盖：掩盖，网络：Finney）\n2025-09-09 14:41:34.523 | info | 在UID上运行矿工：蒙版\n2025-09-09 14:41:34.612 | info | 服务Axon Axon（0.0.0.0，掩盖，掩盖，掩盖，停止，['Synapse {'Synapse', '在网络上分配', '挑战']）\n2025-09-09 14:41:35.200 | info | 在端口上启动轴突服务器：蒙版\nWANDB：目前登录AS：蒙版\nWANDB：运行数据本地保存在蒙版中\nWANDB：恢复运行矿工面罩\n2025-09-09 14:41:43.481 | 成功 | 通过蒙版进行的分配\n2025-09-09 14:41:43.710 | info | 块：掩盖 | 股份：掩盖 | 信任： 0.0000 | 共识： 0.000000 | greentive： 0.000000 | gestive： 0.000000 | 发射： 0.000000 | 发射： 0.000000 | Sync sync Sync_70} 00} | 分配：否",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Yunus Emre MERAL",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/693eac3986b69df56ef5ce597cd6508b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416166680744431707",
+      "type": "Reply",
+      "timestamp": "2025-09-12T16:00:47.794-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, have you tried asking in the subnet channel?",
+      "author": {
+        "id": "377573096825159701",
+        "name": "ivan_defiants",
+        "discriminator": "0000",
+        "nickname": "Ivan | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377573096825159701/165ddd4fc7bd8db0029df17c648f09c8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1416164988719993004",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416166685068624155",
+      "type": "Default",
+      "timestamp": "2025-09-12T16:00:48.825-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "嗨，您是否尝试在子网频道中询问？",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Ivan | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Ivan | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/aeea91ba674311973859298d20792ac5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416166879470555248",
+      "type": "Default",
+      "timestamp": "2025-09-12T16:01:35.174-05:00",
+      "timestampEdited": "2025-09-12T16:01:46.077-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, I asked but unfortunately there is no quick answer.",
+      "author": {
+        "id": "290074833042145281",
+        "name": "yunusemremeral.",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290074833042145281/12971e859a2f15524e59dc64e58a47f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416166887653380210",
+      "type": "Default",
+      "timestamp": "2025-09-12T16:01:37.125-05:00",
+      "timestampEdited": "2025-09-12T16:01:47.056-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "是的，我问，但不幸的是没有快速的答案。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Yunus Emre MERAL",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/693eac3986b69df56ef5ce597cd6508b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416167166562009238",
+      "type": "Reply",
+      "timestamp": "2025-09-12T16:02:43.622-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A friend just asked for hotkey information. I think he's going to check something. I forwarded it and am waiting for a response.",
+      "author": {
+        "id": "290074833042145281",
+        "name": "yunusemremeral.",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290074833042145281/12971e859a2f15524e59dc64e58a47f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377573096825159701",
+          "name": "ivan_defiants",
+          "discriminator": "0000",
+          "nickname": "Ivan | Biττensor CM",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/377573096825159701/165ddd4fc7bd8db0029df17c648f09c8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1416166680744431707",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416167172429975723",
+      "type": "Default",
+      "timestamp": "2025-09-12T16:02:45.021-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "一个朋友刚刚要求提供热键信息。我认为他要检查一些东西。我转发了它，正在等待回应。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Yunus Emre MERAL",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/693eac3986b69df56ef5ce597cd6508b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416167672663773214",
+      "type": "Reply",
+      "timestamp": "2025-09-12T16:04:44.286-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You need to be very careful of DMs. All unsolicited DMs or Friend requests is a scam. Ensure you do not share any sensitive information.",
+      "author": {
+        "id": "377573096825159701",
+        "name": "ivan_defiants",
+        "discriminator": "0000",
+        "nickname": "Ivan | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377573096825159701/165ddd4fc7bd8db0029df17c648f09c8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "290074833042145281",
+          "name": "yunusemremeral.",
+          "discriminator": "0000",
+          "nickname": "Yunus Emre MERAL",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/290074833042145281/12971e859a2f15524e59dc64e58a47f6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1416167166562009238",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416167677000417301",
+      "type": "Default",
+      "timestamp": "2025-09-12T16:04:45.32-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "您需要非常小心DM。所有未经请求的DM或朋友请求都是骗局。确保您不共享任何敏感信息。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Ivan | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Ivan | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/aeea91ba674311973859298d20792ac5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416167868977905695",
+      "type": "Reply",
+      "timestamp": "2025-09-12T16:05:31.091-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you very much for your warning! I do not respond to those who add or write.",
+      "author": {
+        "id": "290074833042145281",
+        "name": "yunusemremeral.",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290074833042145281/12971e859a2f15524e59dc64e58a47f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377573096825159701",
+          "name": "ivan_defiants",
+          "discriminator": "0000",
+          "nickname": "Ivan | Biττensor CM",
+          "color": "#F05D14",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1107321156891058377",
+              "name": "Moderator",
+              "color": "#F05D14",
+              "position": 149
+            },
+            {
+              "id": "1339725668627255326",
+              "name": "Role Distribution",
+              "color": null,
+              "position": 7
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/377573096825159701/165ddd4fc7bd8db0029df17c648f09c8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1416167672663773214",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416167873180860477",
+      "type": "Default",
+      "timestamp": "2025-09-12T16:05:32.093-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "非常感谢您的警告！我不回应那些添加或写作的人。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Yunus Emre MERAL",
+        "discriminator": "0000",
+        "nickname": "Yunus Emre MERAL",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/693eac3986b69df56ef5ce597cd6508b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416289604528640020",
+      "type": "Reply",
+      "timestamp": "2025-09-13T00:09:15.108-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "扩展应用钱包 bittensor wallet",
+      "author": {
+        "id": "1294226274272804885",
+        "name": "chr_0326",
+        "discriminator": "0000",
+        "nickname": "nuyoah",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "885868898283565056",
+          "name": "engineerai",
+          "discriminator": "0000",
+          "nickname": "engineer",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1179151717699432559",
+              "name": "apex・1",
+              "color": "#11806A",
+              "position": 137
+            },
+            {
+              "id": "1179152179622326312",
+              "name": "targon・4",
+              "color": "#11806A",
+              "position": 134
+            },
+            {
+              "id": "1179153349229170738",
+              "name": "neural-internet・27",
+              "color": "#11806A",
+              "position": 111
+            },
+            {
+              "id": "1263142603503829034",
+              "name": "sportstensor・41",
+              "color": "#11806A",
+              "position": 99
+            },
+            {
+              "id": "1320739375793049630",
+              "name": "chutes・64",
+              "color": "#11806A",
+              "position": 75
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/885868898283565056/6d7a87dd56edd7dd204346a50e2efb38.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1415412826700513503",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416620709844615229",
+      "type": "Default",
+      "timestamp": "2025-09-13T22:04:56.767-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有在墙内挖bittensor的大佬吗",
+      "author": {
+        "id": "1087623967247962153",
+        "name": "winchival.",
+        "discriminator": "0000",
+        "nickname": "winchival",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416695140093005857",
+      "type": "Default",
+      "timestamp": "2025-09-14T03:00:42.321-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "1404874572548800525",
+        "name": "noxen7676",
+        "discriminator": "0000",
+        "nickname": "Vera Lux",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1319313470520557628",
+            "name": "red-team・61",
+            "color": "#11806A",
+            "position": 78
+          },
+          {
+            "id": "1320814657765900322",
+            "name": "ridges・62",
+            "color": "#11806A",
+            "position": 77
+          },
+          {
+            "id": "1387178851611705416",
+            "name": "quantum-i・63",
+            "color": "#11806A",
+            "position": 76
+          },
+          {
+            "id": "1379868219757695077",
+            "name": "infinitehash・89",
+            "color": "#11806A",
+            "position": 55
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1404874572548800525/aac070815435415aa1aebe47088bf135.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1416695144018739230",
+      "type": "Default",
+      "timestamp": "2025-09-14T03:00:43.257-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "不",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Vera Lux",
+        "discriminator": "0000",
+        "nickname": "Vera Lux",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/806e22d79018f0a493fe20cf563a4595.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "756878082358378537",
+              "name": "ryancolos",
+              "discriminator": "0000",
+              "nickname": "Ryan",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/756878082358378537/05fd0d7a85a607cc4abc7857a9206261.png?size=512"
+            },
+            {
+              "id": "1087623967247962153",
+              "name": "winchival.",
+              "discriminator": "0000",
+              "nickname": "winchival",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1417356642214739979",
+      "type": "Reply",
+      "timestamp": "2025-09-15T22:49:16.717-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "一大堆啊",
+      "author": {
+        "id": "208527827283214337",
+        "name": "espoir5578",
+        "discriminator": "0000",
+        "nickname": "espoir",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1087623967247962153",
+          "name": "winchival.",
+          "discriminator": "0000",
+          "nickname": "winchival",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1416620709844615229",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1417493311920406649",
+      "type": "Reply",
+      "timestamp": "2025-09-16T07:52:21.314-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "大佬用的什么卡呢",
+      "author": {
+        "id": "1087623967247962153",
+        "name": "winchival.",
+        "discriminator": "0000",
+        "nickname": "winchival",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "208527827283214337",
+          "name": "espoir5578",
+          "discriminator": "0000",
+          "nickname": "espoir",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1179153494029115422",
+              "name": "omega・24",
+              "color": "#11806A",
+              "position": 114
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1417356642214739979",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1420345402183385168",
+      "type": "Default",
+      "timestamp": "2025-09-24T04:45:32.622-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "兄弟们这个项目怎么样",
+      "author": {
+        "id": "826658079256870954",
+        "name": "34353.bnb",
+        "discriminator": "0000",
+        "nickname": "风云",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826658079256870954/367d7e840c077c325828cacbe33fd9ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1420345432529178644",
+      "type": "Default",
+      "timestamp": "2025-09-24T04:45:39.857-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "值得购买么，国人兄弟们",
+      "author": {
+        "id": "826658079256870954",
+        "name": "34353.bnb",
+        "discriminator": "0000",
+        "nickname": "风云",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826658079256870954/367d7e840c077c325828cacbe33fd9ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1420345442834579468",
+      "type": "Default",
+      "timestamp": "2025-09-24T04:45:42.314-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "说说",
+      "author": {
+        "id": "826658079256870954",
+        "name": "34353.bnb",
+        "discriminator": "0000",
+        "nickname": "风云",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826658079256870954/367d7e840c077c325828cacbe33fd9ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1420345528851497001",
+      "type": "Default",
+      "timestamp": "2025-09-24T04:46:02.822-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "我看到大多都是赞赏的文章，也有fud的",
+      "author": {
+        "id": "826658079256870954",
+        "name": "34353.bnb",
+        "discriminator": "0000",
+        "nickname": "风云",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826658079256870954/367d7e840c077c325828cacbe33fd9ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1420416311296659687",
+      "type": "Reply",
+      "timestamp": "2025-09-24T09:27:18.672-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, and welcome.  I'm sorry, but you are in the wrong place. Discussion of price, markets, investments, or recommendations about how to invest in Bittensor or a Bittensor subnet are not allowed here.  If you are looking for information about approaching Bittensor as an investment, please consider this:\n\n**Staking in Bittensor is not designed for yield generation**.  It's a governance mechanic that drives emissions to subnets, and it's possible for the value of a subnet's token to drop relative to TAO, and for stakes to lose value relative to TAO -- meaning that when unstaking, **you could receive fewer TAO than you initially staked**.  And although several services refer to staking into a subnet as \"buying\" the subnet token (or unstaking as \"selling\"), this is **not the same thing** as buying or selling tokens on an exchange.  You acquire the subnet token by staking TAO to a validator in the subnet; you redeem the subnet's token back to TAO by unstaking.\n\nWe cannot provide you investment advice.  But we strongly recommend that you **do not stake on Bittensor until you understand Dynamic TAO,** and that you **do not try to stake to an inactive subnet, which hasn't started working and therefore is not receiving network emissions.** (You can look at Taostats.io to see if a subnet is inactive; it will have an inactive flag if it is inactive.)\n\nYou can start learning via the dTAO masterpost, here: https://discord.com/channels/799672011265015819/1215386737661055056/1298277344036786196\n\nIf you are wanting to approach Bittensor as an investment opportunity, please also consider joining the community-run dTAO Discord server, here: https://discord.gg/zT9hd3WAmG -- they can get you to explainers and info about how it works, and give you an idea of what to look for when considering subnets as investment opportunities.",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "826658079256870954",
+          "name": "34353.bnb",
+          "discriminator": "0000",
+          "nickname": "风云",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/826658079256870954/367d7e840c077c325828cacbe33fd9ed.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1420345402183385168",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1420416316631814207",
+      "type": "Default",
+      "timestamp": "2025-09-24T09:27:19.944-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "嗨，欢迎。对不起，但是您在错误的地方。这里不允许讨论有关如何投资Bittensor或Bittensor子网的价格，市场，投资或建议。如果您正在寻找有关将Bittensor作为投资接近的信息，请考虑以下方式：\n\n**在BITTENSOR中占用并不是为产量生成**而设计的。这是一种驱动子网排放的治理机制，子网令牌相对于陶的值可能会掉落，而赌注则相对于陶（Tao）而言失去价值 - 这意味着，当不存储时， **您可能会比最初固定**获得较少的tao。尽管有几种服务指的是将子网放入子网作为“购买”子网令牌（或取消存储为“销售\"), }，但这是 **与在交易所购买或销售代币不同的东西 **。\n\n我们无法为您提供投资建议。但是，我们强烈建议您 **不要在Bittensor上持有含义，直到您了解动态的tao，** ，并且您 **不会试图将不活动的子网持持持限权性，因此该子网尚未开始工作，因此没有接收网络排放。\n\n您可以开始通过DTAO Masterpost学习，此处： https://discord.com/channels/799672011265015819/1215386737661055056/1298277344036786196\n\n如果您想将Bittensor作为投资机会，也请考虑加入社区运营的DTAO Discord 服务器，此处： https://discord.gg/zT9hd3WAmG - 他们可以使您获取解释器和有关其工作原理的信息，并在将子网视为投资机会时要了解什么。",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/23612279e6c9aae82eb81264be1d9d88.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427151172157837392",
+      "type": "Default",
+      "timestamp": "2025-10-12T23:29:14.629-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "很垃圾，很多子网都是空跑，吃空饷。不作为也不做任何事情。",
+      "author": {
+        "id": "780329661552656426",
+        "name": "0xmetanative",
+        "discriminator": "0000",
+        "nickname": "0XmetaNative",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/780329661552656426/9383da819b363d70a1634aa49c3b7c16.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427158213136220160",
+      "type": "Reply",
+      "timestamp": "2025-10-12T23:57:13.329-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s why deregistrations are back",
+      "author": {
+        "id": "1049370387739320340",
+        "name": "uzor_defiants",
+        "discriminator": "0000",
+        "nickname": "Uzor | Biττensor CM",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1179151717699432559",
+            "name": "apex・1",
+            "color": "#11806A",
+            "position": 137
+          },
+          {
+            "id": "1220505352953528380",
+            "name": "omron・2",
+            "color": "#11806A",
+            "position": 136
+          },
+          {
+            "id": "1222230744760455290",
+            "name": "templar・3",
+            "color": "#11806A",
+            "position": 135
+          },
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1209556251697094666",
+            "name": "infinite・6",
+            "color": "#11806A",
+            "position": 132
+          },
+          {
+            "id": "1215312184327020575",
+            "name": "subvortex ・7",
+            "color": "#11806A",
+            "position": 131
+          },
+          {
+            "id": "1179152515758030858",
+            "name": "ptn・8",
+            "color": "#11806A",
+            "position": 130
+          },
+          {
+            "id": "1179152602072625182",
+            "name": "iota・9",
+            "color": "#11806A",
+            "position": 129
+          },
+          {
+            "id": "1217953238331166802",
+            "name": "swap・10",
+            "color": "#11806A",
+            "position": 128
+          },
+          {
+            "id": "1201942886669889566",
+            "name": "horde・12",
+            "color": "#11806A",
+            "position": 126
+          },
+          {
+            "id": "1186735697537794198",
+            "name": "dataverse・13",
+            "color": "#11806A",
+            "position": 125
+          },
+          {
+            "id": "1234256450638057482",
+            "name": "404-gen・17",
+            "color": "#11806A",
+            "position": 121
+          },
+          {
+            "id": "1240801441480708117",
+            "name": "any-any・21",
+            "color": "#11806A",
+            "position": 117
+          },
+          {
+            "id": "1189649199130738869",
+            "name": "desearch・22",
+            "color": "#11806A",
+            "position": 116
+          },
+          {
+            "id": "1191868747456204801",
+            "name": "nuance・23",
+            "color": "#11806A",
+            "position": 115
+          },
+          {
+            "id": "1179153494029115422",
+            "name": "omega・24",
+            "color": "#11806A",
+            "position": 114
+          },
+          {
+            "id": "1237015889690234910",
+            "name": "mainframe・25",
+            "color": "#11806A",
+            "position": 113
+          },
+          {
+            "id": "1263963839477583884",
+            "name": "ai-assess・29",
+            "color": "#11806A",
+            "position": 110
+          },
+          {
+            "id": "1361421652122145010",
+            "name": "candles・31",
+            "color": "#11806A",
+            "position": 108
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1237015679023059017",
+            "name": "ready・33",
+            "color": "#11806A",
+            "position": 106
+          },
+          {
+            "id": "1247681225255161889",
+            "name": "mind・34",
+            "color": "#11806A",
+            "position": 105
+          },
+          {
+            "id": "1339356430905376808",
+            "name": "autoppia ・36",
+            "color": "#11806A",
+            "position": 103
+          },
+          {
+            "id": "1281624344560406619",
+            "name": "distributed・38",
+            "color": "#11806A",
+            "position": 101
+          },
+          {
+            "id": "1263142603503829034",
+            "name": "sportstensor・41",
+            "color": "#11806A",
+            "position": 99
+          },
+          {
+            "id": "1356277672044531823",
+            "name": "polaris・49",
+            "color": "#11806A",
+            "position": 90
+          },
+          {
+            "id": "1320739375793049630",
+            "name": "chutes・64",
+            "color": "#11806A",
+            "position": 75
+          },
+          {
+            "id": "1264940164074045520",
+            "name": "safe-scan・76",
+            "color": "#11806A",
+            "position": 66
+          },
+          {
+            "id": "1342559449717407824",
+            "name": "vidaio・85",
+            "color": "#11806A",
+            "position": 59
+          },
+          {
+            "id": "1179152801474039848",
+            "name": "insights・t146",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1179152731554984029",
+            "name": "voiceguard・t253",
+            "color": "#11806A",
+            "position": 21
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1049370387739320340/5737b6e392b668709101ee858f95c453.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "780329661552656426",
+          "name": "0xmetanative",
+          "discriminator": "0000",
+          "nickname": "0XmetaNative",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/780329661552656426/9383da819b363d70a1634aa49c3b7c16.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427151172157837392",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427158227031691324",
+      "type": "Default",
+      "timestamp": "2025-10-12T23:57:16.642-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "这就是为什么注销又回来了",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Uzor | Biττensor CM",
+        "discriminator": "0000",
+        "nickname": "Uzor | Biττensor CM",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/064f74be4e3917a288ae6890edd63c9e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427292723248894013",
+      "type": "Default",
+      "timestamp": "2025-10-13T08:51:43.039-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有那些子网好一点呢",
+      "author": {
+        "id": "885917136504127610",
+        "name": "washiontan",
+        "discriminator": "0000",
+        "nickname": "washiontan",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1366897545653125190",
+            "name": "signal・100",
+            "color": "#11806A",
+            "position": 44
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/885917136504127610/8c59c2b1cbbb525020e8227c83071dff.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427295030246244392",
+      "type": "Reply",
+      "timestamp": "2025-10-13T09:00:53.07-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a pretty subjective question.  What's \"better\" for one person may not be \"better\" for another.  You'll need to research the subnets yourself, to figure out which ones are going to be better for your own goals and needs.\n\nIf you're looking at subnets for investment purposes, **please make sure you read this article in the FAQ first**: https://discord.com/channels/799672011265015819/1411009646835269744/1411009675280781433",
+      "author": {
+        "id": "1083021414136827905",
+        "name": "kat_defiants",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": "#F05D14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1107320868746567740",
+            "name": "Supermod",
+            "color": null,
+            "position": 159
+          },
+          {
+            "id": "1107321156891058377",
+            "name": "Moderator",
+            "color": "#F05D14",
+            "position": 149
+          },
+          {
+            "id": "1339725668627255326",
+            "name": "Role Distribution",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1083021414136827905/554e5ba299edd8ef5689ccaa88891573.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "885917136504127610",
+          "name": "washiontan",
+          "discriminator": "0000",
+          "nickname": "washiontan",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1366897545653125190",
+              "name": "signal・100",
+              "color": "#11806A",
+              "position": 44
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/885917136504127610/8c59c2b1cbbb525020e8227c83071dff.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427292723248894013",
+        "channelId": "1017833753021788251",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427295036558807181",
+      "type": "Default",
+      "timestamp": "2025-10-13T09:00:54.575-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "这是一个非常主观的问题。对一个人来说“更好”的东西，对另一个人来说可能并不“更好”。您需要自己研究子网，找出哪些子网更适合您自己的目标和需求。\n\n如果您出于投资目的而考虑子网， **请务必先阅读常见问题解答中的这篇文章**： https://discord.com/channels/799672011265015819/1411009646835269744/1411009675280781433",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Kat | Biττensor CM・won't DM 1st",
+        "discriminator": "0000",
+        "nickname": "Kat | Biττensor CM・won't DM 1st",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/23612279e6c9aae82eb81264be1d9d88.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427880557722730617",
+      "type": "Default",
+      "timestamp": "2025-10-14T23:47:33.699-05:00",
+      "timestampEdited": "2025-10-14T23:49:48.132-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hihi 大家！由HackQuest主办的 **Bittensor 中国巡回meetup 北京场**（10.19周日）即将开始啦 - Bittensor 联合创始人 Jacob Robert Steeves 的亲临活动，我们还邀请了AGI Open Netwrok Co-fouder & CSDN Global CMO 十倍 及 Delysium co-founderJerry Zhang，与Bittensor一起为大家探讨 DeAI 技术路径与生态机遇！欢迎感兴趣的小伙伴来报名～～",
+      "author": {
+        "id": "1427862129104654402",
+        "name": "skyeskye_skye",
+        "discriminator": "0000",
+        "nickname": "skyeskyeskye",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427951874228752496",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:30:56.879-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "這玩意兒是不是類似波卡平行鏈啊",
+      "author": {
+        "id": "328178555328528386",
+        "name": "biggmaxc",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": "#888888",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328178555328528386/8145252f311a18d2eab5f1ab2238e051.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427951879479885864",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:30:58.131-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "这玩意儿是不是类似波卡平行链啊",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Degen Midas",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/f912485cd085442c7d5939e6206bcff0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427951927596941395",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:31:09.603-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "最近發現一堆tao生態項目",
+      "author": {
+        "id": "328178555328528386",
+        "name": "biggmaxc",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": "#888888",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328178555328528386/8145252f311a18d2eab5f1ab2238e051.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427951935427706991",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:31:11.47-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有搞頭嗎",
+      "author": {
+        "id": "328178555328528386",
+        "name": "biggmaxc",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": "#888888",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328178555328528386/8145252f311a18d2eab5f1ab2238e051.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427951938250735676",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:31:12.143-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "最近发现一堆tao生态项目",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Degen Midas",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/f912485cd085442c7d5939e6206bcff0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427951939320156177",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:31:12.398-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "有搞头吗",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Degen Midas",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/f912485cd085442c7d5939e6206bcff0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427954477197033565",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:41:17.475-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Subnet怎麼玩",
+      "author": {
+        "id": "328178555328528386",
+        "name": "biggmaxc",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": "#888888",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328178555328528386/8145252f311a18d2eab5f1ab2238e051.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427954485787099248",
+      "type": "Default",
+      "timestamp": "2025-10-15T04:41:19.523-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Subnet怎么玩",
+      "author": {
+        "id": "1237145975072620574",
+        "name": "Degen Midas",
+        "discriminator": "0000",
+        "nickname": "Degen Midas",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237145975072620574/f912485cd085442c7d5939e6206bcff0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 45
+}

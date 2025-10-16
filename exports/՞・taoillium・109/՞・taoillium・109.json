@@ -1,0 +1,154 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1374389869148770425",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "՞・taoillium・109",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T06:55:11.793-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T22:20:47.5579505-05:00",
+  "messages": [
+    {
+      "id": "1427860829994483822",
+      "type": "Default",
+      "timestamp": "2025-10-14T22:29:10.242-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello, you can contact me.",
+      "author": {
+        "id": "1394258405400510464",
+        "name": "taoillium",
+        "discriminator": "0000",
+        "nickname": "Taoillium/SN109",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1394258405400510464/8892177033a0a2027b09c1ed6a5f0fb6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428007343337242666",
+      "type": "Reply",
+      "timestamp": "2025-10-15T08:11:21.745-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DMed! :awesome:",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1394258405400510464",
+          "name": "taoillium",
+          "discriminator": "0000",
+          "nickname": "Taoillium/SN109",
+          "color": "#339988",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1250100171593744455",
+              "name": "owner",
+              "color": "#339988",
+              "position": 146
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1394258405400510464/8892177033a0a2027b09c1ed6a5f0fb6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427860829994483822",
+        "channelId": "1374389869148770425",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "997302345224421386",
+          "name": "awesome",
+          "code": "awesome",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/997302345224421386.png"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

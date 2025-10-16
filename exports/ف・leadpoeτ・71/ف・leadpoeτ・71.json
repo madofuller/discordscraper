@@ -1,0 +1,382 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1349121405903573114",
+    "type": "GuildTextChat",
+    "categoryId": "1290321693427892358",
+    "category": "[・Subnets 2・]",
+    "name": "ف・leadpoeτ・71",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T11:16:47.045-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T04:34:23.0990072-05:00",
+  "messages": [
+    {
+      "id": "1428035724254515302",
+      "type": "Default",
+      "timestamp": "2025-10-15T10:04:08.283-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://x.com/leadpoetai/status/1978476037953499318?s=46",
+      "author": {
+        "id": "782764830780162078",
+        "name": "pepeleplutus",
+        "discriminator": "0000",
+        "nickname": "pepeleplutus",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1427372791015014410",
+            "name": "leadpoet・71",
+            "color": "#11806A",
+            "position": 69
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782764830780162078/5ad5ff24a9b75ea97252867cf2175b7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/leadpoetai/status/1978476037953499318?s=46",
+          "timestamp": "2025-10-15T10:00:20.412-05:00",
+          "description": "Excited for our first AMA at 3pm EST today \\- live here on X\\!\n\nComment your questions below\\.",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Leadpoet (@LeadpoetAI)",
+            "url": "https://twitter.com/leadpoetai",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4j_3KaIV85e_uguPC5Hk3KvUKEzMpprotHSOMyO8LnQ/https/pbs.twimg.com/profile_images/1910800195027095552/whUTT0Ga_200x200.jpg"
+          },
+          "footer": {
+            "text": "X",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/PTMEN2KUDPVc1f15BqpREEpYn-iIisxHLwkH_jLnaPo/https/abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428051316206469251",
+      "type": "Default",
+      "timestamp": "2025-10-15T11:06:05.694-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When can I start mining?\nWhen will GitHub be open?",
+      "author": {
+        "id": "1356174573904597103",
+        "name": "aleksandarkolkat",
+        "discriminator": "0000",
+        "nickname": "Alexsandar",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1356174573904597103/0a3dc7d1999d383d7c830d5b2dc2c868.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "782764830780162078",
+              "name": "pepeleplutus",
+              "discriminator": "0000",
+              "nickname": "pepeleplutus",
+              "color": "#339988",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/782764830780162078/5ad5ff24a9b75ea97252867cf2175b7a.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428091930373521448",
+      "type": "Default",
+      "timestamp": "2025-10-15T13:47:28.866-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://x.com/LeadpoetAI/status/1978533005195882902",
+      "author": {
+        "id": "782764830780162078",
+        "name": "pepeleplutus",
+        "discriminator": "0000",
+        "nickname": "pepeleplutus",
+        "color": "#339988",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1250100171593744455",
+            "name": "owner",
+            "color": "#339988",
+            "position": 146
+          },
+          {
+            "id": "1427372791015014410",
+            "name": "leadpoet・71",
+            "color": "#11806A",
+            "position": 69
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782764830780162078/5ad5ff24a9b75ea97252867cf2175b7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/LeadpoetAI/status/1978533005195882902",
+          "timestamp": "2025-10-15T13:46:42.461-05:00",
+          "description": "Starting our AMA shortly where we’ll be answering all things Leadpoet, tune in\\!",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Leadpoet (@LeadpoetAI)",
+            "url": "https://twitter.com/LeadpoetAI",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4j_3KaIV85e_uguPC5Hk3KvUKEzMpprotHSOMyO8LnQ/https/pbs.twimg.com/profile_images/1910800195027095552/whUTT0Ga_200x200.jpg"
+          },
+          "footer": {
+            "text": "X",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/PTMEN2KUDPVc1f15BqpREEpYn-iIisxHLwkH_jLnaPo/https/abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428122941299626135",
+      "type": "Default",
+      "timestamp": "2025-10-15T15:50:42.447-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i did not liked the AMA personally",
+      "author": {
+        "id": "800128945369907210",
+        "name": "yash.eth.",
+        "discriminator": "0000",
+        "nickname": "Yv.dtao > = TAO",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428142700737335426",
+      "type": "Default",
+      "timestamp": "2025-10-15T17:09:13.464-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In Siam we trust.",
+      "author": {
+        "id": "410372272721756161",
+        "name": "taobitt",
+        "discriminator": "0000",
+        "nickname": "Bull",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/410372272721756161/94494ffe0903218a0c1735b3f72ddbd0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428142933625929778",
+      "type": "Default",
+      "timestamp": "2025-10-15T17:10:08.989-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lesgo Shakespeares!",
+      "author": {
+        "id": "797245331091095555",
+        "name": "ginmoto84",
+        "discriminator": "0000",
+        "nickname": "Ginmoto",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797245331091095555/37ddf000bd6c9e1e7103355352eb3f2c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428148625913024672",
+      "type": "Reply",
+      "timestamp": "2025-10-15T17:32:46.136-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25",
+      "author": {
+        "id": "410372272721756161",
+        "name": "taobitt",
+        "discriminator": "0000",
+        "nickname": "Bull",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/410372272721756161/94494ffe0903218a0c1735b3f72ddbd0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "797245331091095555",
+          "name": "ginmoto84",
+          "discriminator": "0000",
+          "nickname": "Ginmoto",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/797245331091095555/37ddf000bd6c9e1e7103355352eb3f2c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1428142933625929778",
+        "channelId": "1349121405903573114",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD25",
+          "code": "fire",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 7
+}

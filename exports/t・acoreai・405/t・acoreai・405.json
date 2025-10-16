@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1404870903808000163",
+    "type": "GuildTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "t・acoreai・405",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-01T12:19:09.411-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T14:21:40.1585346-05:00",
+  "messages": [],
+  "messageCount": 0
+}

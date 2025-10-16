@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1270733850443513927",
+    "type": "GuildTextChat",
+    "categoryId": "1390356590871314532",
+    "category": "The Archives - Testnet",
+    "name": "t・palaidn・ex203",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-07-03T10:57:56.495-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T14:56:51.4432789-05:00",
+  "messages": [],
+  "messageCount": 0
+}

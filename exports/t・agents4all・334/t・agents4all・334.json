@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1357461048583655605",
+    "type": "GuildTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "t・agents4all・334",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-09-29T11:32:25.415-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T14:21:47.8097403-05:00",
+  "messages": [],
+  "messageCount": 0
+}

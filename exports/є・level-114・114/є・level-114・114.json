@@ -1,0 +1,188 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1418239987291525291",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "є・level-114・114",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T07:31:38.741-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T22:20:14.8955796-05:00",
+  "messages": [
+    {
+      "id": "1427828746496376974",
+      "type": "Default",
+      "timestamp": "2025-10-14T20:21:40.94-05:00",
+      "timestampEdited": "2025-10-14T20:22:09.475-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@AlexKSAI my miners are running fine, but all of them are deregistered after updating the plugin. What's wrong?",
+      "author": {
+        "id": "1316641787955249245",
+        "name": "pivotal_zhang",
+        "discriminator": "0000",
+        "nickname": "A Pivot Guy",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1418240117138653264",
+            "name": "level-114・114",
+            "color": "#11806A",
+            "position": 33
+          },
+          {
+            "id": "1415850901884637274",
+            "name": "taolend・116",
+            "color": "#11806A",
+            "position": 31
+          },
+          {
+            "id": "1397257351614042262",
+            "name": "byteleap・128",
+            "color": "#11806A",
+            "position": 23
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1316641787955249245/fd2464d255763f582f0c89ea21b5d380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1416715165700722728",
+          "name": "alexksai",
+          "discriminator": "0000",
+          "nickname": "AlexKSAI",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1418240117138653264",
+              "name": "level-114・114",
+              "color": "#11806A",
+              "position": 33
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1416715165700722728/3b01e8faff2fcddf0dac9964ed4f8ffe.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427930781149429842",
+      "type": "Reply",
+      "timestamp": "2025-10-15T03:07:07.897-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does the plugin works? Which version of paper should we use?",
+      "author": {
+        "id": "940141042571821076",
+        "name": "darklemon1653",
+        "discriminator": "0000",
+        "nickname": "Dark Lemon",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1417038354452582492",
+          "name": "lazvek",
+          "discriminator": "0000",
+          "nickname": "Lazvek",
+          "color": "#6388C8",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1240044184811868332",
+              "name": "subnet-support",
+              "color": "#6388C8",
+              "position": 144
+            },
+            {
+              "id": "1418240117138653264",
+              "name": "level-114・114",
+              "color": "#11806A",
+              "position": 33
+            },
+            {
+              "id": "1116135069518667860",
+              "name": "verified plus",
+              "color": null,
+              "position": 4
+            },
+            {
+              "id": "1334682522050629715",
+              "name": "verified",
+              "color": null,
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1417038354452582492/17e6f9f40b62fa989f98947c9e7fb8bc.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1427215604632256692",
+        "channelId": "1418239987291525291",
+        "guildId": "799672011265015819"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

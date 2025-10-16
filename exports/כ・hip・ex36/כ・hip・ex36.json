@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1230499299197194260",
+    "type": "GuildTextChat",
+    "categoryId": "1295435545832325140",
+    "category": "The Archives - Mainnet",
+    "name": "כ・hip・ex36",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-09-06T05:53:58.768-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T01:00:25.067639-05:00",
+  "messages": [],
+  "messageCount": 0
+}

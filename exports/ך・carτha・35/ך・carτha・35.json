@@ -1,0 +1,150 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1415790978077556906",
+    "type": "GuildTextChat",
+    "categoryId": "1161764488186441768",
+    "category": "[・Subnets・]",
+    "name": "ך・carτha・35",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T11:52:11.286-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T00:57:17.7582006-05:00",
+  "messages": [
+    {
+      "id": "1427919488073990275",
+      "type": "Default",
+      "timestamp": "2025-10-15T02:22:15.418-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://x.com/MartiniGuyYT/status/1978305105393795094?s=19\n\nGood time to attract more liquidity from CEXs",
+      "author": {
+        "id": "828132828537159691",
+        "name": "kooltek68",
+        "discriminator": "0000",
+        "nickname": "James ❤ Koolτek68",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1179152179622326312",
+            "name": "targon・4",
+            "color": "#11806A",
+            "position": 134
+          },
+          {
+            "id": "1215319657830031380",
+            "name": "itsai・32",
+            "color": "#11806A",
+            "position": 107
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/828132828537159691/b253e9a36b3adb29e926c744b2565341.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1079758371663646790",
+              "name": "ttsheik",
+              "discriminator": "0000",
+              "nickname": "Sheik",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1079758371663646790/ecf74f53a097db9d7cdaa20b75ce97a6.png?size=512"
+            },
+            {
+              "id": "1163310444723851345",
+              "name": "ron141592",
+              "discriminator": "0000",
+              "nickname": "RonX | GTV / Contango",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1163310444723851345/818c2361c9e75e9811061937318558e5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1427985392283422776",
+      "type": "Default",
+      "timestamp": "2025-10-15T06:44:08.206-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey team!\n\nWould be great to verify your subnet metrics on Tao Revenue to make sure we are displaying them correctly. Who can I speak to regarding this? \uD83D\uDE4F",
+      "author": {
+        "id": "1347912853453013066",
+        "name": "antlerminator",
+        "discriminator": "0000",
+        "nickname": "Moose \uD83E\uDECE",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1404959073283346552",
+            "name": "subnet-claiminfo",
+            "color": "#11806A",
+            "position": 5
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          },
+          {
+            "id": "1334682522050629715",
+            "name": "verified",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1347912853453013066/d4ca63d3c13c7a6539bfa1836a1a219a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

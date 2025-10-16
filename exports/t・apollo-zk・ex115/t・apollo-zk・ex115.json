@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1222672871092912262",
+    "type": "GuildTextChat",
+    "categoryId": "1390356590871314532",
+    "category": "The Archives - Testnet",
+    "name": "t・apollo-zk・ex115",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-10-03T16:28:19.187-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T14:24:52.9231897-05:00",
+  "messages": [],
+  "messageCount": 0
+}

@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1374389639225409598",
+    "type": "GuildTextChat",
+    "categoryId": "1366426072765431808",
+    "category": "[・Subnets 3・]",
+    "name": "զ・internet・108",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-13T22:35:16.112-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-15T22:24:47.8757953-05:00",
+  "messages": [],
+  "messageCount": 0
+}

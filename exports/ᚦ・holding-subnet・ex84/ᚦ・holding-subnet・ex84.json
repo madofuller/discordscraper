@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1356254998874554589",
+    "type": "GuildTextChat",
+    "categoryId": "1295435545832325140",
+    "category": "The Archives - Mainnet",
+    "name": "ᚦ・holding-subnet・ex84",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-04-11T09:35:45.179-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T06:23:29.7191841-05:00",
+  "messages": [],
+  "messageCount": 0
+}

@@ -1,0 +1,73 @@
+{
+  "guild": {
+    "id": "799672011265015819",
+    "name": "Bittensor",
+    "iconUrl": "https://cdn.discordapp.com/icons/799672011265015819/54ce73f6313a822a5e0a853d9769ec77.png?size=512"
+  },
+  "channel": {
+    "id": "1359587876563718144",
+    "type": "GuildNews",
+    "categoryId": "1116106508166500484",
+    "category": "[・Welcome・]",
+    "name": "\uD83D\uDCDC・releases",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-10-14T15:23:36.376-05:00",
+    "before": null
+  },
+  "exportedAt": "2025-10-16T12:46:45.0457762-05:00",
+  "messages": [
+    {
+      "id": "1428131573886222511",
+      "type": "Default",
+      "timestamp": "2025-10-15T16:25:00.616-05:00",
+      "timestampEdited": "2025-10-15T16:25:08.628-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Async Substrate Interface 1.5.7\n`pip install async-substrate-interface==1.5.7`\n\nImprovements:\n\nAsyncSubstrateInterface:\n - better exception handling when open subscriptions encounter timeouts\n - clear the asyncio.Queue after processing the received websocket (fixes slight memory leak)\n - more efficient query map when running fully_exhaust=True\n\nAsyncSubstrateInterface/SubstrateInterface:\n - ensures payloads passed to `_make_rpc_request` have unique IDs (could cause infinite loop if not)\n - Edge case in query_map_decode when decoding SS58s on extremely old (sub 500_000) blocks\n\n\nGH: https://github.com/opentensor/async-substrate-interface/releases/tag/v1.5.7\nSHA256: a98aad6cf1aa0238b4c00783f0ec6148d0e495906a56408832ad5b041ed7df16\u2028\nPyPI: https://pypi.org/project/async-substrate-interface/1.5.7/",
+      "author": {
+        "id": "880510689117098056",
+        "name": "bdhimes",
+        "discriminator": "0000",
+        "nickname": "bdhimes",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1295847093847720027",
+            "name": "rao",
+            "color": "#FFFFFF",
+            "position": 148
+          },
+          {
+            "id": "861670873291423764",
+            "name": "Pleb",
+            "color": "#888888",
+            "position": 143
+          },
+          {
+            "id": "1168570467431485480",
+            "name": "Opentensor",
+            "color": "#BC8519",
+            "position": 141
+          },
+          {
+            "id": "1116135069518667860",
+            "name": "verified plus",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/880510689117098056/b4f63c90b72520e2e2aaeabb666c99d0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}
