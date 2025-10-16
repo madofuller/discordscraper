@@ -48,6 +48,7 @@ logs/
 # DiscordChatExporter exports
 exports/
 *.json
+!data/json/**/*.json
 *.csv
 *.html
 
