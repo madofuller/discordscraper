@@ -46,11 +46,14 @@ ENV/
 logs/
 
 # DiscordChatExporter exports
-exports/
+# exports/ - now tracked
 *.json
 !data/json/**/*.json
+!exports/**/*.json
 *.csv
+!exports/**/*.csv
 *.html
+!exports/**/*.html
 
 # OS
 .DS_Store
